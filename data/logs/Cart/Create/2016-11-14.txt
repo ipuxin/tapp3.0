@@ -1,0 +1,6 @@
+执行日期：20161114183419
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=320300&CityName=%E5%BE%90%E5%B7%9E%E5%B8%82&UserId=5816b0996341982128df7285&ShopName=%E6%9A%96%E7%BB%92%E6%9C%8D%E9%A5%B0&ShopId=&ShopRealId=5823c8d36341980d2c4cbfdf&ProductId=26341&ProductRealId=5823e9276341980d2c4cc09c&ProductCount=1&creatTime=1479119659
+超时时间:5
+处理时间:0.018637
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5829932b6341980df8b21bf0", "CityCode" : 320300, "CityName" : "徐州市", "UserId" : "5816b0996341982128df7285", "ShopName" : "暖绒服饰", "ShopId" : "", "ShopRealId" : "5823c8d36341980d2c4cbfdf", "ProductId" : 26341, "ProductRealId" : "5823e9276341980d2c4cc09c", "ProductCount" : 1, "creatTime" : 1479119659 }] }
+

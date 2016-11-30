@@ -1,0 +1,18 @@
+执行日期：20161115215826
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=hCosVsX74yjZzTPgt3-PwQa9xFvisa0V12QBO2uQduEMLU0XNE87kj7zlXO9h2tXt_24hK6LTmCfoNzEOHbrg71aSbRSaH36aN8e1TemK8ITKNzZii_Vj45qee_BLEpsKOXjAJAFJS&openid=oE6qGwImgwBcJUW5DEjmFXPznVto&lang=zh_CN
+超时时间:5 
+处理时间:0.157007
+返回参数:{"subscribe":0,"openid":"oE6qGwImgwBcJUW5DEjmFXPznVto","unionid":"oM0FfwZCnaDle3HzbQFiftIi_YSQ","tagid_list":[]}
+
+执行日期：20161115221016
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=hCosVsX74yjZzTPgt3-PwQa9xFvisa0V12QBO2uQduEMLU0XNE87kj7zlXO9h2tXt_24hK6LTmCfoNzEOHbrg71aSbRSaH36aN8e1TemK8ITKNzZii_Vj45qee_BLEpsKOXjAJAFJS&openid=oE6qGwImgwBcJUW5DEjmFXPznVto&lang=zh_CN
+超时时间:5 
+处理时间:0.220615
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [tRUBba0016tsz9!]"}
+
+执行日期：20161115221018
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=AArRbcQM03hh6NlG3ZYmnY152uvUZzf7eU2GQnAn2WUM0KS3T7FpGSLHKpqYBzNWNIb4dTcstPmHmsWHh-7qfKSyR1FEghq2yL2LEbP8OB7yNKrqz1id9niHMV6Zap_YXIFgABAPAX&openid=oE6qGwImgwBcJUW5DEjmFXPznVto&lang=zh_CN
+超时时间:5 
+处理时间:0.336435
+返回参数:{"subscribe":0,"openid":"oE6qGwImgwBcJUW5DEjmFXPznVto","unionid":"oM0FfwZCnaDle3HzbQFiftIi_YSQ","tagid_list":[]}
+

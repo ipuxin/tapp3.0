@@ -1,0 +1,36 @@
+执行日期：20161114001534
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57fcf8866341980eb0663de0&AppLogined==1
+超时时间:5
+处理时间:0.021131
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fcf8866341980eb0663de0", "UnionId" : "oM0FfwT9wSpzq4ZmNOT4FEGS8AMM", "OpenId" : "oE6qGwDTZAt0QNuhphQ6AX9opioE", "Subscribe" : 1, "NickName" : "昱铭", "Thumbnail" : "http://wx.qlogo.cn/mmopen/PiajxSqBRaEIbvENOgw0kGOLzbjWgLFjAdDcaR3D6KSyoUqVJOZ9JL1YJIVynicHLYHPFeqPwNXXjeHcatyRamFQ/0", "UserInfo" : { "Sex" : 1, "City" : "武汉", "Province" : "湖北", "Country" : "中国", "Subscribe_time" : 1465190930 }, "Addresses" : [{ "AddressId" : "add_1476196523922", "RealName" : "盛", "Mobile" : "15518334567", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "富康小区", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161114183500
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5816b0996341982128df7285&Addresses==%5B%7B%22AddressId%22%3A%22add_1479119700994%22%2C%22RealName%22%3A%22%5Cu5f20%5Cu4e01%5Cu4e01%22%2C%22Mobile%22%3A%2213914808914%22%2C%22ProviceCode%22%3A%22320000%22%2C%22ProviceName%22%3A%22%5Cu6c5f%5Cu82cf%5Cu7701%22%2C%22CityCode%22%3A%22320300%22%2C%22CityName%22%3A%22%5Cu5f90%5Cu5dde%5Cu5e02%22%2C%22DistrictCode%22%3A%22320321%22%2C%22DistrictName%22%3A%22%5Cu4e30%5Cu53bf%22%2C%22Address%22%3A%22%5Cu5927%5Cu6c99%5Cu6cb3%5Cu9547%5Cu4e2d%5Cu901a%5Cu5feb%5Cu9012%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.013883
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816b0996341982128df7285", "UnionId" : "oM0Ffwb5i0EM_tEu7yew0biv73kg", "OpenId" : "oeNEewNONF-h6zrywUrgpUDJrX_Q", "Subscribe" : "", "NickName" : "陌上鲜果", "Thumbnail" : "http://wx.qlogo.cn/mmopen/iaK47waick8CfYWzOZeAXgvolWWwx8mCc6JrYyAo7k4XubBG4Bzdpibn5l7lPCFdChaEGck6KjwE9z4q8SncpFoZ2ibsibV4jo9Wr/0", "UserInfo" : { "Sex" : 2, "City" : "Xuzhou", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null }] }] }
+
+执行日期：20161114191727
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58299b9a6341980df8b21bf4&Addresses==%5B%7B%22AddressId%22%3A%22add_1479122247553%22%2C%22RealName%22%3A%22%5Cu51cc%5Cu4e91%5Cu4e1b%22%2C%22Mobile%22%3A%2218376676668%22%2C%22ProviceCode%22%3A%22330000%22%2C%22ProviceName%22%3A%22%5Cu6d59%5Cu6c5f%5Cu7701%22%2C%22CityCode%22%3A%22330100%22%2C%22CityName%22%3A%22%5Cu676d%5Cu5dde%5Cu5e02%22%2C%22DistrictCode%22%3A%22330104%22%2C%22DistrictName%22%3A%22%5Cu6c5f%5Cu5e72%5Cu533a%22%2C%22Address%22%3A%22%5Cu4e0b%5Cu6c99%5Cu5341%5Cu4e8c%5Cu53f7%5Cu5927%5Cu8857%5Cu4f0a%5Cu8428%5Cu53611%5Cu6a663%5Cu5355%5Cu5143%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.016988
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58299b9a6341980df8b21bf4", "UnionId" : "oM0FfwWyBA4F9yzsY925Pyo1H6Ho", "OpenId" : "oeNEewM34JOADAWp80qy7StxzHXY", "Subscribe" : "", "NickName" : "A00  summer鞋服贸易（诚招代理）", "Thumbnail" : "http://wx.qlogo.cn/mmopen/574VdhMFwaEqbp14AWk7UmictiaFEialSgXAqHBp8kB17V0DnBuZzyuILqyMMMQn9ZaRHPgHzcUeSXCmn3gibvUa7gicx40ahcQVX/0", "UserInfo" : { "Sex" : 2, "City" : "Quanzhou", "Province" : "Fujian", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479122247553", "RealName" : "凌云丛", "Mobile" : "18376676668", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330100", "CityName" : "杭州市", "DistrictCode" : "330104", "DistrictName" : "江干区", "Address" : "下沙十二号大街伊萨卡1橦3单元", "Type" : null }] }] }
+
+执行日期：20161114203824
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581fe35d634198206c661e3d&AppLogined==1
+超时时间:5
+处理时间:0.015961
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fe35d634198206c661e3d", "UnionId" : "oM0FfwVqmuLvQd5bfxn8wZRkAmbk", "OpenId" : "oeNEewDS6EVsGYkQ4FV3SQaSxG8E", "Subscribe" : "", "NickName" : "谁忆，紫禁。", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CgQLYPWCKe94bsQDOIIr1KeshkaibBX5jhJQneV2QiajBNNzWBfZ6R870fRichWYC3d0UYoy2cJKGhd/0", "UserInfo" : { "Sex" : 1, "City" : "Ganzhou", "Province" : "Jiangxi", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161114235906
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581961bd6341981b94d34c55&Addresses==%5B%5D
+超时时间:5
+处理时间:0.012789
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "UnionId" : "oM0FfwbAJ1emFbq8tUG5hkkkmvoY", "OpenId" : "oE6qGwECow_0mKz-oqlyf9fbz1R8", "Subscribe" : 1, "NickName" : "a咔咔咔", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4ChOyP2nPljFqkncIEaECnUpKLPPIYBgPHZ4GRhPehRQb2Bic650LgQO6F1uYrRLUL45yoyibsM6mYp/0", "UserInfo" : { "Sex" : 1, "City" : "Zhengzhou", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : 1459140539 }, "Addresses" : [] }] }
+
+执行日期：20161114235955
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581961bd6341981b94d34c55&Addresses==%5B%7B%22AddressId%22%3A%22add_1479139195994%22%2C%22RealName%22%3A%22%5Cu5218%22%2C%22Mobile%22%3A%2215502135420%22%2C%22ProviceCode%22%3A%22410000%22%2C%22ProviceName%22%3A%22%5Cu6cb3%5Cu5357%5Cu7701%22%2C%22CityCode%22%3A%22410100%22%2C%22CityName%22%3A%22%5Cu90d1%5Cu5dde%5Cu5e02%22%2C%22DistrictCode%22%3A%22410194%22%2C%22DistrictName%22%3A%22%5Cu9ad8%5Cu65b0%5Cu5f00%5Cu53d1%5Cu533a%22%2C%22Address%22%3A%22%5Cu5347%5Cu9f99b%5Cu5ea717%5Cu697c%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.019164
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "UnionId" : "oM0FfwbAJ1emFbq8tUG5hkkkmvoY", "OpenId" : "oE6qGwECow_0mKz-oqlyf9fbz1R8", "Subscribe" : 1, "NickName" : "a咔咔咔", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4ChOyP2nPljFqkncIEaECnUpKLPPIYBgPHZ4GRhPehRQb2Bic650LgQO6F1uYrRLUL45yoyibsM6mYp/0", "UserInfo" : { "Sex" : 1, "City" : "Zhengzhou", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : 1459140539 }, "Addresses" : [{ "AddressId" : "add_1479139195994", "RealName" : "刘", "Mobile" : "15502135420", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "升龙b座17楼", "Type" : null }] }] }
+

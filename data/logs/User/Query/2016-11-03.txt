@@ -1,0 +1,606 @@
+执行日期：20161103004947
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwU4WRJr6WhMl8259xiQOYds&$Limit=1
+超时时间:5
+处理时间:0.033743
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103004949
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwU4WRJr6WhMl8259xiQOYds&$Limit=1
+超时时间:5
+处理时间:0.024536
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103004949
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewNGp1us2yC-OyxPkEBMYVrI&$Limit=1
+超时时间:5
+处理时间:0.025343
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103075933
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=58105db063419816e839c27d&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.009163
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58105db063419816e839c27d" }], "Count" : 1 }
+
+执行日期：20161103080058
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=58105db063419816e839c27d&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.023983
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58105db063419816e839c27d" }], "Count" : 1 }
+
+执行日期：20161103080204
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=58105db063419816e839c27d&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.018053
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58105db063419816e839c27d" }], "Count" : 1 }
+
+执行日期：20161103080208
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=58105db063419816e839c27d&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.027291
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58105db063419816e839c27d", "Addresses" : [{ "AddressId" : "add_1478131324486", "RealName" : "颜晶晶", "Mobile" : "18288956411", "ProviceCode" : "530000", "ProviceName" : "云南省", "CityCode" : "530100", "CityName" : "昆明市", "DistrictCode" : "530181", "DistrictName" : "安宁市", "Address" : "太平镇万辉星城5期6栋403", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103090918
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.026314
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : [{ "AddressId" : "add_1477312384122", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "体育馆", "Type" : null }, { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }] }], "Count" : 1 }
+
+执行日期：20161103090920
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012428
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : [{ "AddressId" : "add_1477312384122", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "体育馆", "Type" : null }, { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }] }], "Count" : 1 }
+
+执行日期：20161103090924
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.030506
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : [{ "AddressId" : "add_1477312384122", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "体育馆", "Type" : null }, { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }] }], "Count" : 1 }
+
+执行日期：20161103090942
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012063
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : [{ "AddressId" : "add_1477312384122", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "体育馆", "Type" : null }, { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }] }], "Count" : 1 }
+
+执行日期：20161103091002
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017607
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : [{ "AddressId" : "add_1477312384122", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "体育馆", "Type" : null }, { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }] }], "Count" : 1 }
+
+执行日期：20161103091002
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014253
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : { "1" : { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, "2" : { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, "3" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" } } }], "Count" : 1 }
+
+执行日期：20161103091031
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38dd363419801342600ef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.018825
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38dd363419801342600ef", "Addresses" : { "1" : { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, "2" : { "AddressId" : "add_1476766020955", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "体育馆附近", "Type" : null, "RealAddress" : "江苏省泰州市海陵区体育馆附近" }, "3" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" } } }], "Count" : 1 }
+
+执行日期：20161103092751
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfWcVoNBdqS7BnyrllZFp88&$Limit=1
+超时时间:5
+处理时间:0.030367
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5808defb6341980e185af5ca", "UnionId" : "oM0FfwfWcVoNBdqS7BnyrllZFp88", "OpenId" : "oeNEewFNnJhk6VGUdOOc3mz33ET4", "Subscribe" : "", "NickName" : "侯宇", "Thumbnail" : "http://wx.qlogo.cn/mmopen/iaK47waick8CfYWzOZeAXgvqMpN6SZUpjOcJFKp25y5WHAKG1xKLu0ecg3uoPLNEneChxLMhTWA7gfuvO6iaicibVFdN6hCGjaSet/0", "UserInfo" : { "Sex" : 1, "City" : "Jilin", "Province" : "Jilin", "Country" : "CN", "Subscribe_time" : null } }], "Count" : 1 }
+
+执行日期：20161103101019
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=580976086341980e185af720&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.008992
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580976086341980e185af720" }], "Count" : 1 }
+
+执行日期：20161103101103
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=580976086341980e185af720&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.01311
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580976086341980e185af720" }], "Count" : 1 }
+
+执行日期：20161103102428
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.021393
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102429
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.008124
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102429
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.012763
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102506
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.028461
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102523
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.021856
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102523
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.021512
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102814
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.024521
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102938
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012196
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102940
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012482
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103102940
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.010186
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103103041
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.016898
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103103107
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.023041
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103103109
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.029275
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103103109
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.020961
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103103520
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.007778
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103105350
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwT6On1nKw-S7ZByNLE1ehRU&$Limit=1
+超时时间:5
+处理时间:0.043229
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103105352
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwT6On1nKw-S7ZByNLE1ehRU&$Limit=1
+超时时间:5
+处理时间:0.039554
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103105352
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewI08dQOtkoLfR5XOgjUr6N0&$Limit=1
+超时时间:5
+处理时间:0.029374
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103112354
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQKZ5amrkfvELlLaTRnp5KM&$Limit=1
+超时时间:5
+处理时间:0.035028
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103112356
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQKZ5amrkfvELlLaTRnp5KM&$Limit=1
+超时时间:5
+处理时间:0.041582
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103112356
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewJ6FA5noG6gQp7xOJAT0q14&$Limit=1
+超时时间:5
+处理时间:0.021731
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103134829
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwV54ECpg8DgbxtJ3Lm0oB80&$Limit=1
+超时时间:5
+处理时间:0.037662
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103134830
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwV54ECpg8DgbxtJ3Lm0oB80&$Limit=1
+超时时间:5
+处理时间:0.033147
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103134830
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewA4936juckyAx9e9reM8kKU&$Limit=1
+超时时间:5
+处理时间:0.033383
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103150426
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f3ac56634198013426012c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.029528
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3ac56634198013426012c", "Addresses" : [{ "AddressId" : "add_1476193843994", "RealName" : "田", "Mobile" : "13639652933", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "冠军饭店", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103150443
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQ5aq9SjBGVrH7aaERnVTMM&$Limit=1
+超时时间:5
+处理时间:0.026662
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103150444
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQ5aq9SjBGVrH7aaERnVTMM&$Limit=1
+超时时间:5
+处理时间:0.026975
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103150444
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewFGG0x0svalaRsAaxYR4crU&$Limit=1
+超时时间:5
+处理时间:0.030494
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103153130
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=581961bd6341981b94d34c55&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.007497
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "Addresses" : [{ "AddressId" : "add_1478059216461", "RealName" : "刘超杰", "Mobile" : "15502135420", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320402", "DistrictName" : "天宁区", "Address" : "123", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103154825
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=581961bd6341981b94d34c55&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012836
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "Addresses" : [{ "AddressId" : "add_1478059216461", "RealName" : "刘超杰", "Mobile" : "15502135420", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320402", "DistrictName" : "天宁区", "Address" : "123", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103154950
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=581961bd6341981b94d34c55&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017562
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "Addresses" : [{ "AddressId" : "add_1478059216461", "RealName" : "刘超杰", "Mobile" : "15502135420", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320402", "DistrictName" : "天宁区", "Address" : "123", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103155056
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=581961bd6341981b94d34c55&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017231
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "Addresses" : [{ "AddressId" : "add_1478059216461", "RealName" : "刘超杰", "Mobile" : "15502135420", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320402", "DistrictName" : "天宁区", "Address" : "123", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103155151
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=581961bd6341981b94d34c55&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.021734
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "Addresses" : [{ "AddressId" : "add_1478059216461", "RealName" : "刘超杰", "Mobile" : "15502135420", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320402", "DistrictName" : "天宁区", "Address" : "123", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103161135
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwTZz4PaL5YsBVEKa5_lOPL8&$Limit=1
+超时时间:5
+处理时间:0.034208
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c33463419a1540e862e8", "UnionId" : "oM0FfwTZz4PaL5YsBVEKa5_lOPL8", "OpenId" : "oE6qGwCXjCCtIsswMmKaUspbuxyQ", "Subscribe" : 1, "NickName" : "陶子", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEdylHfEibZnPZHVicgMIzo96lHlE9l0AJviaoPneEXAkhrsWOEg4qOtqicI3Khn0ABAPlAxofrQAGRQNx5HiaUzFPqkj/0", "UserInfo" : { "Sex" : 1, "City" : "青浦", "Province" : "上海", "Country" : "中国", "Subscribe_time" : 1442293661 }, "Addresses" : [{ "AddressId" : "add_1477911758840", "RealName" : "陶振敏", "Mobile" : "13917673273", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310118", "DistrictName" : "青浦区", "Address" : "崧泽大道6788号力新仓库", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103161545
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f9c33463419a1540e862e8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.026022
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c33463419a1540e862e8", "Addresses" : [{ "AddressId" : "add_1477911758840", "RealName" : "陶振敏", "Mobile" : "13917673273", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310118", "DistrictName" : "青浦区", "Address" : "崧泽大道6788号力新仓库", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103161555
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f9c33463419a1540e862e8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012481
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c33463419a1540e862e8", "Addresses" : [{ "AddressId" : "add_1477911758840", "RealName" : "陶振敏", "Mobile" : "13917673273", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310118", "DistrictName" : "青浦区", "Address" : "崧泽大道6788号力新仓库", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103161944
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.015915
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162007
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014736
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162050
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.020965
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162052
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.020402
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162107
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.042589
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162111
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.019104
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478050442320", "RealName" : "123", "Mobile" : "18621504906", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130300", "CityName" : "秦皇岛市", "DistrictCode" : "130304", "DistrictName" : "北戴河区", "Address" : "123", "Type" : null }, { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }] }], "Count" : 1 }
+
+执行日期：20161103162112
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.032426
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "2" : { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162123
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.021501
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "2" : { "AddressId" : "add_1477462514998", "RealName" : "张晓乐", "Mobile" : "18621504986", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140400", "CityName" : "长治市", "DistrictCode" : "140424", "DistrictName" : "屯留县", "Address" : "123", "Type" : null, "RealAddress" : "山西省长治市屯留县123" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162123
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.009842
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162207
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.01168
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162217
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.020433
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162225
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.013044
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162228
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.018271
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "1" : { "AddressId" : "add_1477987677834", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾", "Type" : null, "RealAddress" : "上海市松江区誉品谷水湾" }, "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162229
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.02686
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162230
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.013217
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "4" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162231
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.026053
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162232
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.01928
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : { "3" : { "AddressId" : "add_1477376115738", "RealName" : "张晓乐", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" } } }], "Count" : 1 }
+
+执行日期：20161103162233
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.031108
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [] }], "Count" : 1 }
+
+执行日期：20161103162248
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.009925
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [] }], "Count" : 1 }
+
+执行日期：20161103162348
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.020413
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [] }], "Count" : 1 }
+
+执行日期：20161103162350
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.018812
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478161428633", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾5号楼1602", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103162350
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&$Limit=1
+超时时间:5
+处理时间:0.017678
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "UnionId" : "oM0FfwdGcX-OUuDXGXjb4ohv67Nw", "OpenId" : "oE6qGwGUgSh3dr1DjL4zp1UCjHQQ", "Subscribe" : 1, "NickName" : "张晓乐", "Thumbnail" : "http://wx.qlogo.cn/mmopen/PiajxSqBRaEIQc1aSDUau8PoKhgS1VQtwZkrjOFBp7bqTqcric2Cs5Og7qvgoRMjkMUX24E612ibefe0ibSwKxeEFg/0", "UserInfo" : { "Sex" : 1, "City" : "杨浦", "Province" : "上海", "Country" : "中国", "Subscribe_time" : 1458970818 }, "Addresses" : [{ "AddressId" : "add_1478161428633", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾5号楼1602", "Type" : null }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161103194825
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwSeFUE9mCftrSKn4Fk2F0Yw&$Limit=1
+超时时间:5
+处理时间:0.030121
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194827
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwSeFUE9mCftrSKn4Fk2F0Yw&$Limit=1
+超时时间:5
+处理时间:0.041089
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194827
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewKe49Q9UMp4X2nOUG7tYAFo&$Limit=1
+超时时间:5
+处理时间:0.026624
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194854
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwW72yPO2o550p6zI_mDMOhA&$Limit=1
+超时时间:5
+处理时间:0.030664
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194855
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwW72yPO2o550p6zI_mDMOhA&$Limit=1
+超时时间:5
+处理时间:0.020682
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194855
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewJyX2dY_QlByLanfARkwNoc&$Limit=1
+超时时间:5
+处理时间:0.029101
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194911
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUfvTGwIpBFx5pxF7CWk3x4&$Limit=1
+超时时间:5
+处理时间:0.036929
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194913
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUfvTGwIpBFx5pxF7CWk3x4&$Limit=1
+超时时间:5
+处理时间:0.021993
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103194913
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewPVz1R23-pSX5iuzYD8QMW4&$Limit=1
+超时时间:5
+处理时间:0.036073
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103203738
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQQDtUQNXE4iYiXDJs8BRzg&$Limit=1
+超时时间:5
+处理时间:0.033156
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103203739
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQQDtUQNXE4iYiXDJs8BRzg&$Limit=1
+超时时间:5
+处理时间:0.04019
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103203739
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewPhMnCmHwHF4MiKHipSq-5Y&$Limit=1
+超时时间:5
+处理时间:0.036403
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103205017
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.015211
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205018
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.015126
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205018
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.022882
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205037
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.010602
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205104
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.016383
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205106
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.016754
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205106
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.020724
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103205122
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fa0edd63419a1540e8632c&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.027325
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161103211319
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5818a7316341981b94d34bc7&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.016819
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5818a7316341981b94d34bc7" }], "Count" : 1 }
+
+执行日期：20161103215045
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfvyybgAmxc79ITjNqrKX4c&$Limit=1
+超时时间:5
+处理时间:0.027019
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103215048
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfvyybgAmxc79ITjNqrKX4c&$Limit=1
+超时时间:5
+处理时间:0.037618
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103215048
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewOb7GBqOrYec4IiteMyWAv0&$Limit=1
+超时时间:5
+处理时间:0.024847
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161103222855
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwSA31_TQMZoo1YbNjQwf684&$Limit=1
+超时时间:5
+处理时间:0.017449
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580373436341981e3834f284", "UnionId" : "oM0FfwSA31_TQMZoo1YbNjQwf684", "OpenId" : "oeNEewL8jjoOvBpu7b5DTfYpEB_c", "Subscribe" : "", "NickName" : "将军", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXibsTwcyz7f7fuRw7TqkLglVQojenfgjqYW0XSg9zXMYRVsaMbrQc0cwBcLrrLglqfL6YxoKaiaTxibw/0", "UserInfo" : { "Sex" : 1, "City" : "Hangzhou", "Province" : "Zhejiang", "Country" : "CN", "Subscribe_time" : null } }], "Count" : 1 }
+
+执行日期：20161103222909
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38a3063419801342600dd&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.019235
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38a3063419801342600dd", "Addresses" : [{ "AddressId" : "add_1478161428633", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310117", "DistrictName" : "松江区", "Address" : "誉品谷水湾5号楼1602", "Type" : null }] }], "Count" : 1 }
+

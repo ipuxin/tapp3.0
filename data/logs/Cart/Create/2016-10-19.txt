@@ -1,0 +1,42 @@
+执行日期：20161019113318
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=430700&CityName=%E5%B8%B8%E5%BE%B7%E5%B8%82&UserId=5800dc856341980c207fe92d&ShopName=%E6%9E%9C%E7%84%B6%E5%A5%BD&ShopId=&ShopRealId=57fe29e36341981a98fd1ced&ProductId=6559&ProductRealId=58006a0e6341980624c365db&ProductCount=1&creatTime=1476847998
+超时时间:5
+处理时间:0.015649
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5806e97f6341981d8c43db82", "CityCode" : 430700, "CityName" : "常德市", "UserId" : "5800dc856341980c207fe92d", "ShopName" : "果然好", "ShopId" : "", "ShopRealId" : "57fe29e36341981a98fd1ced", "ProductId" : 6559, "ProductRealId" : "58006a0e6341980624c365db", "ProductCount" : 1, "creatTime" : 1476847998 }] }
+
+执行日期：20161019113606
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=430700&CityName=%E5%B8%B8%E5%BE%B7%E5%B8%82&UserId=5800dc856341980c207fe92d&ShopName=%E9%9B%B6%E9%A3%9F%E5%B0%8F%E9%93%BA&ShopId=&ShopRealId=580181aa6341980c207fe970&ProductId=7145&ProductRealId=5801cdee6341980c207fe9c4&ProductCount=1&creatTime=1476848166
+超时时间:5
+处理时间:0.007965
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5806ea276341981d8c43db84", "CityCode" : 430700, "CityName" : "常德市", "UserId" : "5800dc856341980c207fe92d", "ShopName" : "零食小铺", "ShopId" : "", "ShopRealId" : "580181aa6341980c207fe970", "ProductId" : 7145, "ProductRealId" : "5801cdee6341980c207fe9c4", "ProductCount" : 1, "creatTime" : 1476848166 }] }
+
+执行日期：20161019160606
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=57f38a3063419801342600dd&ShopName=Wilson%20%E6%8B%BC%E4%B8%80%E4%B8%8Bstore&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=9955&ProductRealId=5805df216341981d8c43da85&ProductCount=1&creatTime=1476864366
+超时时间:5
+处理时间:0.019317
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5807296e634198026c813818", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "57f38a3063419801342600dd", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1476864366 }] }
+
+执行日期：20161019163634
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=58042b7663419812f8557b8d&ShopName=Wilson%20store&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=1217&ProductRealId=57f49f89634198108863c17a&ProductCount=1&creatTime=1476866194
+超时时间:5
+处理时间:0.016222
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58073091634198026c813833", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "58042b7663419812f8557b8d", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1217, "ProductRealId" : "57f49f89634198108863c17a", "ProductCount" : 1, "creatTime" : 1476866194 }] }
+
+执行日期：20161019164444
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=430700&CityName=%E5%B8%B8%E5%BE%B7%E5%B8%82&UserId=58072fa7634198026c81382a&ShopName=%E9%9B%B6%E9%A3%9F%E5%B0%8F%E9%93%BA&ShopId=&ShopRealId=580181aa6341980c207fe970&ProductId=9040&ProductRealId=5804711363419812f8557c31&ProductCount=1&creatTime=1476866684
+超时时间:5
+处理时间:0.009791
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5807327c634198026c81383d", "CityCode" : 430700, "CityName" : "常德市", "UserId" : "58072fa7634198026c81382a", "ShopName" : "零食小铺", "ShopId" : "", "ShopRealId" : "580181aa6341980c207fe970", "ProductId" : 9040, "ProductRealId" : "5804711363419812f8557c31", "ProductCount" : 1, "creatTime" : 1476866684 }] }
+
+执行日期：20161019195332
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=411700&CityName=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%B8%82&UserId=57fd6c676341981a98fd1b84&ShopName=%E6%8B%BC%E4%B8%80%E4%B8%8B&ShopId=&ShopRealId=57f9c96c63419a1540e862f1&ProductId=9064&ProductRealId=5804731363419812f8557c34&ProductCount=1&creatTime=1476878012
+超时时间:5
+处理时间:0.016975
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58075ebc634198026c8138a6", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "57fd6c676341981a98fd1b84", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 9064, "ProductRealId" : "5804731363419812f8557c34", "ProductCount" : 1, "creatTime" : 1476878012 }] }
+
+执行日期：20161019195345
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=411700&CityName=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%B8%82&UserId=57fd6c676341981a98fd1b84&ShopName=%E6%8B%BC%E4%B8%80%E4%B8%8B&ShopId=&ShopRealId=57f9c96c63419a1540e862f1&ProductId=4720&ProductRealId=57fdb1336341981a98fd1bcc&ProductCount=1&creatTime=1476878025
+超时时间:5
+处理时间:0.015964
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58075ec9634198026c8138a7", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "57fd6c676341981a98fd1b84", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 4720, "ProductRealId" : "57fdb1336341981a98fd1bcc", "ProductCount" : 1, "creatTime" : 1476878025 }] }
+

@@ -1,0 +1,12 @@
+执行日期：20161030150547
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=883212484457671094&sid=YTO
+超时时间:5
+处理时间:4.997233
+返回参数:
+
+执行日期：20161030215335
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=3929490069818&sid=YD
+超时时间:5
+处理时间:1.066284
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"LogisticCode":"3929490069818","State":"3","Traces":[{"AcceptTime":"2016-10-28 15:44:52","AcceptStation":"到达：江西南丰县公司 已收件"},{"AcceptTime":"2016-10-29 01:30:47","AcceptStation":"到达：江西南昌分拨中心"},{"AcceptTime":"2016-10-29 01:32:00","AcceptStation":"到达：江西南昌分拨中心 发往：湖南长沙分拨中心"},{"AcceptTime":"2016-10-29 10:28:53","AcceptStation":"到达：湖南长沙分拨中心 上级站点：江西南昌分拨中心"},{"AcceptTime":"2016-10-29 10:39:26","AcceptStation":"到达：湖南长沙分拨中心 发往：湖南常德公司"},{"AcceptTime":"2016-10-30 08:12:35","AcceptStation":"到达：湖南常德公司 上级站点：湖南长沙分拨中心 发往："},{"AcceptTime":"2016-10-30 09:39:28","AcceptStation":"到达：湖南常德公司 发往：湖南常德公司三闾社区便民服务站分部"},{"AcceptTime":"2016-10-30 16:49:59","AcceptStation":"到达：湖南常德公司三闾社区便民服务站分部 指定：曾伟(18173682088) 派送"},{"AcceptTime":"2016-10-30 16:53:26","AcceptStation":"已签收，感谢使用韵达，期待再次为您服务"}]}}
+

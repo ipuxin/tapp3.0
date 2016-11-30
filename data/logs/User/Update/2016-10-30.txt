@@ -1,0 +1,12 @@
+执行日期：20161030102514
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58155a026341982128df6e13&AppLogined==1
+超时时间:5
+处理时间:0.018487
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58155a026341982128df6e13", "UnionId" : "oM0FfwVGFwiMnbA90SjY5KdJErtQ", "OpenId" : "oeNEewGdSWlKmrGcRyayf4oH5k_s", "Subscribe" : "", "NickName" : "三块石头", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CiaSNvic7v9dOsoZdcakow0PEl678Tq2xtNCvIcmhqbEmdTw0qW0nj2Rgdg9cyYYehQOibQI7Vofexm/0", "UserInfo" : { "Sex" : 1, "City" : "Haidian", "Province" : "Beijing", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161030173437
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5815a0146341982128df6eda&AppLogined==1
+超时时间:5
+处理时间:0.026466
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5815a0146341982128df6eda", "UnionId" : "oM0Ffwbr0C3-ALEQoqoowzqFNgUQ", "OpenId" : "oE6qGwNRwwVCkJ2Ox_QB0tJ4UsUI", "Subscribe" : 1, "NickName" : "薛鸿豪｜振宇微商城", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM4UQ74AXHhgUuia3T3ElCkd8ZE3TkFxNKTS6KMxNZDS7Vz2R5f6MAw9c2FicWREiaGsrLzfaGN1IBZow/0", "UserInfo" : { "Sex" : 1, "City" : "三门峡", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1468669289 }, "AppLogined" : 1 }] }
+

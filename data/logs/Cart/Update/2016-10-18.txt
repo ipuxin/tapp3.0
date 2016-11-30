@@ -1,0 +1,36 @@
+执行日期：20161018165126
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?id=5805e2376341981d8c43da8e&UserId=580164306341980c207fe969&ProductCount==2
+超时时间:5
+处理时间:0.016796
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e2376341981d8c43da8e", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3597, "ProductRealId" : "57fb10516341980e14f9ebd6", "ProductCount" : 2, "creatTime" : 1476780599 }] }
+
+执行日期：20161018165129
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?UserId=580164306341980c207fe969&Select==0
+超时时间:5
+处理时间:0.02088
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e22d6341981d8c43da8d", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3563, "ProductRealId" : "57fb032f6341980e14f9ebb1", "ProductCount" : 1, "creatTime" : 1476780588, "Select" : 0 }, { "id" : "5805e2376341981d8c43da8e", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3597, "ProductRealId" : "57fb10516341980e14f9ebd6", "ProductCount" : 2, "creatTime" : 1476780599, "Select" : 0 }, { "id" : "5805e2426341981d8c43da8f", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 5237, "ProductRealId" : "57fded9d6341981a98fd1c7c", "ProductCount" : 1, "creatTime" : 1476780610, "Select" : 0 }, { "id" : "5805e25f6341981d8c43da91", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3623, "ProductRealId" : "57fb27f26341980e14f9ebee", "ProductCount" : 1, "creatTime" : 1476780639, "Select" : 0 }] }
+
+执行日期：20161018165129
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=5805e25f6341981d8c43da91&Select==1
+超时时间:5
+处理时间:0.028112
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e25f6341981d8c43da91", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3623, "ProductRealId" : "57fb27f26341980e14f9ebee", "ProductCount" : 1, "creatTime" : 1476780639, "Select" : 1 }] }
+
+执行日期：20161018165129
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=5805e2426341981d8c43da8f&Select==1
+超时时间:5
+处理时间:0.011459
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e2426341981d8c43da8f", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 5237, "ProductRealId" : "57fded9d6341981a98fd1c7c", "ProductCount" : 1, "creatTime" : 1476780610, "Select" : 1 }] }
+
+执行日期：20161018165129
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=5805e2376341981d8c43da8e&Select==1
+超时时间:5
+处理时间:0.016329
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e2376341981d8c43da8e", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3597, "ProductRealId" : "57fb10516341980e14f9ebd6", "ProductCount" : 2, "creatTime" : 1476780599, "Select" : 1 }] }
+
+执行日期：20161018165129
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=5805e22d6341981d8c43da8d&Select==1
+超时时间:5
+处理时间:0.010436
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805e22d6341981d8c43da8d", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "580164306341980c207fe969", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3563, "ProductRealId" : "57fb032f6341980e14f9ebb1", "ProductCount" : 1, "creatTime" : 1476780588, "Select" : 1 }] }
+

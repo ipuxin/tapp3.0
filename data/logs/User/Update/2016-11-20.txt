@@ -1,0 +1,30 @@
+执行日期：20161120035318
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581fd10c634198206c661e36&AppLogined==1
+超时时间:5
+处理时间:0.020934
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fd10c634198206c661e36", "UnionId" : "oM0FfwV8H4wSRhgwDnXVuwHkgOOE", "OpenId" : "oeNEewI1X9ZvcSkCeBa-iFpsHVFs", "Subscribe" : "", "NickName" : "生活", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CtlJpCcJrFYwEKkInLIAPtIT0MOHaqiak4VIrb9W4cgfOuOCrZeWZicfZNg2jos8KrecOwvaGibH5tm/0", "UserInfo" : { "Sex" : 1, "City" : "Chaoyang", "Province" : "Beijing", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161120095217
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583101c36341981954416de1&AppLogined==1
+超时时间:5
+处理时间:0.02607
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583101c36341981954416de1", "UnionId" : "oM0FfwSai-wjhCxcrOv1uG88XEOA", "OpenId" : "oeNEewFk-nQ122aBLIv8d3gTac4Y", "Subscribe" : "", "NickName" : "守望幸福", "Thumbnail" : "http://wx.qlogo.cn/mmopen/PiajxSqBRaEK6yNMssibVPicvTKwlJ5E8IdYEOfb7ic07KEqeVWI7CBNPW6nNcJcxWgcCbQJtqhpvGIhiaDcNUh7d9A/0", "UserInfo" : { "Sex" : 2, "City" : "Xuzhou", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161120133916
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583132236341981b342e3caf&Addresses==%5B%7B%22AddressId%22%3A%22add_1479620356438%22%2C%22RealName%22%3A%22%5Cu4e01%5Cu5e86%22%2C%22Mobile%22%3A%2218637579950%22%2C%22ProviceCode%22%3A%22410000%22%2C%22ProviceName%22%3A%22%5Cu6cb3%5Cu5357%5Cu7701%22%2C%22CityCode%22%3A%22410400%22%2C%22CityName%22%3A%22%5Cu5e73%5Cu9876%5Cu5c71%5Cu5e02%22%2C%22DistrictCode%22%3A%22410422%22%2C%22DistrictName%22%3A%22%5Cu53f6%5Cu53bf%22%2C%22Address%22%3A%22%5Cu4ed9%5Cu53f0%5Cu9547%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.0096379999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583132236341981b342e3caf", "UnionId" : "oM0FfwWVqbW3qrFOdptS7z-estnk", "OpenId" : "oeNEewEbThLzeVg3E60UwTyzxJEc", "Subscribe" : "", "NickName" : "“小庆庆”", "Thumbnail" : "http://wx.qlogo.cn/mmopen/RjI8jJQCsh5SdJoVcnfaqLY6siaXy4ksxDic4Bm8LZLjhzUE56aZCYlAicbXuJ3V1n3UPzxo2O4RT3oVCxV5arQ7gQjgJLH6qWt/0", "UserInfo" : { "Sex" : 2, "City" : "Luohe", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479620356438", "RealName" : "丁庆", "Mobile" : "18637579950", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410400", "CityName" : "平顶山市", "DistrictCode" : "410422", "DistrictName" : "叶县", "Address" : "仙台镇", "Type" : null }] }] }
+
+执行日期：20161120134248
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583132236341981b342e3caf&Addresses==%5B%7B%22AddressId%22%3A%22add_1479620356438%22%2C%22RealName%22%3A%22%5Cu4e01%5Cu5e86%22%2C%22Mobile%22%3A%2218637579950%22%2C%22ProviceCode%22%3A%22410000%22%2C%22ProviceName%22%3A%22%5Cu6cb3%5Cu5357%5Cu7701%22%2C%22CityCode%22%3A%22410400%22%2C%22CityName%22%3A%22%5Cu5e73%5Cu9876%5Cu5c71%5Cu5e02%22%2C%22DistrictCode%22%3A%22410422%22%2C%22DistrictName%22%3A%22%5Cu53f6%5Cu53bf%22%2C%22Address%22%3A%22%5Cu4ed9%5Cu53f0%5Cu9547%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.034222
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583132236341981b342e3caf", "UnionId" : "oM0FfwWVqbW3qrFOdptS7z-estnk", "OpenId" : "oeNEewEbThLzeVg3E60UwTyzxJEc", "Subscribe" : "", "NickName" : "“小庆庆”", "Thumbnail" : "http://wx.qlogo.cn/mmopen/RjI8jJQCsh5SdJoVcnfaqLY6siaXy4ksxDic4Bm8LZLjhzUE56aZCYlAicbXuJ3V1n3UPzxo2O4RT3oVCxV5arQ7gQjgJLH6qWt/0", "UserInfo" : { "Sex" : 2, "City" : "Luohe", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479620356438", "RealName" : "丁庆", "Mobile" : "18637579950", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410400", "CityName" : "平顶山市", "DistrictCode" : "410422", "DistrictName" : "叶县", "Address" : "仙台镇", "Type" : null }] }] }
+
+执行日期：20161120195114
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58318d686341981b342e3d4d&AppLogined==1
+超时时间:5
+处理时间:0.027266
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58318d686341981b342e3d4d", "UnionId" : "oM0FfwQbkSfO9Oa0LFkcDL-aLSzU", "OpenId" : "oeNEewIDbUf4cEaWctFjdzQNOrM4", "Subscribe" : "", "NickName" : "李瑜峰smile", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXic1t2ricEsOzWdbW7A4CH5iaibicgGjiaSLubc3JhOlCkL7CFxeKxvDmgovwUyS9qYJd79vQQqddsE744pMpgbMW4vCp/0", "UserInfo" : { "Sex" : 2, "City" : "Datong", "Province" : "Shanxi", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

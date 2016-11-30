@@ -1,0 +1,6 @@
+执行日期：20161029110850
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=3929490069416&sid=YD
+超时时间:5
+处理时间:1.831398
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"LogisticCode":"3929490069416","State":"3","Traces":[{"AcceptTime":"2016-10-26 15:30:51","AcceptStation":"到达：江西南丰县公司 已收件"},{"AcceptTime":"2016-10-26 22:04:03","AcceptStation":"到达：江西南昌分拨中心"},{"AcceptTime":"2016-10-27 02:31:25","AcceptStation":"到达：江西南昌分拨中心 发往：江苏南京分拨中心"},{"AcceptTime":"2016-10-27 16:04:02","AcceptStation":"到达：江苏南京分拨中心 上级站点：江西南昌分拨中心"},{"AcceptTime":"2016-10-27 17:26:57","AcceptStation":"到达：江苏南京分拨中心 发往：江苏泰州分拨中心"},{"AcceptTime":"2016-10-28 04:17:34","AcceptStation":"到达：江苏泰州分拨中心 上级站点：江苏南京分拨中心"},{"AcceptTime":"2016-10-28 04:19:58","AcceptStation":"到达：江苏泰州分拨中心 发往：江苏姜堰市公司"},{"AcceptTime":"2016-10-28 08:58:50","AcceptStation":"到达：江苏姜堰市公司 指定：公司到件(88359330-02) 派送"},{"AcceptTime":"2016-10-28 16:22:11","AcceptStation":"到达：江苏姜堰市公司 指定：溱潼分部(13951151553) 派送"},{"AcceptTime":"2016-10-28 16:28:22","AcceptStation":"已签收，感谢使用韵达，期待再次为您服务"}]}}
+

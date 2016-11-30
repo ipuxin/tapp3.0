@@ -1,0 +1,12 @@
+执行日期：20161109025843
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Query?ProductId=3848&$Limit=1
+超时时间:5
+处理时间:1.084762
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fb86b46341980e14f9ec84", "ProductType" : 1, "ImageMin" : "/data/images/product/2016-10-10/f31e28ed3b1a9acad0615eff95156487.jpg", "ImageBig" : "/data/images/product/2016-10-10/5fa3151450bf8c25595e6dccfcb4de8b.jpg", "ImageList" : ["/data/images/product/2016-10-10/d295741690798c938bae00110be8ac51.jpg", "/data/images/product/2016-10-10/7d8f9f083688dc7cfd426c3b891a4c8a.jpg", "/data/images/product/2016-10-10/cf0dca6edc47601df5fd70497425397b.jpg"], "ProductName" : "山东烟台冰糖心5斤", "Prices" : { "Normal" : 28.9, "Market" : "33" }, "StorageCount" : 456, "freightAmout" : 0, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "单果约大85mm;苹果色泽光亮，果肉细腻，肉质色泽略黄,具有生津止渴、润肺除烦、健脾益胃、养心益气、润肠、止泻、解暑、醒酒等功效【同城配送、坏果包赔】", "Category1" : "57dd2a6fa09042194c7cdd2a", "Category2" : "57e9f176a090421aec229a41", "Content" : "<p><img src=\"http://adm.pingoing.cn/data/upload/image/20161010/1476101845765191.jpg\" title=\"1476101845765191.jpg\" alt=\"详情页1.jpg\"/></p><p><img src=\"http://adm.pingoing.cn/data/upload/image/20161010/1476101857175053.jpg\" title=\"1476101857175053.jpg\" alt=\"详情页3.jpg\"/></p>", "IsForSale" : 1, "ShopId" : "57fa063363419a1540e86325", "ShopName" : "Aaa", "CityCode" : 420100, "CityName" : "武汉市", "IsChecked" : 1, "ProductId" : 3848, "SalesCount" : { "Waiting" : 0, "Real" : 0, "Adjust" : 0 }, "CreatTime" : 1476101812, "IsDisable" : 0, "IsHide" : 0, "TeamMemberLimit" : "", "Alive" : "", "LotteryCount" : 0 }], "Count" : 1 }
+
+执行日期：20161109093257
+接口路径:http://api.pingoing.cn/restful.PYX3_Category.Query?id=57e9f690a090421aec229a5d&$Limit=1
+超时时间:5
+处理时间:1.083937
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57e9f690a090421aec229a5d", "CateParent" : "57dd2a6fa09042194c7cdd2d", "CateName" : "日用百货", "CateSorting" : 15, "CateLevel" : 2, "IsDisable" : 0, "ImgUrl" : "/data/images/cate/2016-10-13/ee046ca4c91194b1d9a3cbf71c54fadb.png" }], "Count" : 1 }
+

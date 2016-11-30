@@ -1,0 +1,24 @@
+执行日期：20161021094145
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=410100&CityName=%E9%83%91%E5%B7%9E%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=%E6%96%B0%E5%86%9C%E6%9D%91%E5%A4%A9%E7%84%B6%E7%89%B9%E4%BA%A7%E5%BA%97&ShopId=&ShopRealId=5800dbe76341980c207fe92a&ProductId=6729&ProductRealId=5800dd8c6341980c207fe92e&ProductCount=1&creatTime=1477014105
+超时时间:5
+处理时间:0.012772
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580972596341980e185af712", "CityCode" : 410100, "CityName" : "郑州市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "新农村天然特产店", "ShopId" : "", "ShopRealId" : "5800dbe76341980c207fe92a", "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "creatTime" : 1477014105 }] }
+
+执行日期：20161021170427
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=Wilson%20%E6%8B%BC%E4%B8%80%E4%B8%8Bstore&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=9955&ProductRealId=5805df216341981d8c43da85&ProductCount=1&creatTime=1477040667
+超时时间:5
+处理时间:0.017603
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5809da1b6341980e185af828", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477040667 }] }
+
+执行日期：20161021171103
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=410100&CityName=%E9%83%91%E5%B7%9E%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=%E6%96%B0%E5%86%9C%E6%9D%91%E5%A4%A9%E7%84%B6%E7%89%B9%E4%BA%A7%E5%BA%97&ShopId=&ShopRealId=5800dbe76341980c207fe92a&ProductId=6776&ProductRealId=5800dea36341980c207fe931&ProductCount=1&creatTime=1477041063
+超时时间:5
+处理时间:0.011002
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5809dba66341980e185af82f", "CityCode" : 410100, "CityName" : "郑州市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "新农村天然特产店", "ShopId" : "", "ShopRealId" : "5800dbe76341980c207fe92a", "ProductId" : 6776, "ProductRealId" : "5800dea36341980c207fe931", "ProductCount" : 1, "creatTime" : 1477041063 }] }
+
+执行日期：20161021171152
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=%5B320200%2C320300%2C320500%2C320700%2C330300%2C340300%2C310100%5D&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=Wilson%20%E6%8B%BC%E4%B8%80%E4%B8%8Bstore&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=9973&ProductRealId=5805f1256341981d8c43daa2&ProductCount=1&creatTime=1477041112
+超时时间:5
+处理时间:0.018154
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5809dbd76341980e185af830", "CityCode" : [320200, 320300, 320500, 320700, 330300, 340300, 310100], "CityName" : "上海市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9973, "ProductRealId" : "5805f1256341981d8c43daa2", "ProductCount" : 1, "creatTime" : 1477041112 }] }
+

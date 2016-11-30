@@ -1,0 +1,12 @@
+执行日期：20161024090126
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=%E6%83%85%E8%B6%A3%E7%94%A8%E5%93%81%E8%B6%85%E5%B8%82&ShopId=&ShopRealId=5805ff9d6341981d8c43dab4&ProductId=12474&ProductRealId=580aea09634198126c2c19b0&ProductCount=1&creatTime=1477270886
+超时时间:5
+处理时间:0.018314
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580d5d666341980da40d21d4", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "情趣用品超市", "ShopId" : "", "ShopRealId" : "5805ff9d6341981d8c43dab4", "ProductId" : 12474, "ProductRealId" : "580aea09634198126c2c19b0", "ProductCount" : 1, "creatTime" : 1477270886 }] }
+
+执行日期：20161024144146
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=%5B310100%2C321100%2C441300%2C310100%5D&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=580321fd6341981e3834f237&ShopName=Wilson%20%E6%8B%BC%E4%B8%80%E4%B8%8Bstore&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=12599&ProductRealId=580b1dfd634198126c2c19e7&ProductCount=1&creatTime=1477291306
+超时时间:5
+处理时间:0.017738
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580dad2a6341980da40d22d9", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "580321fd6341981e3834f237", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12599, "ProductRealId" : "580b1dfd634198126c2c19e7", "ProductCount" : 1, "creatTime" : 1477291306 }] }
+

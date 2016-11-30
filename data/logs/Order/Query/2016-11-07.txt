@@ -1,0 +1,12 @@
+执行日期：20161107073818
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581f3409634198206c661e04&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.028282
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161107073828
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581f3409634198206c661e04&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.026376
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

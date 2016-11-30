@@ -1,0 +1,6 @@
+执行日期：20161123160706
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=667078911315&sid=HHTT
+超时时间:5
+处理时间:1.465509
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"HHTT","Success":true,"Reason":"此单无物流信息","LogisticCode":"667078911315","Traces":[]}}
+

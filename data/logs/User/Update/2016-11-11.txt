@@ -1,0 +1,6 @@
+执行日期：20161111084915
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5815f6256341982128df7003&AppLogined==1
+超时时间:5
+处理时间:0.016353
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5815f6256341982128df7003", "UnionId" : "oM0FfwSmeBnWVt1sBHkwHuEPp0TI", "OpenId" : "oE6qGwK2hE8al74MNHPpdz7ty6ek", "Subscribe" : 0, "NickName" : "天然", "Thumbnail" : "http://wx.qlogo.cn/mmopen/mdy8YibQA2qu76w6BaOWTwXtmvw5J2GsaZTguvOtegd4ytkO7oaUVjd2Q2KSyNZXdmnCjwyM823EzTTzGy3hvRwL3FxzjeicuX/0", "UserInfo" : { "Sex" : 1, "City" : "Nanyang", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

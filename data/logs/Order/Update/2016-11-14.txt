@@ -1,0 +1,6 @@
+执行日期：20161114183517
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582993586341980df8b21bf1&OrderStatus==6
+超时时间:5
+处理时间:0.025632
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582993586341980df8b21bf1", "ShopId" : "5823c8d36341980d2c4cbfdf", "ShopName" : "暖绒服饰", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 1, "ProductId" : 26341, "ProductRealId" : "5823e9276341980d2c4cc09c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-10/6e0751ca38a1576a9b2bfa708383e250.jpg", "ProductName" : "新款冬季仿皮草毛毛袖套袖口护腕毛绒手环手圈 ", "Prices" : 16.9, "PricesAll" : { "Normal" : 16.9, "Market" : "19.9" }, "DeliverAddress" : "江苏省新沂市新安西路1号", "Description" : "本店毛毛手圈用仿兔狐毛材质制作，和一般卖家的手圈是有很大区别的，我们的是升级版仿兔狐毛，绝对是一份价钱一分货哦。。\r\n\r\n【规格】：袖围是29-31厘米 宽约13-15厘米\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 16.9, "freightFee" : 0, "OrderFee" : 16.9, "OrderId" : 122254, "CreatTime" : 1479119705, "OrderStatus" : 6, "PayStatus" : "未支付" }] }
+

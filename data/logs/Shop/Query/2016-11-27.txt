@@ -1,0 +1,984 @@
+执行日期：20161127000938
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5800dbe76341980c207fe92a&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019708
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5800dbe76341980c207fe92a", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161014/1476451191186456.jpg", "ShopName" : "新农村天然特产店", "ShopId" : 2412, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127000957
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.009912
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127014212
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58020acf6341980c207fea47&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022601
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58020acf6341980c207fea47", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476528707881721.jpg", "ShopName" : "魔都 进口水果专营", "ShopId" : 3051 }], "Count" : 1 }
+
+执行日期：20161127014222
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3051&$Limit=1
+超时时间:5
+处理时间:0.02592
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58020acf6341980c207fea47", "Balance" : 0, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1476528847, "DeliverAddress" : "上海市", "ReturnAddress" : "上海市", "ShopAddress" : "上海市", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476528707881721.jpg", "ShopName" : "魔都 进口水果专营", "ShopOwnerMobile" : " 13303959839 ", "ShopOwnerName" : "于 浩", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 3051, "Fans" : 0 }], "Count" : 1 }
+
+执行日期：20161127014230
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58020acf6341980c207fea47&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01142
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58020acf6341980c207fea47", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476528707881721.jpg", "ShopName" : "魔都 进口水果专营", "ShopId" : 3051 }], "Count" : 1 }
+
+执行日期：20161127025337
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022316
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127025400
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.006875
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127025405
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.029443
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127025423
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.00869
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127025443
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020099
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127055157
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5801de6c6341980c207fe9d2&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020269
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopId" : 2870, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127055203
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010963
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127055215
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01039
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127055226
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022675
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127055235
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.008421
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127055243
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57ef42bb634199034056b762&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019755
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ef42bb634199034056b762", "CityName" : "濮阳市", "ShopLogo" : "/data/images/shop/2016-11-18/4f2dc7a26723aa128790e0b71175ddca.jpg", "ShopName" : "中华龙店", "ShopId" : 414, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161127093141
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010613
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127093205
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.02444
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093244
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.02871
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093245
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.026055
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093254
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.016584
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093256
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.016978
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093304
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.0087579999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127093311
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&$Limit=1
+超时时间:5
+处理时间:0.019677
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093331
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01535
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127093332
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.01145
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093333
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.028583
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127093334
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3205&$Limit=1
+超时时间:5
+处理时间:0.009645
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 466.03, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0.43 }], "Count" : 1 }
+
+执行日期：20161127114856
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022946
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127114913
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.013274
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127114921
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022234
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127114928
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.023195
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127114932
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.028382
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127114948
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.036062
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127114958
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010597
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115010
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.012951
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127115017
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.018032
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115024
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.011782
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127115032
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.016201
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115041
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.014933
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127115049
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.042628
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115101
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.021922
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127115109
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01083
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115116
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.018908
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127115119
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020133
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127115820
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.028272
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127115832
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017565
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127115843
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023396
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127115853
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580c32326341981260f58313&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023639
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c32326341981260f58313", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161023/1477194209133415.jpg", "ShopName" : "河阴软子石榴店", "ShopId" : 4577, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127115900
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58116a0f6341981810eb1fd9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01981
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a0f6341981810eb1fd9", "CityName" : "平凉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161027/1477535676611094.jpg", "ShopName" : "甘肃静宁苹果", "ShopId" : 5249, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161127115905
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58116a0f6341981810eb1fd9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.009553
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a0f6341981810eb1fd9", "CityName" : "平凉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161027/1477535676611094.jpg", "ShopName" : "甘肃静宁苹果", "ShopId" : 5249, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161127115913
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5804415c63419812f8557bc3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01077
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804415c63419812f8557bc3", "CityName" : "汉中市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476673828508205.jpg", "ShopName" : "山野小店", "ShopId" : 3278, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124628
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023495
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124654
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023655
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124706
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.032949
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124756
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.013523
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124848
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5801de6c6341980c207fe9d2&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019486
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopId" : 2870, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127124904
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=2870&$Limit=1
+超时时间:5
+处理时间:0.030864
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "Balance" : 0, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1476517484, "DeliverAddress" : "上海市徐汇区罗秀路930弄104号502", "ReturnAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopDescription" : "本店主要经营护肤品，酵素，起到内调外用，做个水当当的气质女人。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopOwnerMobile" : "13771760983", "ShopOwnerName" : "曹进环", "ShopType" : "个人", "ZhifubaoAccount" : "13771760983", "ShopId" : 2870, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127124907
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=2870&$Limit=1
+超时时间:5
+处理时间:0.015611
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "Balance" : 0, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1476517484, "DeliverAddress" : "上海市徐汇区罗秀路930弄104号502", "ReturnAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopDescription" : "本店主要经营护肤品，酵素，起到内调外用，做个水当当的气质女人。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopOwnerMobile" : "13771760983", "ShopOwnerName" : "曹进环", "ShopType" : "个人", "ZhifubaoAccount" : "13771760983", "ShopId" : 2870, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127124927
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=2870&$Limit=1
+超时时间:5
+处理时间:0.020439
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "Balance" : 0, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1476517484, "DeliverAddress" : "上海市徐汇区罗秀路930弄104号502", "ReturnAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopAddress" : "上海市徐汇区罗秀路930弄104号502", "ShopDescription" : "本店主要经营护肤品，酵素，起到内调外用，做个水当当的气质女人。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopOwnerMobile" : "13771760983", "ShopOwnerName" : "曹进环", "ShopType" : "个人", "ZhifubaoAccount" : "13771760983", "ShopId" : 2870, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127124928
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5801de6c6341980c207fe9d2&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.029822
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopId" : 2870, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127132242
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5826abbd634198147c4cf468&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.026476
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5826abbd634198147c4cf468", "CityName" : "广州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161112/1478929178330354.jpg", "ShopName" : "宝宝爱心满屋", "ShopId" : 6561, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127132336
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027917
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127153739
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fbcbe46341980eb0663c5d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024688
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fbcbe46341980eb0663c5d", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161010/1476089326119998.jpg", "ShopName" : "渤海湾海鲜大全", "ShopId" : 1686, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127160330
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.0136
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127160410
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023277
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127160420
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.035846
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160432
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02408
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160453
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02529
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160508
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=1400&$Limit=1
+超时时间:5
+处理时间:0.015602
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "Balance" : 353.4, "CityCode" : 411700, "CityName" : "驻马店市", "CreatTime" : 1475987821, "DeliverAddress" : "平舆县上河城", "ReturnAddress" : "平舆县上河城", "ShopAddress" : "平舆县上河城", "ShopDescription" : "拼一下官方旗舰店，竭诚为近服务。本店铺内销售的产品均加入有【不满意，我买单】售后计划。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopOwnerMobile" : "18300738028", "ShopOwnerName" : "田高星", "ShopType" : "企业", "ZhifubaoAccount" : "13639652933", "ShopId" : 1400, "Fans" : 0, "FreightAmout" : 3, "FreightFreeAmout" : 28, "ZhifubaoKaihu" : "田高星", "BalanceReal" : 308.4 }], "Count" : 1 }
+
+执行日期：20161127160610
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015173
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "CityName" : "信阳市", "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopId" : 727, "FreightFreeAmout" : 20 }], "Count" : 1 }
+
+执行日期：20161127160614
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.025498
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160628
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.012541
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 61.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160629
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010653
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160637
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.015667
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 61.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160649
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.027975
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 61.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160700
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.01222
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 61.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160742
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015139
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127160744
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.018834
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 61.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160757
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.024483
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 97.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160759
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=1400&$Limit=1
+超时时间:5
+处理时间:0.01948
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "Balance" : 353.4, "CityCode" : 411700, "CityName" : "驻马店市", "CreatTime" : 1475987821, "DeliverAddress" : "平舆县上河城", "ReturnAddress" : "平舆县上河城", "ShopAddress" : "平舆县上河城", "ShopDescription" : "拼一下官方旗舰店，竭诚为近服务。本店铺内销售的产品均加入有【不满意，我买单】售后计划。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopOwnerMobile" : "18300738028", "ShopOwnerName" : "田高星", "ShopType" : "企业", "ZhifubaoAccount" : "13639652933", "ShopId" : 1400, "Fans" : 0, "FreightAmout" : 3, "FreightFreeAmout" : 28, "ZhifubaoKaihu" : "田高星", "BalanceReal" : 308.4 }], "Count" : 1 }
+
+执行日期：20161127160759
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&$Limit=1
+超时时间:5
+处理时间:0.0099319999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "Balance" : 97.4, "CityCode" : 411500, "CityName" : "信阳市", "CreatTime" : 1475590249, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopOwnerMobile" : "18119880827", "ShopOwnerName" : "王前威", "ShopType" : "个人", "ZhifubaoAccount" : "372226848@qq.com", "ShopId" : 727, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 3, "FreightFreeAmout" : 20, "ZhifubaoKaihu" : "", "BalanceReal" : 56.8 }], "Count" : 1 }
+
+执行日期：20161127160800
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f3b8696341980134260150&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022814
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b8696341980134260150", "CityName" : "信阳市", "ShopLogo" : "/data/images/shop/2016-10-10/d97a56a0e7cde247394ae7d1b79f41d9.jpg", "ShopName" : "拼一下自营店", "ShopId" : 727, "FreightFreeAmout" : 20 }], "Count" : 1 }
+
+执行日期：20161127160803
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f9c96c63419a1540e862f1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.009814
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f9c96c63419a1540e862f1", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1475987301640571.jpg", "ShopName" : "拼一下旗舰店", "ShopId" : 1400, "FreightFreeAmout" : 28 }], "Count" : 1 }
+
+执行日期：20161127175159
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010438
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175209
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01543
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175216
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.012576
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175225
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.016683
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175251
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022762
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175329
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027145
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127175354
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.025799
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127180305
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.018234
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127180314
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019343
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127180316
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5633&$Limit=1
+超时时间:5
+处理时间:0.028474
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2357.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127180336
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.025267
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127180347
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023057
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127180349
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5633&$Limit=1
+超时时间:5
+处理时间:0.023454
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2357.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127180357
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.025607
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192601
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58020acf6341980c207fea47&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019874
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58020acf6341980c207fea47", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476528707881721.jpg", "ShopName" : "魔都 进口水果专营", "ShopId" : 3051 }], "Count" : 1 }
+
+执行日期：20161127192706
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fdbb166341981a98fd1bf1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.008165
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fdbb166341981a98fd1bf1", "CityName" : "抚州市", "ShopLogo" : "/data/images/shop/2016-10-12/e4275d8f9c9e85b3607c41bd823e4e48.jpg", "ShopName" : "月半小铺", "ShopId" : 2024, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192724
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5800dbe76341980c207fe92a&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02455
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5800dbe76341980c207fe92a", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161014/1476451191186456.jpg", "ShopName" : "新农村天然特产店", "ShopId" : 2412, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192739
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.007802
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192748
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017041
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192800
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5805d9256341981d8c43da7a&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027531
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805d9256341981d8c43da7a", "CityName" : "武汉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161018/1476777680453985.jpg", "ShopName" : "菲寻味专卖店", "ShopId" : 3498 }], "Count" : 1 }
+
+执行日期：20161127192823
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024225
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192838
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02125
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192851
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024621
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192915
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5823c8d36341980d2c4cbfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019614
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5823c8d36341980d2c4cbfdf", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161109/1478671880119615.jpg", "ShopName" : "暖绒服饰", "ShopId" : 6364, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127192923
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=6364&$Limit=1
+超时时间:5
+处理时间:0.021368
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5823c8d36341980d2c4cbfdf", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1478740179, "DeliverAddress" : "江苏省新沂市新安西路1号", "ReturnAddress" : "江苏省新沂市新安西路1号", "ShopAddress" : "江苏省新沂市新安西路1号", "ShopDescription" : "本店经营服饰配件，围巾，袖口，耳套，毛领 等。本店所有商品都是自家工厂生产，物美价廉", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161109/1478671880119615.jpg", "ShopName" : "暖绒服饰", "ShopOwnerMobile" : "18762561688", "ShopOwnerName" : "李伟", "ShopType" : "个人", "ZhifubaoAccount" : "18762561688", "ShopId" : 6364, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "李伟" }], "Count" : 1 }
+
+执行日期：20161127192929
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5823c8d36341980d2c4cbfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.016985
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5823c8d36341980d2c4cbfdf", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161109/1478671880119615.jpg", "ShopName" : "暖绒服饰", "ShopId" : 6364, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127203858
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.037419
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "CityName" : "衢州市", "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopId" : 1042, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127203901
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.030966
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 985.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127203918
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.018473
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 985.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127203931
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.011149
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 4729.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127203939
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.028372
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 4729.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127203940
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017161
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "CityName" : "衢州市", "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopId" : 1042, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204033
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.026319
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "CityName" : "衢州市", "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopId" : 1042, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204035
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.020383
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 4729.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127204055
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.017062
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 4729.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127204106
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.011979
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 9353.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127204107
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&$Limit=1
+超时时间:5
+处理时间:0.009844
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "Balance" : 9353.27, "CityCode" : 330800, "CityName" : "衢州市", "CreatTime" : 1475847113, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopOwnerMobile" : "13757002326", "ShopOwnerName" : "杜彬彬", "ShopType" : "个人", "ZhifubaoAccount" : "13757002326", "ShopId" : 1042, "Fans" : 0, "ShopDescription" : "", "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "杜彬彬", "BalanceReal" : 0.06 }], "Count" : 1 }
+
+执行日期：20161127204108
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57f7a3c96341981970f2f4b8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.012324
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a3c96341981970f2f4b8", "CityName" : "衢州市", "ShopLogo" : "", "ShopName" : "杜氏果行", "ShopId" : 1042, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204208
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019099
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204223
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580620fe6341981d8c43dae8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024294
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580620fe6341981d8c43dae8", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161018/1476796491111297.jpg", "ShopName" : "丹的水果铺", "ShopId" : 3598, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204238
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02839
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204302
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580620fe6341981d8c43dae8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.0094609999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580620fe6341981d8c43dae8", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161018/1476796491111297.jpg", "ShopName" : "丹的水果铺", "ShopId" : 3598, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204336
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5801de6c6341980c207fe9d2&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022619
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801de6c6341980c207fe9d2", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476517090491681.jpg", "ShopName" : "若水化妆品店", "ShopId" : 2870, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204407
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580620fe6341981d8c43dae8&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.009225
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580620fe6341981d8c43dae8", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161018/1476796491111297.jpg", "ShopName" : "丹的水果铺", "ShopId" : 3598, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204428
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.021186
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127204802
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023421
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127212933
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581714546341980fe45f5ea5&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.008567
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581714546341980fe45f5ea5", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477906649115514.jpg", "ShopName" : "张掖田禾三福粮油", "ShopId" : 5688 }], "Count" : 1 }
+
+执行日期：20161127212935
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5688&$Limit=1
+超时时间:5
+处理时间:0.016029
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581714546341980fe45f5ea5", "Balance" : 0, "CityCode" : 620700, "CityName" : "张掖市", "CreatTime" : 1477907540, "DeliverAddress" : "甘州区南街陈家花园", "ReturnAddress" : "甘州区南街陈家花园", "ShopAddress" : "甘州区南街陈家花园", "ShopDescription" : "张掖本地经营粮油批发零售30多年，凭质量赢口碑。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477906649115514.jpg", "ShopName" : "张掖田禾三福粮油", "ShopOwnerMobile" : "18993636621", "ShopOwnerName" : "安颖超", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 5688, "Fans" : 0 }], "Count" : 1 }
+
+执行日期：20161127212940
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581714546341980fe45f5ea5&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020721
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581714546341980fe45f5ea5", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477906649115514.jpg", "ShopName" : "张掖田禾三福粮油", "ShopId" : 5688 }], "Count" : 1 }
+
+执行日期：20161127212951
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5821ba7d63419f1ea0fddfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015476
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopId" : 6267 }], "Count" : 1 }
+
+执行日期：20161127212954
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=6267&$Limit=1
+超时时间:5
+处理时间:0.030551
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "Balance" : 48, "CityCode" : 620700, "CityName" : "张掖市", "CreatTime" : 1478605437, "DeliverAddress" : "上海", "ReturnAddress" : "上海", "ShopAddress" : "上海", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopOwnerMobile" : "15593626626", "ShopOwnerName" : "赵燕", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 6267, "Fans" : 0, "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127212955
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5821ba7d63419f1ea0fddfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017977
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopId" : 6267 }], "Count" : 1 }
+
+执行日期：20161127213005
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=6267&$Limit=1
+超时时间:5
+处理时间:0.02694
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "Balance" : 48, "CityCode" : 620700, "CityName" : "张掖市", "CreatTime" : 1478605437, "DeliverAddress" : "上海", "ReturnAddress" : "上海", "ShopAddress" : "上海", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopOwnerMobile" : "15593626626", "ShopOwnerName" : "赵燕", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 6267, "Fans" : 0, "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127222604
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022736
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127224926
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5821ba7d63419f1ea0fddfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017599
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopId" : 6267 }], "Count" : 1 }
+
+执行日期：20161127224931
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=6267&$Limit=1
+超时时间:5
+处理时间:0.008731
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "Balance" : 48, "CityCode" : 620700, "CityName" : "张掖市", "CreatTime" : 1478605437, "DeliverAddress" : "上海", "ReturnAddress" : "上海", "ShopAddress" : "上海", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopOwnerMobile" : "15593626626", "ShopOwnerName" : "赵燕", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 6267, "Fans" : 0, "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127224952
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5821ba7d63419f1ea0fddfdf&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.012155
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5821ba7d63419f1ea0fddfdf", "CityName" : "张掖市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "ShopName" : "TST庭秘密", "ShopId" : 6267 }], "Count" : 1 }
+
+执行日期：20161127225008
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017194
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225104
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023677
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225208
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.0087039999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225506
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020896
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225540
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019907
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225645
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017213
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225741
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.008836
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127225848
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&$Limit=1
+超时时间:5
+处理时间:0.028631
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2357.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127225951
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017602
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127230014
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5633&$Limit=1
+超时时间:5
+处理时间:0.020611
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2358.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127230019
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5633&$Limit=1
+超时时间:5
+处理时间:0.008965
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2358.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127230113
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5633&$Limit=1
+超时时间:5
+处理时间:0.0083139999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "Balance" : 2358.6, "CityCode" : 310100, "CityName" : "上海市", "CreatTime" : 1477899830, "DeliverAddress" : "", "ReturnAddress" : "", "ShopAddress" : "", "ShopDescription" : "", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopOwnerMobile" : "4006590698", "ShopOwnerName" : "拼一下商城上海总部", "ShopType" : "企业", "ZhifubaoAccount" : "", "ShopId" : 5633, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 95.9 }], "Count" : 1 }
+
+执行日期：20161127230116
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017815
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127230205
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58116a0f6341981810eb1fd9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.00814
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a0f6341981810eb1fd9", "CityName" : "平凉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161027/1477535676611094.jpg", "ShopName" : "甘肃静宁苹果", "ShopId" : 5249, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161127230213
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5249&$Limit=1
+超时时间:5
+处理时间:0.026534
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a0f6341981810eb1fd9", "Balance" : 0, "CityCode" : 620800, "CityName" : "平凉市", "CreatTime" : 1477536270, "DeliverAddress" : "甘肃省平凉市静宁县", "ReturnAddress" : "甘肃省平凉市静宁县", "ShopAddress" : "甘肃省平凉市静宁县", "ShopDescription" : "甘肃静宁高原有机苹果", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161027/1477535676611094.jpg", "ShopName" : "甘肃静宁苹果", "ShopOwnerMobile" : "18993338508", "ShopOwnerName" : "马建刚", "ShopType" : "个人", "ZhifubaoAccount" : "", "ShopId" : 5249, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "马建刚" }], "Count" : 1 }
+
+执行日期：20161127230224
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58116a0f6341981810eb1fd9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01048
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a0f6341981810eb1fd9", "CityName" : "平凉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161027/1477535676611094.jpg", "ShopName" : "甘肃静宁苹果", "ShopId" : 5249, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161127230228
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5804415c63419812f8557bc3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027048
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804415c63419812f8557bc3", "CityName" : "汉中市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476673828508205.jpg", "ShopName" : "山野小店", "ShopId" : 3278, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161127231332
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5804d4f863419812f8557cb9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.008368
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804d4f863419812f8557cb9", "CityName" : "深圳市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476677627559413.jpg", "ShopName" : "百农园", "ShopId" : 3406 }], "Count" : 1 }
+
+执行日期：20161127231515
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020782
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+
+执行日期：20161127231529
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.02353
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127231535
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.018188
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127231541
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=5327&$Limit=1
+超时时间:5
+处理时间:0.027289
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "Balance" : 65, "CityCode" : 441300, "CityName" : "惠州市", "CreatTime" : 1477550878, "DeliverAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ReturnAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopAddress" : "广东省惠州市惠东县大岭镇沙梨园区星兴楼", "ShopDescription" : "本店来自广东省 ● 惠州市 ● 惠东县（中国女鞋生产基地）诚信经营，货真价实，顾客至上，信誉第一！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopOwnerMobile" : "15679099307", "ShopOwnerName" : "刘聪", "ShopType" : "个人", "ZhifubaoAccount" : "15679099307", "ShopId" : 5327, "Fans" : 0, "FreightAmout" : 6, "FreightFreeAmout" : 80, "ZhifubaoKaihu" : "刘聪", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161127231542
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5811a31e6341981810eb20a1&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027775
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811a31e6341981810eb20a1", "CityName" : "惠州市", "ShopLogo" : "/data/images/shop/2016-11-26/8e6895c4163faa852d502e38130e23a4.jpg", "ShopName" : "恒景鞋业", "ShopId" : 5327, "FreightFreeAmout" : 80 }], "Count" : 1 }
+

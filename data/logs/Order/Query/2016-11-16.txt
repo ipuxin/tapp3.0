@@ -1,0 +1,216 @@
+执行日期：20161116004126
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5808defb6341980e185af5ca&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.034682
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116024830
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.040637
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b3c2563419822006457e3", "OrderId" : 135662 }], "Count" : 4606 }
+
+执行日期：20161116024830
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=135699&UserId=5800ab736341980c207fe910&$Limit=1
+超时时间:5
+处理时间:0.036778
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b587e63419822006457f3", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 27361, "ProductRealId" : "5829ea206341980df8b21c42", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 135699, "TeamId" : 135699, "CreatTime" : 1479235710, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116024852
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&TeamId=135699&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.033417
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116025542
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.024768
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b594563419822006457f6", "OrderId" : 135738 }], "Count" : 4608 }
+
+执行日期：20161116025543
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=135766&UserId=5800ab736341980c207fe910&$Limit=1
+超时时间:5
+处理时间:0.043186
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b5a2e63419822006457f8", "ShopId" : "580b4d65634198126c2c1a7e", "ShopName" : "晓霞的店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 13575, "ProductRealId" : "580b57d1634198126c2c1a9c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/efb4e2562d26ad41db5b1ec8a7a446d0.jpg", "ProductName" : "【疯抢】澳大利亚脐橙6只装1元", "Prices" : "1", "PricesAll" : { "Normal" : 36, "Market" : "36", "Team" : "1" }, "DeliverAddress" : "湖北咸宁咸安区", "Description" : "澳橙味甘、性凉。具有生津止渴、开胃下气的功效。正常人饭后食橙子或饮橙汁，有解油腻、消积食、止渴、醒酒的作用。橙子营养极为丰富而全面，老幼皆宜。", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 135766, "TeamId" : 135766, "CreatTime" : 1479236142, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116025555
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&TeamId=135766&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.023416
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116025634
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.042203
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b5a2e63419822006457f8", "OrderId" : 135766 }], "Count" : 4609 }
+
+执行日期：20161116025634
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=135796&UserId=5800ab736341980c207fe910&$Limit=1
+超时时间:5
+处理时间:0.038862
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b5a6263419822006457fb", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 27284, "ProductRealId" : "5829de956341980df8b21c34", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 135796, "TeamId" : 135796, "CreatTime" : 1479236194, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116025644
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&TeamId=135796&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.033049
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116025732
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.028982
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b5a6263419822006457fb", "OrderId" : 135796 }], "Count" : 4610 }
+
+执行日期：20161116025732
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=135810&UserId=5800ab736341980c207fe910&$Limit=1
+超时时间:5
+处理时间:0.02755
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582b5a9c63419822006457fe", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 27329, "ProductRealId" : "5829e55d6341980df8b21c3f", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/6e956cc648435ee6c8a18c88289ba437.jpg", "ProductName" : "努比亚(nubia) Z11 无边框双卡双待手机 黑金版 全网通(6GRAM+64GROM)", "Prices" : "1", "PricesAll" : { "Normal" : 3199, "Market" : "3199", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：努比亚（nubia）Z11\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1000-1600万\r\n机身内存：64GB\r\n热点：后置双摄像头", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 135810, "TeamId" : 135810, "CreatTime" : 1479236252, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116025744
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&TeamId=135810&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.025612
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116071718
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582af7bf6341982200645687&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.034165
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116071724
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582af7bf6341982200645687&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.030111
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116071730
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582af7bf6341982200645687&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.028397
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116071736
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582af7bf6341982200645687&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.029086
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116192207
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.040904
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c3f0463419822006459e2", "OrderId" : 137978 }], "Count" : 4684 }
+
+执行日期：20161116192319
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.040342
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c416063419822006459eb", "OrderId" : 138025 }], "Count" : 4685 }
+
+执行日期：20161116192319
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138067&UserId=582c0b0f634198220064595c&$Limit=1
+超时时间:5
+处理时间:0.03658
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c41a763419822006459ee", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "582c0b0f634198220064595c", "CityCode" : 620700, "CityName" : "张掖市", "OrderType" : 2, "ProductId" : 27361, "ProductRealId" : "5829ea206341980df8b21c42", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479294716691", "RealName" : "郭天仙", "Mobile" : "13830666651", "ProviceCode" : "620000", "ProviceName" : "甘肃省", "CityCode" : "620700", "CityName" : "张掖市", "DistrictCode" : "620702", "DistrictName" : "甘州区", "Address" : "金张掖钢材市场往东600米", "Type" : null, "RealAddress" : "甘肃省张掖市甘州区金张掖钢材市场往东600米" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138067, "TeamId" : 138067, "CreatTime" : 1479295399, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116192334
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.033916
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c41a763419822006459ee", "OrderId" : 138067 }], "Count" : 4686 }
+
+执行日期：20161116192334
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138087&UserId=582c0b0f634198220064595c&$Limit=1
+超时时间:5
+处理时间:0.033266
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c41b663419822006459f1", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "582c0b0f634198220064595c", "CityCode" : 620700, "CityName" : "张掖市", "OrderType" : 2, "ProductId" : 27361, "ProductRealId" : "5829ea206341980df8b21c42", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479294716691", "RealName" : "郭天仙", "Mobile" : "13830666651", "ProviceCode" : "620000", "ProviceName" : "甘肃省", "CityCode" : "620700", "CityName" : "张掖市", "DistrictCode" : "620702", "DistrictName" : "甘州区", "Address" : "金张掖钢材市场往东600米", "Type" : null, "RealAddress" : "甘肃省张掖市甘州区金张掖钢材市场往东600米" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138087, "TeamId" : 138087, "CreatTime" : 1479295414, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116192343
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582c0b0f634198220064595c&TeamId=138087&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.029647
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116192349
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582c0b0f634198220064595c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.0259
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c41b663419822006459f1", "OrderType" : 2, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138087, "TeamId" : 138087, "OrderStatus" : 2 }, { "id" : "582c41a763419822006459ee", "OrderType" : 2, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138067, "TeamId" : 138067, "OrderStatus" : 2 }, { "id" : "582c416063419822006459eb", "OrderType" : 2, "ProductId" : 27258, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/90118bb280f67075a9dee87ea18b5556.jpg", "ProductName" : "华为Mate9 手机 香槟金 全网通(4GB+64GB)", "Prices" : "1", "PricesAll" : { "Normal" : 4299, "Market" : "4299", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "分辨率：1920*1080(FHD)\r\n后置摄像头：其他\r\n前置摄像头：800万像素\r\n核      数：八核\r\n品牌： 华为（HUAWEI） \r\n商品名称：华为（HUAWEI）mate9\r\n系统：安卓（Android）\r\n电池容量：4000mAh-5999mAh\r\n像素：1000-1600万\r\n其他热点：双卡双待，指纹识别，后置双摄像头，拍照神器", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138025, "TeamId" : 138025, "OrderStatus" : 1 }, { "id" : "582c3f0463419822006459e2", "OrderType" : 3, "ProductId" : 27258, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/90118bb280f67075a9dee87ea18b5556.jpg", "ProductName" : "华为Mate9 手机 香槟金 全网通(4GB+64GB)", "Prices" : "1", "PricesAll" : { "Normal" : 4299, "Market" : "4299", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "分辨率：1920*1080(FHD)\r\n后置摄像头：其他\r\n前置摄像头：800万像素\r\n核      数：八核\r\n品牌： 华为（HUAWEI） \r\n商品名称：华为（HUAWEI）mate9\r\n系统：安卓（Android）\r\n电池容量：4000mAh-5999mAh\r\n像素：1000-1600万\r\n其他热点：双卡双待，指纹识别，后置双摄像头，拍照神器", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 128154, "OrderId" : 137978, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161116192354
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138025&UserId=582c0b0f634198220064595c&$Limit=1
+超时时间:5
+处理时间:0.03099
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c416063419822006459eb", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "582c0b0f634198220064595c", "CityCode" : 620700, "CityName" : "张掖市", "OrderType" : 2, "ProductId" : 27258, "ProductRealId" : "5829db1a6341980df8b21c32", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/90118bb280f67075a9dee87ea18b5556.jpg", "ProductName" : "华为Mate9 手机 香槟金 全网通(4GB+64GB)", "Prices" : "1", "PricesAll" : { "Normal" : 4299, "Market" : "4299", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "分辨率：1920*1080(FHD)\r\n后置摄像头：其他\r\n前置摄像头：800万像素\r\n核      数：八核\r\n品牌： 华为（HUAWEI） \r\n商品名称：华为（HUAWEI）mate9\r\n系统：安卓（Android）\r\n电池容量：4000mAh-5999mAh\r\n像素：1000-1600万\r\n其他热点：双卡双待，指纹识别，后置双摄像头，拍照神器", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479294716691", "RealName" : "郭天仙", "Mobile" : "13830666651", "ProviceCode" : "620000", "ProviceName" : "甘肃省", "CityCode" : "620700", "CityName" : "张掖市", "DistrictCode" : "620702", "DistrictName" : "甘州区", "Address" : "金张掖钢材市场往东600米", "Type" : null, "RealAddress" : "甘肃省张掖市甘州区金张掖钢材市场往东600米" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138025, "TeamId" : 138025, "CreatTime" : 1479295327, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116192407
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582c0b0f634198220064595c&TeamId=138025&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.043088
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116192411
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582c0b0f634198220064595c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.033354
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c41b663419822006459f1", "OrderType" : 2, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138087, "TeamId" : 138087, "OrderStatus" : 2 }, { "id" : "582c41a763419822006459ee", "OrderType" : 2, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138067, "TeamId" : 138067, "OrderStatus" : 2 }, { "id" : "582c416063419822006459eb", "OrderType" : 2, "ProductId" : 27258, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/90118bb280f67075a9dee87ea18b5556.jpg", "ProductName" : "华为Mate9 手机 香槟金 全网通(4GB+64GB)", "Prices" : "1", "PricesAll" : { "Normal" : 4299, "Market" : "4299", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "分辨率：1920*1080(FHD)\r\n后置摄像头：其他\r\n前置摄像头：800万像素\r\n核      数：八核\r\n品牌： 华为（HUAWEI） \r\n商品名称：华为（HUAWEI）mate9\r\n系统：安卓（Android）\r\n电池容量：4000mAh-5999mAh\r\n像素：1000-1600万\r\n其他热点：双卡双待，指纹识别，后置双摄像头，拍照神器", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138025, "TeamId" : 138025, "OrderStatus" : 2 }, { "id" : "582c3f0463419822006459e2", "OrderType" : 3, "ProductId" : 27258, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/90118bb280f67075a9dee87ea18b5556.jpg", "ProductName" : "华为Mate9 手机 香槟金 全网通(4GB+64GB)", "Prices" : "1", "PricesAll" : { "Normal" : 4299, "Market" : "4299", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "分辨率：1920*1080(FHD)\r\n后置摄像头：其他\r\n前置摄像头：800万像素\r\n核      数：八核\r\n品牌： 华为（HUAWEI） \r\n商品名称：华为（HUAWEI）mate9\r\n系统：安卓（Android）\r\n电池容量：4000mAh-5999mAh\r\n像素：1000-1600万\r\n其他热点：双卡双待，指纹识别，后置双摄像头，拍照神器", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 128154, "OrderId" : 137978, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161116205502
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582bb4ad63419822006458a5&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.017539
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161116215833
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57ff10196341980624c362ca&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.024227
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ff10ca6341980624c362cf", "OrderType" : 3, "ProductId" : 4581, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/fdf853e15d742da03511024c6f60b865.jpg", "ProductName" : "6A 山竹大果一元夺宝", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "25", "Team" : "1" }, "DeliverAddress" : "平舆县上河城", "Description" : "　山竹称为果后，除了本身的味道甜美之外，还在古时东南亚医药中所担当的角色，传统上，山竹被人用来控制发烧的温度及防止各种皮肤感染。\r\n       山竹中所含有的营养价值非常丰富，其中山竹中所含有的蛋白质与脂类非常丰富，对于人体具有很好的补充营养的作用，尤其对于营养不良，体质虚弱及病后的人群都能起到很好的保健作用。\r\n     山竹中含有一种物质具有清热解凉的作用，因此经常吃山竹还可以有降火的功效，还能解除人体的燥热，让身体变得更加凉爽。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 8627, "OrderId" : 10731, "OrderStatus" : 7 }], "Count" : 1 }
+
+执行日期：20161116222013
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.037763
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c678463419817dc77de1f", "OrderId" : 138577 }], "Count" : 4703 }
+
+执行日期：20161116222013
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138601&UserId=58299b9a6341980df8b21bf4&$Limit=1
+超时时间:5
+处理时间:0.03222
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c6b1d63419817dc77de2a", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "58299b9a6341980df8b21bf4", "CityCode" : 330100, "CityName" : "杭州市", "OrderType" : 2, "ProductId" : 27284, "ProductRealId" : "5829de956341980df8b21c34", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479122247553", "RealName" : "凌云丛", "Mobile" : "18376676668", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330100", "CityName" : "杭州市", "DistrictCode" : "330104", "DistrictName" : "江干区", "Address" : "下沙十二号大街伊萨卡1橦3单元", "Type" : null, "RealAddress" : "浙江省杭州市江干区下沙十二号大街伊萨卡1橦3单元" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138601, "TeamId" : 138601, "CreatTime" : 1479306013, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116222322
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.037709
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c6bc963419817dc77de2e", "OrderId" : 138628 }], "Count" : 4705 }
+
+执行日期：20161116222322
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138641&UserId=5816b0996341982128df7285&$Limit=1
+超时时间:5
+处理时间:0.037273
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c6bda63419817dc77de31", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 2, "ProductId" : 27284, "ProductRealId" : "5829de956341980df8b21c34", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138641, "TeamId" : 138641, "CreatTime" : 1479306202, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116222334
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138641&$Limit=1
+超时时间:5
+处理时间:0.034834
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c6bda63419817dc77de31", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 2, "ProductId" : 27284, "ProductRealId" : "5829de956341980df8b21c34", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138641, "TeamId" : 138641, "CreatTime" : 1479306202, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116222402
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=138641&$Limit=1
+超时时间:5
+处理时间:0.027485
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582c6bda63419817dc77de31", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 2, "ProductId" : 27284, "ProductRealId" : "5829de956341980df8b21c34", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 138641, "TeamId" : 138641, "CreatTime" : 1479306202, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161116234341
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5809d2286341980e185af7ea&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.028234
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5809d2726341980e185af7ec", "OrderType" : 3, "ProductId" : 10458, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-19/2c573e2ae6e848ac16cdc42c9f90caa6.jpg", "ProductName" : "莫代尔土豪金磁疗卫裤 RESURGENCE", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "199", "Team" : "1" }, "DeliverAddress" : "上海市奉贤区庄行镇邬桥社区", "Description" : "英国卫裤的主要功效：\r\n短小、肾虚、阳痿早泄、性功能减退、性欲低下、自身发育缓慢导致发育不良，勃起无力，射精强度弱，前列腺增生肥大引起的睾丸胀痛、下腹坠胀、尿频、尿急、阴囊潮湿、腰酸背痛、遗精、少精，房事疲劳，中老年性萎缩引起的萎缩、性欲低下、勃起困难，由于糖尿病、心脑血管病、外伤等不同病因引起的性功能障碍。\r\n夏天出汗多，普通内裤不透气吸湿，还容易勒\r\n着裆部，一天下来，湿湿的，有异味，粘在身上别提多难受，还易滋生细菌，从而导致一系列疾病隐患。英国卫裤，采用高科技太空磁面料，加入磁性按摩纤维，内裤实现360°均衡释压，能有效调节阴囊温度，恒温35 度，穿着更舒适，更健康。\r\n", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 28738, "OrderId" : 28782, "OrderStatus" : 7 }], "Count" : 1 }
+

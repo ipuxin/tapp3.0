@@ -1,0 +1,12 @@
+执行日期：20161121180633
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=532428595719&sid=ZTO
+超时时间:5
+处理时间:1.134069
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"ZTO","Success":true,"LogisticCode":"532428595719","State":"3","Traces":[{"AcceptTime":"2016-10-15 01:10:29","AcceptStation":"成都新都 的 羊羊羊 已收件"},{"AcceptTime":"2016-10-15 01:12:05","AcceptStation":"快件离开 成都新都 已发往 成都中转"},{"AcceptTime":"2016-10-15 01:48:34","AcceptStation":"快件已到达 成都中转"},{"AcceptTime":"2016-10-15 02:47:24","AcceptStation":"快件离开 成都中转 已发往 南京中转部"},{"AcceptTime":"2016-10-16 04:12:09","AcceptStation":"快件已到达 南京中转部"},{"AcceptTime":"2016-10-16 05:03:28","AcceptStation":"快件离开 南京中转部 已发往 上海"},{"AcceptTime":"2016-10-16 10:14:08","AcceptStation":"快件已到达 上海"},{"AcceptTime":"2016-10-16 11:25:14","AcceptStation":"快件离开 上海 已发往 桃浦"},{"AcceptTime":"2016-10-16 11:39:44","AcceptStation":"快件已到达 桃浦"},{"AcceptTime":"2016-10-16 14:53:15","AcceptStation":"桃浦 的 景奎 正在派件"},{"AcceptTime":"2016-10-16 16:20:05","AcceptStation":"桃浦的派件已签收，感谢您使用中通快递！"}]}}
+
+执行日期：20161121210118
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=532428595719&sid=ZTO
+超时时间:5
+处理时间:1.067987
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"ZTO","Success":true,"LogisticCode":"532428595719","State":"3","Traces":[{"AcceptTime":"2016-10-15 01:10:29","AcceptStation":"成都新都 的 羊羊羊 已收件"},{"AcceptTime":"2016-10-15 01:12:05","AcceptStation":"快件离开 成都新都 已发往 成都中转"},{"AcceptTime":"2016-10-15 01:48:34","AcceptStation":"快件已到达 成都中转"},{"AcceptTime":"2016-10-15 02:47:24","AcceptStation":"快件离开 成都中转 已发往 南京中转部"},{"AcceptTime":"2016-10-16 04:12:09","AcceptStation":"快件已到达 南京中转部"},{"AcceptTime":"2016-10-16 05:03:28","AcceptStation":"快件离开 南京中转部 已发往 上海"},{"AcceptTime":"2016-10-16 10:14:08","AcceptStation":"快件已到达 上海"},{"AcceptTime":"2016-10-16 11:25:14","AcceptStation":"快件离开 上海 已发往 桃浦"},{"AcceptTime":"2016-10-16 11:39:44","AcceptStation":"快件已到达 桃浦"},{"AcceptTime":"2016-10-16 14:53:15","AcceptStation":"桃浦 的 景奎 正在派件"},{"AcceptTime":"2016-10-16 16:20:05","AcceptStation":"桃浦的派件已签收，感谢您使用中通快递！"}]}}
+

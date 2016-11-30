@@ -1,0 +1,30 @@
+执行日期：20161106003502
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5806bf3f6341981d8c43db20&AppLogined==1
+超时时间:5
+处理时间:0.024472
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5806bf3f6341981d8c43db20", "UnionId" : "oM0Ffwd04qmYkI2pRE0ZtCV9Rpcc", "OpenId" : "oE6qGwIALltVw8-mu8vpb3DDEMYE", "Subscribe" : 1, "NickName" : "妙妙", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcQKwSLCNcvib3iaJxw4YW2MKQsYxbp8diaTwauSQ7FxErhq0mUOLiaxhJviasbv8d7sDyTntaJlrR5pvQibE1ER1X0Qq/0", "UserInfo" : { "Sex" : 2, "City" : "", "Province" : "", "Country" : "中国", "Subscribe_time" : 1469663833 }, "AppLogined" : 1 }] }
+
+执行日期：20161106072116
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57f397186341980134260111&AppLogined==1
+超时时间:5
+处理时间:0.009459
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f397186341980134260111", "UnionId" : "oM0FfwTsEBHMrBNHCzCVXD6TR38k", "OpenId" : "oE6qGwEoUKswEu5dAAvpB5Q5lf8k", "Subscribe" : 1, "NickName" : "云", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcNJDPH5g0RFfuqbmpm1UJQVI6nAnNILuaqPiccYZS1R037SR1ZoF7Cy3npwOGFMG5NA7pVkj84L9NrKtsLUKIibv/0", "UserInfo" : { "Sex" : 1, "City" : "墨尔本", "Province" : "维多利亚", "Country" : "澳大利亚", "Subscribe_time" : 1467717425 }, "AppLogined" : 1 }] }
+
+执行日期：20161106123402
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57f3b0bc6341980134260147&AppLogined==1
+超时时间:5
+处理时间:0.033235
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f3b0bc6341980134260147", "UnionId" : "oM0FfwRjzbmG63HOYV6_C4-hPsts", "OpenId" : "oE6qGwHmtpCCoauabYYuRQXOIqTM", "Subscribe" : 1, "NickName" : "曹明", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkIboeERpk7250I0PbiaOCuib39SWLazpKQbbdUViaUZjGZnxQUzOERsxJKZyFQzibpU4GYXbONPicUtH5D4ib26DZ2IeV/0", "UserInfo" : { "Sex" : 1, "City" : "驻马店", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1467776120 }, "Addresses" : [{ "AddressId" : "add_1475936541102", "RealName" : "曹明", "Mobile" : "13526089035", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411500", "CityName" : "信阳市", "DistrictCode" : "411502", "DistrictName" : "浉河区", "Address" : "中国税务旁", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161106184102
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580743ea634198026c813866&AppLogined==1
+超时时间:5
+处理时间:0.027289
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580743ea634198026c813866", "UnionId" : "oM0FfwQ2mG9xEQGzSTn3FABmQ2rQ", "OpenId" : "oE6qGwDwfb1KM9x1viBHOjt9b8aU", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161106184104
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580743ea634198026c813866&UnionId==oM0FfwQ2mG9xEQGzSTn3FABmQ2rQ&OpenId==oE6qGwDwfb1KM9x1viBHOjt9b8aU&Subscribe==0&NickName==&Thumbnail==&UserInfo==%7B%22Sex%22%3Anull%2C%22City%22%3Anull%2C%22Province%22%3Anull%2C%22Country%22%3Anull%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.028711
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580743ea634198026c813866", "UnionId" : "oM0FfwQ2mG9xEQGzSTn3FABmQ2rQ", "OpenId" : "oE6qGwDwfb1KM9x1viBHOjt9b8aU", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

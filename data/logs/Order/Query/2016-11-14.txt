@@ -1,0 +1,60 @@
+执行日期：20161114151756
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582965176341980df8b21bb8&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.02783
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161114151856
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582965176341980df8b21bb8&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.039883
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161114151918
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582965176341980df8b21bb8&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.025902
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161114183505
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.036412
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582991c76341980df8b21bed", "OrderId" : 122225 }], "Count" : 4149 }
+
+执行日期：20161114183505
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=122254&UserId=5816b0996341982128df7285&$Limit=1
+超时时间:5
+处理时间:0.030109
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582993586341980df8b21bf1", "ShopId" : "5823c8d36341980d2c4cbfdf", "ShopName" : "暖绒服饰", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 1, "ProductId" : 26341, "ProductRealId" : "5823e9276341980d2c4cc09c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-10/6e0751ca38a1576a9b2bfa708383e250.jpg", "ProductName" : "新款冬季仿皮草毛毛袖套袖口护腕毛绒手环手圈 ", "Prices" : 16.9, "PricesAll" : { "Normal" : 16.9, "Market" : "19.9" }, "DeliverAddress" : "江苏省新沂市新安西路1号", "Description" : "本店毛毛手圈用仿兔狐毛材质制作，和一般卖家的手圈是有很大区别的，我们的是升级版仿兔狐毛，绝对是一份价钱一分货哦。。\r\n\r\n【规格】：袖围是29-31厘米 宽约13-15厘米\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 16.9, "freightFee" : 0, "OrderFee" : 16.9, "OrderId" : 122254, "CreatTime" : 1479119705, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161114183511
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=122254&$Limit=1
+超时时间:5
+处理时间:0.03118
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582993586341980df8b21bf1", "ShopId" : "5823c8d36341980d2c4cbfdf", "ShopName" : "暖绒服饰", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 1, "ProductId" : 26341, "ProductRealId" : "5823e9276341980d2c4cc09c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-10/6e0751ca38a1576a9b2bfa708383e250.jpg", "ProductName" : "新款冬季仿皮草毛毛袖套袖口护腕毛绒手环手圈 ", "Prices" : 16.9, "PricesAll" : { "Normal" : 16.9, "Market" : "19.9" }, "DeliverAddress" : "江苏省新沂市新安西路1号", "Description" : "本店毛毛手圈用仿兔狐毛材质制作，和一般卖家的手圈是有很大区别的，我们的是升级版仿兔狐毛，绝对是一份价钱一分货哦。。\r\n\r\n【规格】：袖围是29-31厘米 宽约13-15厘米\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 16.9, "freightFee" : 0, "OrderFee" : 16.9, "OrderId" : 122254, "CreatTime" : 1479119705, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161114183517
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=122254&$Limit=1
+超时时间:5
+处理时间:0.023003
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582993586341980df8b21bf1", "ShopId" : "5823c8d36341980d2c4cbfdf", "ShopName" : "暖绒服饰", "UserId" : "5816b0996341982128df7285", "CityCode" : 320300, "CityName" : "徐州市", "OrderType" : 1, "ProductId" : 26341, "ProductRealId" : "5823e9276341980d2c4cc09c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-10/6e0751ca38a1576a9b2bfa708383e250.jpg", "ProductName" : "新款冬季仿皮草毛毛袖套袖口护腕毛绒手环手圈 ", "Prices" : 16.9, "PricesAll" : { "Normal" : 16.9, "Market" : "19.9" }, "DeliverAddress" : "江苏省新沂市新安西路1号", "Description" : "本店毛毛手圈用仿兔狐毛材质制作，和一般卖家的手圈是有很大区别的，我们的是升级版仿兔狐毛，绝对是一份价钱一分货哦。。\r\n\r\n【规格】：袖围是29-31厘米 宽约13-15厘米\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479119700994", "RealName" : "张丁丁", "Mobile" : "13914808914", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320300", "CityName" : "徐州市", "DistrictCode" : "320321", "DistrictName" : "丰县", "Address" : "大沙河镇中通快递", "Type" : null, "RealAddress" : "江苏省徐州市丰县大沙河镇中通快递" }, "ProductFee" : 16.9, "freightFee" : 0, "OrderFee" : 16.9, "OrderId" : 122254, "CreatTime" : 1479119705, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161114235554
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581fe35d634198206c661e3d&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.014816
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161114235602
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581fe35d634198206c661e3d&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022832
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161114235853
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581961bd6341981b94d34c55&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.029776
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581be18a63419806686d57ca", "OrderType" : 2, "ProductId" : 17687, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-26/886c6699c8e7671cc98279e79621bc47.jpg", "ProductName" : "泰国椰青（单果700-1000g）2个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "27.0", "Team" : "1" }, "DeliverAddress" : "常州市武进区大学城旁边", "Description" : "椰青和椰子的区别也体现在味道上，椰青是嫩的椰子，比起老椰子，它的椰汁更解热生津。椰青肉色白如玉、芳香滑脆，可以用来做糖水或做菜，像椰青马蹄鲜奶露、胜瓜炒椰青、椰青蒸肉蟹等。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 72112, "TeamId" : 72112, "OrderStatus" : 1 }, { "id" : "581964d36341981b94d34c56", "OrderType" : 2, "ProductId" : 17645, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-26/4846f5f1d017cf04048b2d5337007678.jpg", "ProductName" : "智利绿心奇异果（单果80-100g）10只装【拼团成功，1人中奖，其他人退款】", "Prices" : "1.68", "PricesAll" : { "Normal" : 1.68, "Market" : "26.9", "Team" : "1.68" }, "DeliverAddress" : "常州市武进区大学城旁边", "Description" : "奇异果的钙含量是葡萄柚的2.6倍、苹果的17倍、香蕉的4倍，维生素C的含量是柳橙的2倍。其营养价值远超过其他水果。丰富的维生素C，可强化免疫系统，促进伤口愈合和对铁质的吸收；它所富含的肌醇及氨基酸，可抑制抑郁症，补充脑力所消耗的营养；它的低钠高钾的完美比例，可补充熬夜加班所失去的体力。", "ProductType" : 5 }, "OrderFee" : 1.68, "OrderId" : 66351, "TeamId" : 66351, "OrderStatus" : 1 }], "Count" : 2 }
+

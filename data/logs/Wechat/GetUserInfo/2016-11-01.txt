@@ -1,0 +1,24 @@
+执行日期：20161101194104
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=nSzdnxAGPHsBUx2BgE6nYb2lB1CYMWRMg6zloZytztkg3N7fVPdCo9R0b_1piDggYxM83Rs4EfoZfpbzs79sDRQA0bdiq0rEDMSPLLeWrioihlkAeUQfjSIRdEgCAUTAYILjAEAQAD&openid=oE6qGwBN0B0grIIQfE8KDEass0Pk&lang=zh_CN
+超时时间:5 
+处理时间:0.177262
+返回参数:{"subscribe":0,"openid":"oE6qGwBN0B0grIIQfE8KDEass0Pk","unionid":"oM0FfwXWn82wJYseR5DKvhDJG3Ms","tagid_list":[]}
+
+执行日期：20161101194119
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=nSzdnxAGPHsBUx2BgE6nYb2lB1CYMWRMg6zloZytztkg3N7fVPdCo9R0b_1piDggYxM83Rs4EfoZfpbzs79sDRQA0bdiq0rEDMSPLLeWrioihlkAeUQfjSIRdEgCAUTAYILjAEAQAD&openid=oE6qGwBN0B0grIIQfE8KDEass0Pk&lang=zh_CN
+超时时间:5 
+处理时间:0.1531
+返回参数:{"subscribe":0,"openid":"oE6qGwBN0B0grIIQfE8KDEass0Pk","unionid":"oM0FfwXWn82wJYseR5DKvhDJG3Ms","tagid_list":[]}
+
+执行日期：20161101210052
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=nSzdnxAGPHsBUx2BgE6nYb2lB1CYMWRMg6zloZytztkg3N7fVPdCo9R0b_1piDggYxM83Rs4EfoZfpbzs79sDRQA0bdiq0rEDMSPLLeWrioihlkAeUQfjSIRdEgCAUTAYILjAEAQAD&openid=oE6qGwEMrw-fIn8dQxFZ4XnJNHFw&lang=zh_CN
+超时时间:5 
+处理时间:0.129137
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [EdxF30252vr42!]"}
+
+执行日期：20161101210054
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&openid=oE6qGwEMrw-fIn8dQxFZ4XnJNHFw&lang=zh_CN
+超时时间:5 
+处理时间:0.168178
+返回参数:{"subscribe":1,"openid":"oE6qGwEMrw-fIn8dQxFZ4XnJNHFw","nickname":"wendy","sex":2,"language":"zh_CN","city":"常德","province":"湖南","country":"中国","headimgurl":"http:\/\/wx.qlogo.cn\/mmopen\/AEkl2dhLSEcQKwSLCNcvib3dt0qSrpk9WBR0oAnN8iaEFwgrX9oVk7K58DYjV62zKaFkg1otENQzR9FrXoMJtffcl26Js0Hr3r\/0","subscribe_time":1478001803,"unionid":"oM0FfwbqbP0oza7VrDuzy9Ekal4s","remark":"","groupid":0,"tagid_list":[]}
+

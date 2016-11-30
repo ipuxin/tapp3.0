@@ -1,0 +1,12 @@
+执行日期：20161123131715
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=8LWwn2WXEG7VXkl5K2WICBxce-pm1nqXSE676QrZPSw6wQBs4vjbGh6DksCQQAjkS9q-QkDocJL_fNx7V1Kj4crnMF_MAZT47imMpMcJfJJcTg1kULzgSFrAb3DQQPihZXZeAGACAC&openid=oE6qGwJYdGMrM5oOBSdVfJj1991A&lang=zh_CN
+超时时间:5 
+处理时间:0.153237
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [F1yfNa0235vr44!]"}
+
+执行日期：20161123131717
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=l7jM0BLzkp42QY743Vg9yPua5nhcFDyai-bOBb-3_mWcmSfmIFqXYA4d33Q-Qus94I3eaAvif8pk8D7hzeaDW_Uv4Imffm7qKEQV0LzSme2SZphwU72Z6FsfYM558dE8SLVhADAZSC&openid=oE6qGwJYdGMrM5oOBSdVfJj1991A&lang=zh_CN
+超时时间:5 
+处理时间:0.153252
+返回参数:{"subscribe":1,"openid":"oE6qGwJYdGMrM5oOBSdVfJj1991A","nickname":"A..华仔.VIP微信商家","sex":1,"language":"zh_CN","city":"泰州","province":"江苏","country":"中国","headimgurl":"http:\/\/wx.qlogo.cn\/mmopen\/nibxxlib1VaPcxUL5rfgiaGQ2RlNYl3VyvaBBicRNdvkBcmePzHyCUhkVNmicQ6r5kozoEqqkOOiak6m3MuVGbT15qbQ\/0","subscribe_time":1479356783,"unionid":"oM0FfwaPRHNxht8jJyYDsMAFqARg","remark":"","groupid":0,"tagid_list":[]}
+

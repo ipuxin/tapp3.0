@@ -1,0 +1,24 @@
+执行日期：20161102133305
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=58197a8f6341981b94d34ca1&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1478064785
+超时时间:5
+处理时间:0.014824
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58197a8f6341981b94d34ca1", "ShopId" : "581089da6341981810eb1ec9", "ShopName" : "水果小铺", "UserId" : "57f38dd363419801342600ef", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 17612, "ProductRealId" : "58108b866341981810eb1ecb", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-26/46d7c70064e379c5f270dcbd64f257fe.jpg", "ProductName" : "新疆库尔勒香梨 （单果80-100g ）4斤装 【拼团成功，头像显示中奖的（1人）即为免费试吃客户】", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "27.9", "Team" : "0" }, "DeliverAddress" : "常州市武进区大学城旁边", "Description" : "库尔勒香梨属新疆梨种，单果70-100g，果皮薄，质脆，果肉白色，肉质细嫩，石细胞少，坚硬，多汁味甜，近果心处略酸，香味浓郁。库尔勒香梨不仅可以生食，而且可以做梨酒、梨膏等相关食品，并有“润肺、凉心、消痰、消炎、止咳、解疮毒酒毒”等医疗作用。", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 66900, "TeamId" : 66900, "CreatTime" : 1478064783, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1478064785 }] }
+
+执行日期：20161102133305
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=58197a8f6341981b94d34ca1
+超时时间:5
+处理时间:0.017802
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+
+执行日期：20161102133320
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=58197aa06341981b94d34ca3&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1478064800
+超时时间:5
+处理时间:0.021311
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58197aa06341981b94d34ca3", "ShopId" : "581089da6341981810eb1ec9", "ShopName" : "水果小铺", "UserId" : "57f38dd363419801342600ef", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 17612, "ProductRealId" : "58108b866341981810eb1ecb", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-26/46d7c70064e379c5f270dcbd64f257fe.jpg", "ProductName" : "新疆库尔勒香梨 （单果80-100g ）4斤装 【拼团成功，头像显示中奖的（1人）即为免费试吃客户】", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "27.9", "Team" : "0" }, "DeliverAddress" : "常州市武进区大学城旁边", "Description" : "库尔勒香梨属新疆梨种，单果70-100g，果皮薄，质脆，果肉白色，肉质细嫩，石细胞少，坚硬，多汁味甜，近果心处略酸，香味浓郁。库尔勒香梨不仅可以生食，而且可以做梨酒、梨膏等相关食品，并有“润肺、凉心、消痰、消炎、止咳、解疮毒酒毒”等医疗作用。", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477267945698", "RealName" : "路", "Mobile" : "13818869443", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "大学城", "Type" : null, "RealAddress" : "江苏省常州市武进区大学城" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 66932, "TeamId" : 66932, "CreatTime" : 1478064800, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1478064800 }] }
+
+执行日期：20161102133320
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=58197aa06341981b94d34ca3
+超时时间:5
+处理时间:0.014568
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+

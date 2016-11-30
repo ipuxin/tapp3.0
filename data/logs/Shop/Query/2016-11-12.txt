@@ -1,0 +1,390 @@
+执行日期：20161112074309
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=58020acf6341980c207fea47&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.019037
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58020acf6341980c207fea47", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161015/1476528707881721.jpg", "ShopName" : "魔都 进口水果专营", "ShopId" : 3051 }], "Count" : 1 }
+
+执行日期：20161112074313
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57ef4c8c634199034056b774&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.0071650000000001
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ef4c8c634199034056b774", "CityName" : "上海市", "ShopLogo" : "/data/images/shop/2016-10-11/1e2ef1dc2727975bd194e997b1edc032.jpg", "ShopName" : "Wilson store", "ShopId" : 435, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112074337
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010893
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112074340
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010624
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112074343
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580c32326341981260f58313&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.007969
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c32326341981260f58313", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161023/1477194209133415.jpg", "ShopName" : "河阴软子石榴店", "ShopId" : 4577, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112093837
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017089
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112100458
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.014722
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112111954
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.009145
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112112001
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580c32326341981260f58313&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01832
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c32326341981260f58313", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161023/1477194209133415.jpg", "ShopName" : "河阴软子石榴店", "ShopId" : 4577, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112112843
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011687
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112112847
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&$Limit=1
+超时时间:5
+处理时间:0.027946
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "Balance" : 589.96, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1476622301, "DeliverAddress" : "武进区南湖家苑", "ReturnAddress" : "武进区南湖家苑", "ShopAddress" : "武进区南湖家苑", "ShopDescription" : "实体网络同城配送", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopOwnerMobile" : "18505208193", "ShopOwnerName" : "李鹏", "ShopType" : "个人", "ZhifubaoAccount" : "18505208193", "ShopId" : 3205, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 198.01 }], "Count" : 1 }
+
+执行日期：20161112112849
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.029758
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112120251
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5816f6376341980fe45f5e11&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024162
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816f6376341980fe45f5e11", "CityName" : "上海市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "ShopName" : "拼一下商城旗舰总店", "ShopId" : 5633, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112122517
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=5806de9a6341981d8c43db67&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.016573
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5806de9a6341981d8c43db67", "CityName" : "宜春市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161019/1476841840132382.jpg", "ShopName" : "状元洲深山大米旗舰店", "ShopId" : 3643, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112124745
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fbcbe46341980eb0663c5d&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010479
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fbcbe46341980eb0663c5d", "CityName" : "驻马店市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161010/1476089326119998.jpg", "ShopName" : "渤海湾海鲜大全", "ShopId" : 1686, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112125735
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fda3a56341981a98fd1bad&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023346
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fda3a56341981a98fd1bad", "CityName" : "扬州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161012/1476240265119761.jpg", "ShopName" : "拼一下商城官方旗舰店", "ShopId" : 1976, "FreightFreeAmout" : 1000 }], "Count" : 1 }
+
+执行日期：20161112134115
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.021582
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134138
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.020747
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134158
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.01676
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134209
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.016822
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134220
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015273
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134227
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.022528
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134237
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011657
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134242
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.020665
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134246
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02404
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134249
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.019694
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134253
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.016315
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134256
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.019989
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134300
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.031524
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134302
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.009906
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134305
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024324
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134309
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011896
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134319
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&$Limit=1
+超时时间:5
+处理时间:0.023208
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "Balance" : 128.66, "CityCode" : 320400, "CityName" : "常州市", "CreatTime" : 1477478874, "DeliverAddress" : "常州市武进区大学城旁边", "ReturnAddress" : "常州市武进区大学城旁边", "ShopAddress" : "常州市武进区大学城旁边", "ShopDescription" : "为大家提供最新鲜的水果和特产服务。", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopOwnerMobile" : "13818869443", "ShopOwnerName" : "国锋", "ShopType" : "个人", "ZhifubaoAccount" : "346993790@qq.com", "ShopId" : 5207, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 99, "ZhifubaoKaihu" : "鲁国锋", "BalanceReal" : 58.9 }], "Count" : 1 }
+
+执行日期：20161112134415
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011107
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112134436
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=581089da6341981810eb1ec9&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.017779
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581089da6341981810eb1ec9", "CityName" : "常州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161026/1477478818271229.png", "ShopName" : "水果小铺", "ShopId" : 5207, "FreightFreeAmout" : 99 }], "Count" : 1 }
+
+执行日期：20161112140750
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fa063363419a1540e86325&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.021821
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa063363419a1540e86325", "CityName" : "武汉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1476002398430145.jpg", "ShopName" : "Aaa", "ShopId" : 1523, "FreightFreeAmout" : 500 }], "Count" : 1 }
+
+执行日期：20161112170020
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.015549
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170029
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.025177
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170040
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.022226
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170052
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580c32326341981260f58313&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.030008
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c32326341981260f58313", "CityName" : "郑州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161023/1477194209133415.jpg", "ShopName" : "河阴软子石榴店", "ShopId" : 4577, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170132
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.020732
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170134
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3288&$Limit=1
+超时时间:5
+处理时间:0.029639
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170220
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.018211
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170316
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3288&$Limit=1
+超时时间:5
+处理时间:0.026499
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170329
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.028002
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170332
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.02496
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170426
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.014963
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170428
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3288&$Limit=1
+超时时间:5
+处理时间:0.012631
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170434
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011583
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170440
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.015633
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170450
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.027682
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170451
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?ShopId=3288&$Limit=1
+超时时间:5
+处理时间:0.027391
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170452
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023423
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170821
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.02224
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170823
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.019038
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170836
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.007727
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170842
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.025223
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170844
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.026574
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112170851
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.023746
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112170959
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.011355
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112171002
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&$Limit=1
+超时时间:5
+处理时间:0.021701
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "Balance" : 0, "CityCode" : 320300, "CityName" : "徐州市", "CreatTime" : 1476675570, "DeliverAddress" : "丰县北环城路37—1号", "ReturnAddress" : "丰县北环城路37—1号", "ShopAddress" : "丰县北环城路37—1号", "ShopDescription" : "丰县是全国十强县苹果 种植基地，江苏省最大的苹果种植基地，基地地处古老的大沙河畔，四季气候分明，是沙壤土质，保湿性强，特别适宜种植苹果，梨，桃，采取有机种植，果面鲜红，翠绿，色泽靓丽，皮薄肉脆，清甜爽口，汁多味甜，是天然的绿色果品！", "IsDisable" : 0, "IsHide" : 0, "IsOpenAdminAccount" : 1, "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopOwnerMobile" : "15852035781", "ShopOwnerName" : "耿长生", "ShopType" : "个人", "ZhifubaoAccount" : "botatg@163.com", "ShopId" : 3288, "Fans" : 0, "FreightAmout" : 0, "FreightFreeAmout" : 0, "ZhifubaoKaihu" : "", "BalanceReal" : 0 }], "Count" : 1 }
+
+执行日期：20161112171046
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580447f263419812f8557be3&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.031639
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580447f263419812f8557be3", "CityName" : "徐州市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161017/1476674258701934.jpg", "ShopName" : "老耿蔬菜鲜果园", "ShopId" : 3288, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112172119
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=580377dc6341981e3834f288&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010196
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580377dc6341981e3834f288", "CityName" : "常州市", "ShopLogo" : "/data/images/shop/2016-10-16/20a0939cc6751384c21bab3b9ffbf643.jpg", "ShopName" : "果蔬担当", "ShopId" : 3205, "FreightFreeAmout" : 0 }], "Count" : 1 }
+
+执行日期：20161112222316
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57fa063363419a1540e86325&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.010389
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa063363419a1540e86325", "CityName" : "武汉市", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161009/1476002398430145.jpg", "ShopName" : "Aaa", "ShopId" : 1523, "FreightFreeAmout" : 500 }], "Count" : 1 }
+
+执行日期：20161112230513
+接口路径:http://api.pingoing.cn/restful.PYX3_Shop.Query?id=57ef4c8c634199034056b774&@CityName&@ShopName&@ShopLogo&@ShopId&@FreightFreeAmout&$Limit=1
+超时时间:5
+处理时间:0.024392
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ef4c8c634199034056b774", "CityName" : "上海市", "ShopLogo" : "/data/images/shop/2016-10-11/1e2ef1dc2727975bd194e997b1edc032.jpg", "ShopName" : "Wilson store", "ShopId" : 435, "FreightFreeAmout" : 0 }], "Count" : 1 }
+

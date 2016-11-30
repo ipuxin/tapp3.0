@@ -1,0 +1,6 @@
+执行日期：20161108173357
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=58099d8b6341980e185af77b&OrderStatus==5
+超时时间:5
+处理时间:0.029375
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58099d8b6341980e185af77b", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson 拼一下store", "UserId" : "57f38d2163419801342600ea", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 2, "ProductId" : 11881, "ProductRealId" : "58099c8f6341980e185af778", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-21/5d042923da6896dfbec71af53fed9f2a.jpg", "ProductName" : "免费试用-测试 概不发货", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "333", "Team" : "0" }, "DeliverAddress" : "上海市", "Description" : 333, "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "哈哈镜", "Mobile" : "13386529458", "ProviceName" : "上海市", "ProviceCode" : "310000", "CityName" : "上海市市辖区", "CityCode" : "310100", "DistrictName" : "徐汇区", "DistrictCode" : "310104", "Address" : "1008号" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 28308, "TeamId" : 28308, "CreatTime" : 1477025163, "OrderStatus" : 5, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1477025163, "Address" : "" }] }
+

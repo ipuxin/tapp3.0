@@ -1,0 +1,6 @@
+执行日期：20161121223558
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5802370e6341981e3834f1bf&AppLogined==1
+超时时间:5
+处理时间:0.022767
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802370e6341981e3834f1bf", "UnionId" : "oM0FfwQMVFfaiztFjv0Qryn56M6Y", "OpenId" : "oE6qGwIE9IlcB6eARH_lpzI7RBak", "Subscribe" : 1, "NickName" : "范翠红", "Thumbnail" : "http://wx.qlogo.cn/mmopen/nibxxlib1VaPf0Qdqo6ZCT14kicFQKJsFEeabckYRp2BKY4KhGb2CbNmesgnUUjLRjRbCoPghwkynDsCWBK2IPtcQINN7j9xola/0", "UserInfo" : { "Sex" : 1, "City" : "南京", "Province" : "江苏", "Country" : "中国", "Subscribe_time" : 1467940356 }, "AppLogined" : 1 }] }
+

@@ -1,0 +1,72 @@
+执行日期：20161111124831
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.023787
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254c73634198236c3a4a40", "OrderId" : 90557 }], "Count" : 3075 }
+
+执行日期：20161111124831
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=90582&UserId=58130d03634198083876be26&$Limit=1
+超时时间:5
+处理时间:0.021931
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254d9f634198236c3a4a44", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90582, "TeamId" : 90582, "CreatTime" : 1478839711, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124848
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58130d03634198083876be26&TeamId=90582&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.024122
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161111124910
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.021052
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254d9f634198236c3a4a44", "OrderId" : 90582 }], "Count" : 3076 }
+
+执行日期：20161111124910
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=90625&UserId=58130d03634198083876be26&$Limit=1
+超时时间:5
+处理时间:0.017108
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124913
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58130d03634198083876be26&TeamId=90625&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.029573
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124913
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=90625&$Limit=1
+超时时间:5
+处理时间:0.027672
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124918
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58130d03634198083876be26&TeamId=90625&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.031403
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124918
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=90625&$Limit=1
+超时时间:5
+处理时间:0.034107
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124919
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58130d03634198083876be26&TeamId=90625&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.030313
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124920
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=90625&$Limit=1
+超时时间:5
+处理时间:0.030706
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161111124921
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58130d03634198083876be26&TeamId=90625&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.029846
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58254dc6634198236c3a4a47", "ShopId" : "580551bc63419812f8557cea", "ShopName" : "朴食果物", "UserId" : "58130d03634198083876be26", "CityCode" : 320400, "CityName" : "常州市", "OrderType" : 2, "ProductId" : 21318, "ProductRealId" : "5816b1256341982128df728d", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "三红蜜柚6个装【拼团成功，1人中奖，其他人不退】", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "48", "Team" : "1" }, "DeliverAddress" : "江苏省常州市凌家塘批发市场水果区141号", "Description" : "福建平和三红柚，果园现摘4个装，品质保证，四个约14斤左右，商场原价48元/箱，甜嫩多汁，好吃级了[色]", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477969688136", "RealName" : "果宝", "Mobile" : "18505193071", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "南湖家苑明都超市", "Type" : null, "RealAddress" : "江苏省常州市武进区南湖家苑明都超市" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 90625, "TeamId" : 90625, "CreatTime" : 1478839750, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+

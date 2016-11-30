@@ -1,0 +1,37 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+/* ���ݽӿ����� */
+$config['db_api_base'] = 'http://api.pingoing.cn/';
+$config['db_api_type'] = 'restful.';
+$config['db_table_prefix'] = 'PYX3_';
+$config['db_api_action'] = array('select'=>'Query','create'=>'Create','update'=>'Update','save'=>'Save','delete'=>'Delete');
+$config['db_max_query_time'] = 5; 
+$config['db_log_query_time'] = 1; 
+
+/* ΢�Ź��ں����� */
+$config['wx_appid'] = 'wx032ee768936f17d3';
+$config['wx_secret'] = 'df15a117460067781749ae7d38cb90e0';
+$config['wx_token'] = 'D25qFgENJxdzdpPrx2MA';
+$config['wx_jsapi_path'] = 'application/data/jsapi.txt';
+$config['wx_token_path'] = 'application/data/token.txt';
+
+/* ΢�ſ���ƽ̨���� */
+$config['wx_kf_appid'] = 'wx066c051d879c9f82';
+$config['wx_kf_secret'] = '045ec9d7462530621a04ffd9278dab93';
+
+/* ΢���̻����� */
+$config['wx_pay_shanghu'] = '1267301701';
+$config['wx_pay_shanghu_key'] = '150M3GMLTP7XO89GMOL0AWBYN8WYID8C';
+
+$config['wx_kf_pay_shanghu'] = '1329074701';
+$config['wx_kf_pay_shanghu_key'] = '064A4C00C92341A09369E816E111FC7C';
+
+/* ҳ������ */
+$config['pg_version_open'] = TRUE;
+$config['pg_version'] = '201610130004';
+
+/* �������� */
+$config['order_choucheng_type'] = 1; //������ɷ�ʽ 1���ٷֱ� 2��ʵ�ʽ��
+$config['order_choucheng_admin'] = 1; //�ܲ�������ɽ��
+$config['order_choucheng_hehuo'] = 1; //�ϻ��˶�����ɽ��

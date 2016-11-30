@@ -1,0 +1,12 @@
+执行日期：20161127225848
+接口路径:http://api.pingoing.cn/restful.PYX3_Team.Update?&id=&Members==%5B%7B%22OrderId%22%3Anull%2C%22OrderCreatTime%22%3Anull%2C%22IsNewMember%22%3Anull%2C%22UserId%22%3A%22583aedaf63419812242c99e2%22%2C%22NickName%22%3A%22Miki%22%2C%22Thnumbail%22%3A%22http%3A%5C%2F%5C%2Fwx.qlogo.cn%5C%2Fmmopen%5C%2FAEkl2dhLSEcQKwSLCNcvib2N4KNnQs8XXroYRfw5yTytTiaOcNkQy5t7UlEMZJcNro2zflKw8rZ3nic9ry4YG0Oe7qwLNiaZL51B%5C%2F0%22%7D%5D
+超时时间:5
+处理时间:0.015947
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+
+执行日期：20161127225848
+接口路径:http://api.pingoing.cn/restful.PYX3_Team.Update?&id=&TeamStatus==3
+超时时间:5
+处理时间:0.006161
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+

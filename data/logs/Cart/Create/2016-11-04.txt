@@ -1,0 +1,6 @@
+执行日期：20161104093207
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=411700&CityName=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%B8%82&UserId=57fd6c676341981a98fd1b84&ShopName=%E6%8B%BC%E4%B8%80%E4%B8%8B&ShopId=&ShopRealId=57f9c96c63419a1540e862f1&ProductId=11821&ProductRealId=580980b46341980e185af742&ProductCount=1&creatTime=1478223127
+超时时间:5
+处理时间:0.022681
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581be51763419806686d57d7", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "57fd6c676341981a98fd1b84", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 11821, "ProductRealId" : "580980b46341980e185af742", "ProductCount" : 1, "creatTime" : 1478223127 }] }
+

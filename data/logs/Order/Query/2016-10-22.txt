@@ -1,0 +1,216 @@
+执行日期：20161022040315
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58082099634198026c8140da&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.024412
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022065431
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580a98bf634198126c2c1939&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.018637
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022113027
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.024866
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580adb41634198126c2c1989", "OrderId" : 30522 }], "Count" : 1035 }
+
+执行日期：20161022113028
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30548&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.035791
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580add53634198126c2c1992", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1134, "ProductRealId" : "57f48678634198108863c171", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 199.5, "freightFee" : 0, "OrderFee" : 199.5, "OrderId" : 30548, "CreatTime" : 1477107027, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161022113039
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30548&$Limit=1
+超时时间:5
+处理时间:0.034502
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580add53634198126c2c1992", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1134, "ProductRealId" : "57f48678634198108863c171", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 199.5, "freightFee" : 0, "OrderFee" : 199.5, "OrderId" : 30548, "CreatTime" : 1477107027, "OrderStatus" : 3, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 199.5, "PayTradeNo" : "4001912001201610227374100672", "PayTime" : 1477107035 }], "Count" : 1 }
+
+执行日期：20161022122116
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.022656
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae334634198126c2c199a", "OrderId" : 30566 }], "Count" : 1037 }
+
+执行日期：20161022122116
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30579&UserId=57f38a5963419801342600df&$Limit=1
+超时时间:5
+处理时间:0.024314
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae93c634198126c2c19a3", "ShopId" : "5804415c63419812f8557bc3", "ShopName" : "山野小店", "UserId" : "57f38a5963419801342600df", "CityCode" : 610700, "CityName" : "汉中市", "OrderType" : 1, "ProductId" : 8866, "ProductRealId" : "5804674d63419812f8557c23", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/1ef7bb3ece7789ca2ceb810a6949bebd.jpg", "ProductName" : "四川金艳猕猴桃中果6个试吃", "Prices" : 11.9, "PricesAll" : { "Normal" : 11.9, "Market" : "19" }, "DeliverAddress" : "汉中", "Description" : "金艳黄心金果，酸甜可口，营养丰富", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477110075284", "RealName" : "就", "Mobile" : "15502135420", "ProviceCode" : "610000", "ProviceName" : "陕西省", "CityCode" : "610700", "CityName" : "汉中市", "DistrictCode" : "610722", "DistrictName" : "城固县", "Address" : "11", "Type" : null, "RealAddress" : "陕西省汉中市城固县11" }, "ProductFee" : 11.9, "freightFee" : 0, "OrderFee" : 11.9, "OrderId" : 30579, "CreatTime" : 1477110076, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161022122245
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30579&$Limit=1
+超时时间:5
+处理时间:0.015773
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae93c634198126c2c19a3", "ShopId" : "5804415c63419812f8557bc3", "ShopName" : "山野小店", "UserId" : "57f38a5963419801342600df", "CityCode" : 610700, "CityName" : "汉中市", "OrderType" : 1, "ProductId" : 8866, "ProductRealId" : "5804674d63419812f8557c23", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/1ef7bb3ece7789ca2ceb810a6949bebd.jpg", "ProductName" : "四川金艳猕猴桃中果6个试吃", "Prices" : 11.9, "PricesAll" : { "Normal" : 11.9, "Market" : "19" }, "DeliverAddress" : "汉中", "Description" : "金艳黄心金果，酸甜可口，营养丰富", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "就", "Mobile" : "15502135420", "ProviceName" : "陕西省", "ProviceCode" : "610000", "CityName" : "汉中市", "CityCode" : "610700", "DistrictName" : "城固县", "DistrictCode" : "610722", "Address" : "11" }, "ProductFee" : 11.9, "freightFee" : 0, "OrderFee" : 11.9, "OrderId" : 30579, "CreatTime" : 1477110076, "OrderStatus" : 7, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 11.9, "PayTradeNo" : "4007872001201610227380868133", "PayTime" : 1477110087, "Address" : "", "RefundFee" : 11.9, "RefundTime" : 1477110145, "BalanceRealIn" : 1, "BalanceRealAmount" : 11.9 }], "Count" : 1 }
+
+执行日期：20161022122255
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.027058
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae93c634198126c2c19a3", "OrderId" : 30579 }], "Count" : 1038 }
+
+执行日期：20161022122255
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30594&UserId=57f38a5963419801342600df&$Limit=1
+超时时间:5
+处理时间:0.023372
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae99f634198126c2c19a9", "ShopId" : "5804415c63419812f8557bc3", "ShopName" : "山野小店", "UserId" : "57f38a5963419801342600df", "CityCode" : 610700, "CityName" : "汉中市", "OrderType" : 1, "ProductId" : 8866, "ProductRealId" : "5804674d63419812f8557c23", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/1ef7bb3ece7789ca2ceb810a6949bebd.jpg", "ProductName" : "四川金艳猕猴桃中果6个试吃", "Prices" : 11.9, "PricesAll" : { "Normal" : 11.9, "Market" : "19" }, "DeliverAddress" : "汉中", "Description" : "金艳黄心金果，酸甜可口，营养丰富", "ProductType" : 1 }, "Remark" : 11, "DeliveryInfo" : { "AddressId" : "add_1477110075284", "RealName" : "就", "Mobile" : "15502135420", "ProviceCode" : "610000", "ProviceName" : "陕西省", "CityCode" : "610700", "CityName" : "汉中市", "DistrictCode" : "610722", "DistrictName" : "城固县", "Address" : "11", "Type" : null, "RealAddress" : "陕西省汉中市城固县11" }, "ProductFee" : 11.9, "freightFee" : 0, "OrderFee" : 11.9, "OrderId" : 30594, "CreatTime" : 1477110175, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161022131408
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5804e5f763419812f8557ccd&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019909
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022131418
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5804e5f763419812f8557ccd&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.016064
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022135949
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.014079
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ae99f634198126c2c19a9", "OrderId" : 30594 }], "Count" : 1039 }
+
+执行日期：20161022135950
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30622&UserId=57fd6c676341981a98fd1b84&$Limit=1
+超时时间:5
+处理时间:0.026407
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b0055634198126c2c19c5", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下旗舰店", "UserId" : "57fd6c676341981a98fd1b84", "CityCode" : 411700, "CityName" : "驻马店市", "OrderType" : 1, "ProductId" : [3550, 11821, 4720, 9064], "ProductRealId" : ["\"57faf5006341980e14f9eb99\"", "\"580980b46341980e185af742\"", "\"57fdb1336341981a98fd1bcc\"", "\"5804731363419812f8557c34\""], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductName" : "鲜甜柚", "Prices" : 10, "PricesAll" : { "Normal" : 10, "Market" : "13" }, "DeliverAddress" : "平舆县上河城", "Description" : "鲜甜柚，肉嫩化渣、汁多味甜，风味独特，品质上乘，平均单果重1250克，富含糖类、蛋白质、有机酸、矿物质、维生素C、B等多种营养成份，含可溶性固形物13.8%－16%，总糖量11.2%，总酸量0.33%，每百克果汁含维生素C154毫克以上，具有清肝明目、滋心润肺、止咳化痰、降低胆固醇等保健功效。素有“天然罐头”、“果中珍品”之美称。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477115985410", "RealName" : "姑娘", "Mobile" : "15236319511", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "解放街乐山商场一楼阿迪达斯专柜。", "Type" : null, "RealAddress" : "河南省驻马店市平舆县解放街乐山商场一楼阿迪达斯专柜。" }, "ProductFee" : 29.6, "freightFee" : 0, "OrderFee" : 29.6, "OrderId" : 30622, "CreatTime" : 1477115989, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "580980b46341980e185af742", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductName" : "鲜甜柚", "Prices" : 10, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "鲜甜柚，肉嫩化渣、汁多味甜，风味独特，品质上乘，平均单果重1250克，富含糖类、蛋白质、有机酸、矿物质、维生素C、B等多种营养成份，含可溶性固形物13.8%－16%，总糖量11.2%，总酸量0.33%，每百克果汁含维生素C154毫克以上，具有清肝明目、滋心润肺、止咳化痰、降低胆固醇等保健功效。素有“天然罐头”、“果中珍品”之美称。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 11821, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductCount" : 1, "CartId" : "580aff3a634198126c2c19c1", "PricesAll" : { "Normal" : 10, "Market" : "13" } }, { "id" : "5804731363419812f8557c34", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-17/34a7fb7224dee84ba3b1ead2c8505907.jpg", "ProductName" : "有机冬枣 大果 7元一斤", "Prices" : 7, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "果皮赭红光亮、皮薄肉脆、甘甜清香、营养丰富，可食率达95%。与其它果品相比，冬枣还含有丰富的维生素A、维生素E和钾、钠、铁、铜等多种微量元素，维生素C的含量是苹果的70倍，梨的140倍，营养价值为“百果之冠”，被誉为“百果王”、“活维生素丸”。另外富含多种微量元素和矿物质，有防心脑血管疾病之功效，营养价值为百果之冠，倍受广大消费者青睐，被称为“天下奇果”。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 9064, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-17/34a7fb7224dee84ba3b1ead2c8505907.jpg", "ProductCount" : 1, "CartId" : "58075ebc634198026c8138a6", "PricesAll" : { "Normal" : 7, "Market" : "10.5" } }, { "id" : "57fdb1336341981a98fd1bcc", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-12/f4d374e03f78cafec00e4f73020a6576.jpg", "ProductName" : "白柚一个 8.8元", "Prices" : 8.8, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "柚子味甘酸、性寒,具有理气化痰、润肺清肠、补血健脾等功效,能治食少、口淡、消化不良等症,能帮助消化、除痰止渴、理气散结。柚子皮顺气、去油解腻、是清火的上品,长期食用还有美容之功效。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 4720, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-12/f4d374e03f78cafec00e4f73020a6576.jpg", "ProductCount" : 1, "CartId" : "58075ec9634198026c8138a7", "PricesAll" : { "Normal" : 8.8, "Market" : "12" } }, { "id" : "57faf5006341980e14f9eb99", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-10/fc80bb61d02e4b479bdad4499e440f34.jpg", "ProductName" : "甜脆柿子3.8元一斤", "Prices" : 3.8, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "脆柿子有较高的镁，硫胺素，抗坏血酸等成份。 柿子中碘的含量高达1.2ug/100g，是预防缺碘性甲状腺肿大的好食品。柿子具有清热，润肺，止渴，镇咳，祛痰的功效，也是高血压，慢性支气管炎，动脉硬化等疾病的保健水果之一。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 3550, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-10/fc80bb61d02e4b479bdad4499e440f34.jpg", "ProductCount" : 1, "CartId" : "580affff634198126c2c19c3", "PricesAll" : { "Normal" : 3.8, "Market" : "4.98" } }] }], "Count" : 1 }
+
+执行日期：20161022140019
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30622&$Limit=1
+超时时间:5
+处理时间:0.016796
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b0055634198126c2c19c5", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下旗舰店", "UserId" : "57fd6c676341981a98fd1b84", "CityCode" : 411700, "CityName" : "驻马店市", "OrderType" : 1, "ProductId" : [3550, 11821, 4720, 9064], "ProductRealId" : ["\"57faf5006341980e14f9eb99\"", "\"580980b46341980e185af742\"", "\"57fdb1336341981a98fd1bcc\"", "\"5804731363419812f8557c34\""], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductName" : "鲜甜柚", "Prices" : 10, "PricesAll" : { "Normal" : 10, "Market" : "13" }, "DeliverAddress" : "平舆县上河城", "Description" : "鲜甜柚，肉嫩化渣、汁多味甜，风味独特，品质上乘，平均单果重1250克，富含糖类、蛋白质、有机酸、矿物质、维生素C、B等多种营养成份，含可溶性固形物13.8%－16%，总糖量11.2%，总酸量0.33%，每百克果汁含维生素C154毫克以上，具有清肝明目、滋心润肺、止咳化痰、降低胆固醇等保健功效。素有“天然罐头”、“果中珍品”之美称。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477115985410", "RealName" : "姑娘", "Mobile" : "15236319511", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "解放街乐山商场一楼阿迪达斯专柜。", "Type" : null, "RealAddress" : "河南省驻马店市平舆县解放街乐山商场一楼阿迪达斯专柜。" }, "ProductFee" : 29.6, "freightFee" : 0, "OrderFee" : 29.6, "OrderId" : 30622, "CreatTime" : 1477115989, "OrderStatus" : 3, "PayStatus" : "已支付", "ProductList" : [{ "id" : "580980b46341980e185af742", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductName" : "鲜甜柚", "Prices" : 10, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "鲜甜柚，肉嫩化渣、汁多味甜，风味独特，品质上乘，平均单果重1250克，富含糖类、蛋白质、有机酸、矿物质、维生素C、B等多种营养成份，含可溶性固形物13.8%－16%，总糖量11.2%，总酸量0.33%，每百克果汁含维生素C154毫克以上，具有清肝明目、滋心润肺、止咳化痰、降低胆固醇等保健功效。素有“天然罐头”、“果中珍品”之美称。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 11821, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-21/b1722d8ad4be3c26d4b9e0f3fdaffd35.jpg", "ProductCount" : 1, "CartId" : "580aff3a634198126c2c19c1", "PricesAll" : { "Normal" : 10, "Market" : "13" } }, { "id" : "5804731363419812f8557c34", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-17/34a7fb7224dee84ba3b1ead2c8505907.jpg", "ProductName" : "有机冬枣 大果 7元一斤", "Prices" : 7, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "果皮赭红光亮、皮薄肉脆、甘甜清香、营养丰富，可食率达95%。与其它果品相比，冬枣还含有丰富的维生素A、维生素E和钾、钠、铁、铜等多种微量元素，维生素C的含量是苹果的70倍，梨的140倍，营养价值为“百果之冠”，被誉为“百果王”、“活维生素丸”。另外富含多种微量元素和矿物质，有防心脑血管疾病之功效，营养价值为百果之冠，倍受广大消费者青睐，被称为“天下奇果”。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 9064, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-17/34a7fb7224dee84ba3b1ead2c8505907.jpg", "ProductCount" : 1, "CartId" : "58075ebc634198026c8138a6", "PricesAll" : { "Normal" : 7, "Market" : "10.5" } }, { "id" : "57fdb1336341981a98fd1bcc", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-12/f4d374e03f78cafec00e4f73020a6576.jpg", "ProductName" : "白柚一个 8.8元", "Prices" : 8.8, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "柚子味甘酸、性寒,具有理气化痰、润肺清肠、补血健脾等功效,能治食少、口淡、消化不良等症,能帮助消化、除痰止渴、理气散结。柚子皮顺气、去油解腻、是清火的上品,长期食用还有美容之功效。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 4720, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-12/f4d374e03f78cafec00e4f73020a6576.jpg", "ProductCount" : 1, "CartId" : "58075ec9634198026c8138a7", "PricesAll" : { "Normal" : 8.8, "Market" : "12" } }, { "id" : "57faf5006341980e14f9eb99", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-10/fc80bb61d02e4b479bdad4499e440f34.jpg", "ProductName" : "甜脆柿子3.8元一斤", "Prices" : 3.8, "freightAmout" : 3, "DeliverAddress" : "平舆县上河城", "Description" : "脆柿子有较高的镁，硫胺素，抗坏血酸等成份。 柿子中碘的含量高达1.2ug/100g，是预防缺碘性甲状腺肿大的好食品。柿子具有清热，润肺，止渴，镇咳，祛痰的功效，也是高血压，慢性支气管炎，动脉硬化等疾病的保健水果之一。", "ShopId" : "57f9c96c63419a1540e862f1", "ShopName" : "拼一下", "ProductId" : 3550, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-10/fc80bb61d02e4b479bdad4499e440f34.jpg", "ProductCount" : 1, "CartId" : "580affff634198126c2c19c3", "PricesAll" : { "Normal" : 3.8, "Market" : "4.98" } }], "PayType" : "微信APP", "PayAmount" : 29.6, "PayTradeNo" : "4000802001201610227389777753", "PayTime" : 1477116007 }], "Count" : 1 }
+
+执行日期：20161022142507
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580090186341980624c36604&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019565
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022142516
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580090186341980624c36604&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.012114
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022150537
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b0e1b634198126c2c19d4&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022616
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022152012
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.021015
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b0055634198126c2c19c5", "OrderId" : 30622 }], "Count" : 1040 }
+
+执行日期：20161022152012
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30642&UserId=57f3a7196341980134260124&$Limit=1
+超时时间:5
+处理时间:0.014145
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b132c634198126c2c19d9", "ShopId" : "57fa063363419a1540e86325", "ShopName" : "Aaa", "UserId" : "57f3a7196341980134260124", "CityCode" : 420100, "CityName" : "武汉市", "OrderType" : 1, "ProductId" : 3667, "ProductRealId" : "57fb48146341980e14f9ec09", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个", "Prices" : 14.9, "PricesAll" : { "Normal" : 14.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476953417555", "RealName" : "王安民", "Mobile" : "15871202730", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "420100", "CityName" : "武汉市", "DistrictCode" : "420103", "DistrictName" : "江汉区", "Address" : "顶琇国际公馆2栋", "Type" : null, "RealAddress" : "湖北省武汉市江汉区顶琇国际公馆2栋" }, "ProductFee" : 14.9, "freightFee" : 0, "OrderFee" : 14.9, "OrderId" : 30642, "CreatTime" : 1477120812, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161022152030
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=30642&$Limit=1
+超时时间:5
+处理时间:0.018167
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b132c634198126c2c19d9", "ShopId" : "57fa063363419a1540e86325", "ShopName" : "Aaa", "UserId" : "57f3a7196341980134260124", "CityCode" : 420100, "CityName" : "武汉市", "OrderType" : 1, "ProductId" : 3667, "ProductRealId" : "57fb48146341980e14f9ec09", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个", "Prices" : 14.9, "PricesAll" : { "Normal" : 14.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476953417555", "RealName" : "王安民", "Mobile" : "15871202730", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "420100", "CityName" : "武汉市", "DistrictCode" : "420103", "DistrictName" : "江汉区", "Address" : "顶琇国际公馆2栋", "Type" : null, "RealAddress" : "湖北省武汉市江汉区顶琇国际公馆2栋" }, "ProductFee" : 14.9, "freightFee" : 0, "OrderFee" : 14.9, "OrderId" : 30642, "CreatTime" : 1477120812, "OrderStatus" : 3, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 14.9, "PayTradeNo" : "4002922001201610227397297628", "PayTime" : 1477120825 }], "Count" : 1 }
+
+执行日期：20161022153400
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a7196341980134260124&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.025397
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b132c634198126c2c19d9", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个", "Prices" : 14.9, "PricesAll" : { "Normal" : 14.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 14.9, "OrderId" : 30642, "OrderStatus" : 3 }, { "id" : "5808857c634198026c814546", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27470, "OrderStatus" : 6 }, { "id" : "5808854c634198026c814542", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27422, "OrderStatus" : 4 }, { "id" : "57ff9ee86341980624c3655e", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13281, "OrderStatus" : 4 }, { "id" : "57ff9eba6341980624c3655d", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13248, "OrderStatus" : 6 }, { "id" : "57ff9e786341980624c3655c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13215, "OrderStatus" : 6 }, { "id" : "57ff9e276341980624c3654c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13189, "OrderStatus" : 6 }], "Count" : 7 }
+
+执行日期：20161022154629
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b0e1b634198126c2c19d4&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.016398
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022164808
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a7196341980134260124&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.013591
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b132c634198126c2c19d9", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个", "Prices" : 14.9, "PricesAll" : { "Normal" : 14.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 14.9, "OrderId" : 30642, "OrderStatus" : 3 }, { "id" : "5808857c634198026c814546", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27470, "OrderStatus" : 6 }, { "id" : "5808854c634198026c814542", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27422, "OrderStatus" : 4 }, { "id" : "57ff9ee86341980624c3655e", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13281, "OrderStatus" : 4 }, { "id" : "57ff9eba6341980624c3655d", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13248, "OrderStatus" : 6 }, { "id" : "57ff9e786341980624c3655c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13215, "OrderStatus" : 6 }, { "id" : "57ff9e276341980624c3654c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13189, "OrderStatus" : 6 }], "Count" : 7 }
+
+执行日期：20161022164859
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a7196341980134260124&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.025709
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b132c634198126c2c19d9", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个", "Prices" : 14.9, "PricesAll" : { "Normal" : 14.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 14.9, "OrderId" : 30642, "OrderStatus" : 3 }, { "id" : "5808857c634198026c814546", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27470, "OrderStatus" : 6 }, { "id" : "5808854c634198026c814542", "OrderType" : 1, "ProductId" : 3779, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/e8c77c58691007c78b9e6b9f23c9fbc8.jpg", "ProductName" : "东江湖蜜桔5斤10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "23" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "东江湖蜜桔果实营养丰富，色香味兼优，酸甜适中既可鲜食【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 27422, "OrderStatus" : 4 }, { "id" : "57ff9ee86341980624c3655e", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13281, "OrderStatus" : 4 }, { "id" : "57ff9eba6341980624c3655d", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13248, "OrderStatus" : 6 }, { "id" : "57ff9e786341980624c3655c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13215, "OrderStatus" : 6 }, { "id" : "57ff9e276341980624c3654c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13189, "OrderStatus" : 6 }], "Count" : 7 }
+
+执行日期：20161022170224
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.020495
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161022170227
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.020386
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161022170229
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.029958
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161022170233
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.02211
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161022170237
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.015176
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161022183344
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b3ed9634198126c2c1a56&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.025407
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022183348
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b3ed9634198126c2c1a56&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023315
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022193202
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a5d56341980134260123&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.017207
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022222821
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b772a634198126c2c1ad7&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.011063
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022222831
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b772a634198126c2c1ad7&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.026811
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161022222837
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580b772a634198126c2c1ad7&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.021086
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

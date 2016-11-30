@@ -1,0 +1,12 @@
+执行日期：20161026095906
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=1202349415876&sid=YD
+超时时间:5
+处理时间:2.218437
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"LogisticCode":"1202349415876","State":"2","Traces":[{"AcceptTime":"2016-10-25 12:15:42","AcceptStation":"到达：江苏丰县公司 已收件"},{"AcceptTime":"2016-10-25 20:10:11","AcceptStation":"到达：江苏淮安分拨中心"},{"AcceptTime":"2016-10-25 20:12:10","AcceptStation":"到达：江苏淮安分拨中心 发往：江苏泰州分拨中心"},{"AcceptTime":"2016-10-26 05:45:18","AcceptStation":"到达：江苏泰州分拨中心 上级站点：江苏淮安分拨中心"},{"AcceptTime":"2016-10-26 05:47:44","AcceptStation":"到达：江苏泰州分拨中心 发往：江苏姜堰市公司"}]}}
+
+执行日期：20161026200725
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=3929490069416&sid=YD
+超时时间:5
+处理时间:1.949443
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"LogisticCode":"3929490069416","State":"2","Traces":[{"AcceptTime":"2016-10-26 15:30:51","AcceptStation":"到达：江西南丰县公司 已收件"}]}}
+

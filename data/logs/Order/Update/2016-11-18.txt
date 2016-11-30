@@ -1,0 +1,48 @@
+执行日期：20161118151949
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582eab956341982154e4e776&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1479453589
+超时时间:5
+处理时间:0.020446
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582eab956341982154e4e776", "ShopId" : "57ef42bb634199034056b762", "ShopName" : "中华龙店", "UserId" : "57fc908d6341980eb0663cef", "CityCode" : 411700, "CityName" : "驻马店市", "OrderType" : 2, "ProductId" : 28360, "ProductRealId" : "582e61aa6341982154e4caea", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/24852c5fbb4e6529eb0697f6682660a9.jpg", "ProductName" : "新货休闲零食品坚果炒货特产花生米下酒菜500g包", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "22.4", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "2毛一张电影票时的最美好回忆，好吃！", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479295139491", "RealName" : "崔萌", "Mobile" : "18272990962", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "法院家属院", "Type" : null, "RealAddress" : "河南省驻马店市平舆县法院家属院" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 269298, "TeamId" : 269298, "CreatTime" : 1479453588, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1479453589 }] }
+
+执行日期：20161118151949
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582eab956341982154e4e776
+超时时间:5
+处理时间:0.034347
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+
+执行日期：20161118191202
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee2026341982154e4ed3d&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1479467522
+超时时间:5
+处理时间:0.027526
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ee2026341982154e4ed3d", "ShopId" : "57ef42bb634199034056b762", "ShopName" : "中华龙店", "UserId" : "581eb3f06341981fd87b21c1", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 2, "ProductId" : 28360, "ProductRealId" : "582e61aa6341982154e4caea", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/24852c5fbb4e6529eb0697f6682660a9.jpg", "ProductName" : "新货休闲零食品坚果炒货特产花生米下酒菜500g包", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "22.4", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "2毛一张电影票时的最美好回忆，好吃！", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479467520284", "RealName" : "谢敏", "Mobile" : "13381761372", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "眉州路西方子桥14弄3号303室", "Type" : null, "RealAddress" : "上海市杨浦区眉州路西方子桥14弄3号303室" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 277255, "TeamId" : 277255, "CreatTime" : 1479467522, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1479467522 }] }
+
+执行日期：20161118191203
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee2026341982154e4ed3d
+超时时间:5
+处理时间:0.02829
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+
+执行日期：20161118192511
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee5166341982154e4ed7c&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1479468311
+超时时间:5
+处理时间:0.014712
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ee5166341982154e4ed7c", "ShopId" : "57ef42bb634199034056b762", "ShopName" : "中华龙店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 28410, "ProductRealId" : "582e63586341982154e4cbeb", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/60c918f5337d43a21e59063697dd1725.jpg", "ProductName" : "农家玉米粒玉米块玉米碴玉米糁 五谷杂粮粗粮豆浆伴侣500g", "Prices" : "0", "PricesAll" : { "Normal" : 6.8, "Market" : "6.8", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "好糁吃出的好味道", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 277598, "TeamId" : 277598, "CreatTime" : 1479468310, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1479468311 }] }
+
+执行日期：20161118192511
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee5166341982154e4ed7c
+超时时间:5
+处理时间:0.036303
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+
+执行日期：20161118192534
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee52d6341982154e4ed7e&OrderStatus==2&PayStatus==%E5%B7%B2%E6%94%AF%E4%BB%98&PayType==%E5%85%8D%E4%BB%98&PayAmount==0&PayTradeNo==%22%22&PayTime==1479468334
+超时时间:5
+处理时间:0.012637
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ee52d6341982154e4ed7e", "ShopId" : "57ef42bb634199034056b762", "ShopName" : "中华龙店", "UserId" : "5800ab736341980c207fe910", "CityCode" : 421200, "CityName" : "咸宁市", "OrderType" : 2, "ProductId" : 28410, "ProductRealId" : "582e63586341982154e4cbeb", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/60c918f5337d43a21e59063697dd1725.jpg", "ProductName" : "农家玉米粒玉米块玉米碴玉米糁 五谷杂粮粗粮豆浆伴侣500g", "Prices" : "0", "PricesAll" : { "Normal" : 6.8, "Market" : "6.8", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "好糁吃出的好味道", "ProductType" : 3 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477302732566", "RealName" : "王红俊", "Mobile" : "15272068665", "ProviceCode" : "420000", "ProviceName" : "湖北省", "CityCode" : "421200", "CityName" : "咸宁市", "DistrictCode" : "421223", "DistrictName" : "崇阳县", "Address" : "白义镇新建街102号斜对面", "Type" : null, "RealAddress" : "湖北省咸宁市崇阳县白义镇新建街102号斜对面" }, "ProductFee" : 0, "freightFee" : 0, "OrderFee" : 0, "OrderId" : 277643, "TeamId" : 277643, "CreatTime" : 1479468333, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "免付", "PayAmount" : 0, "PayTradeNo" : "", "PayTime" : 1479468334 }] }
+
+执行日期：20161118192534
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=582ee52d6341982154e4ed7e
+超时时间:5
+处理时间:0.032826
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [] }
+

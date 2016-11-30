@@ -1,0 +1,6 @@
+执行日期：20161104122752
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581c0ddf63419806686d5851&AppLogined==1
+超时时间:5
+处理时间:0.023315
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581c0ddf63419806686d5851", "UnionId" : "oM0FfwRi9P-odDFgjgF3ABcEZAw4", "OpenId" : "oeNEewKXGSqUdmBdXTJ7Om2ZObJQ", "Subscribe" : "", "NickName" : "奔腾", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCX9vXibrp73wuMj7Rib4O7ewh63RnVVd90EWDia1DJeXedoPuK2nXkh816SL2wuBUibbFaWriccP09R65deTw1ZJHIwWb/0", "UserInfo" : { "Sex" : 2, "City" : "Cangzhou", "Province" : "Hebei", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

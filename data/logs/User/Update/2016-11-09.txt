@@ -1,0 +1,12 @@
+执行日期：20161109101734
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58017b786341980c207fe96b&AppLogined==1
+超时时间:5
+处理时间:0.020069
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58017b786341980c207fe96b", "UnionId" : "oM0FfwXt6zBCwV8rXSDq2U2FIGSA", "OpenId" : "oE6qGwPxvwhLWIh0vS2rf1Z1v4X0", "Subscribe" : 1, "NickName" : "王赛", "Thumbnail" : "http://wx.qlogo.cn/mmopen/mdy8YibQA2qu76w6BaOWTwY9JbLOZG8YTk7FNwWXbgsUQd9ojTMC6xiaIvb1I1DMVphK3xp1ZZaqWDcDiaFfxAjy0ftfLYDdllc/0", "UserInfo" : { "Sex" : 1, "City" : "Nanjing", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : 1442664876 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1477047017372", "RealName" : "王赛", "Mobile" : "18752064681", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320100", "CityName" : "南京市", "DistrictCode" : "320111", "DistrictName" : "浦口区", "Address" : "高新区新科二路26号江苏太古可口可乐有限公司", "Type" : null }] }] }
+
+执行日期：20161109232442
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5822dbfd6341980d2c4cbe40&AppLogined==1
+超时时间:5
+处理时间:0.007756
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5822dbfd6341980d2c4cbe40", "UnionId" : "oM0Ffweg_oLczr4aGJ9bzZai0uoE", "OpenId" : "oeNEewBXqHaA1t6p66n3c-xwHAoo", "Subscribe" : "", "NickName" : "石头", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXic1t2ricEsOzWfmfxOgm9ff1ufYSnsQYIy22ZicCF1lhLW6hdFRf0IRX6K8Tx84u912utiaGT2KkABIba8vfLyXlH6/0", "UserInfo" : { "Sex" : 1, "City" : "Wuhan", "Province" : "Hubei", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

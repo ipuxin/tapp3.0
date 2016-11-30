@@ -1,0 +1,240 @@
+执行日期：20161016093835
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.016407
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802d9e56341981e3834f1e0", "OrderId" : 13993 }], "Count" : 474 }
+
+执行日期：20161016093835
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14007&UserId=57f4d53e63419810d08b56f0&$Limit=1
+超时时间:5
+处理时间:0.025101
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802da1b6341981e3834f1e1", "ShopId" : "57f7a3c96341981970f2f4b8", "ShopName" : "杜氏果行", "UserId" : "57f4d53e63419810d08b56f0", "CityCode" : 330800, "CityName" : "衢州市", "OrderType" : 1, "ProductId" : 4642, "ProductRealId" : "57fcd8d26341980eb0663d45", "ProductCount" : 20, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/dc0c1ccb027e6983cc8462965a80ea94.jpg", "ProductName" : "白心柚子2个5斤左右", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "24.9" }, "DeliverAddress" : "衢州", "Description" : "新鲜果汁中含有类胰岛素成分，有降低血糖的作用，有益于心血管病及肥胖病患者。柚性寒，味酸，无毒，功能清胃润肠，消食醒酒，化痰止咳，饭后吃几瓣，能帮助消化，消除疲劳。四季柚除鲜食外，还可制成果汁、果酱、果酒和水果罐头等食品。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476144796522", "RealName" : "杜彬彬", "Mobile" : "13757002326", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "巨化北道口中国人寿保险公司", "Type" : null, "RealAddress" : "浙江省衢州市柯城区巨化北道口中国人寿保险公司" }, "ProductFee" : 378, "freightFee" : 0, "OrderFee" : 378, "OrderId" : 14007, "CreatTime" : 1476581915, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016093916
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14007&$Limit=1
+超时时间:5
+处理时间:0.020568
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802da1b6341981e3834f1e1", "ShopId" : "57f7a3c96341981970f2f4b8", "ShopName" : "杜氏果行", "UserId" : "57f4d53e63419810d08b56f0", "CityCode" : 330800, "CityName" : "衢州市", "OrderType" : 1, "ProductId" : 4642, "ProductRealId" : "57fcd8d26341980eb0663d45", "ProductCount" : 20, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/dc0c1ccb027e6983cc8462965a80ea94.jpg", "ProductName" : "白心柚子2个5斤左右", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "24.9" }, "DeliverAddress" : "衢州", "Description" : "新鲜果汁中含有类胰岛素成分，有降低血糖的作用，有益于心血管病及肥胖病患者。柚性寒，味酸，无毒，功能清胃润肠，消食醒酒，化痰止咳，饭后吃几瓣，能帮助消化，消除疲劳。四季柚除鲜食外，还可制成果汁、果酱、果酒和水果罐头等食品。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476144796522", "RealName" : "杜彬彬", "Mobile" : "13757002326", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "巨化北道口中国人寿保险公司", "Type" : null, "RealAddress" : "浙江省衢州市柯城区巨化北道口中国人寿保险公司" }, "ProductFee" : 378, "freightFee" : 0, "OrderFee" : 378, "OrderId" : 14007, "CreatTime" : 1476581915, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016093919
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14007&UserId=57f4d53e63419810d08b56f0&$Limit=1
+超时时间:5
+处理时间:0.018009
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802da1b6341981e3834f1e1", "ShopId" : "57f7a3c96341981970f2f4b8", "ShopName" : "杜氏果行", "UserId" : "57f4d53e63419810d08b56f0", "CityCode" : 330800, "CityName" : "衢州市", "OrderType" : 1, "ProductId" : 4642, "ProductRealId" : "57fcd8d26341980eb0663d45", "ProductCount" : 20, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/dc0c1ccb027e6983cc8462965a80ea94.jpg", "ProductName" : "白心柚子2个5斤左右", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "24.9" }, "DeliverAddress" : "衢州", "Description" : "新鲜果汁中含有类胰岛素成分，有降低血糖的作用，有益于心血管病及肥胖病患者。柚性寒，味酸，无毒，功能清胃润肠，消食醒酒，化痰止咳，饭后吃几瓣，能帮助消化，消除疲劳。四季柚除鲜食外，还可制成果汁、果酱、果酒和水果罐头等食品。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476144796522", "RealName" : "杜彬彬", "Mobile" : "13757002326", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "巨化北道口中国人寿保险公司", "Type" : null, "RealAddress" : "浙江省衢州市柯城区巨化北道口中国人寿保险公司" }, "ProductFee" : 378, "freightFee" : 0, "OrderFee" : 378, "OrderId" : 14007, "CreatTime" : 1476581915, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016093932
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14007&$Limit=1
+超时时间:5
+处理时间:0.022885
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802da1b6341981e3834f1e1", "ShopId" : "57f7a3c96341981970f2f4b8", "ShopName" : "杜氏果行", "UserId" : "57f4d53e63419810d08b56f0", "CityCode" : 330800, "CityName" : "衢州市", "OrderType" : 1, "ProductId" : 4642, "ProductRealId" : "57fcd8d26341980eb0663d45", "ProductCount" : 20, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/dc0c1ccb027e6983cc8462965a80ea94.jpg", "ProductName" : "白心柚子2个5斤左右", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "24.9" }, "DeliverAddress" : "衢州", "Description" : "新鲜果汁中含有类胰岛素成分，有降低血糖的作用，有益于心血管病及肥胖病患者。柚性寒，味酸，无毒，功能清胃润肠，消食醒酒，化痰止咳，饭后吃几瓣，能帮助消化，消除疲劳。四季柚除鲜食外，还可制成果汁、果酱、果酒和水果罐头等食品。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476144796522", "RealName" : "杜彬彬", "Mobile" : "13757002326", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "巨化北道口中国人寿保险公司", "Type" : null, "RealAddress" : "浙江省衢州市柯城区巨化北道口中国人寿保险公司" }, "ProductFee" : 378, "freightFee" : 0, "OrderFee" : 378, "OrderId" : 14007, "CreatTime" : 1476581915, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016093936
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14007&$Limit=1
+超时时间:5
+处理时间:0.026174
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802da1b6341981e3834f1e1", "ShopId" : "57f7a3c96341981970f2f4b8", "ShopName" : "杜氏果行", "UserId" : "57f4d53e63419810d08b56f0", "CityCode" : 330800, "CityName" : "衢州市", "OrderType" : 1, "ProductId" : 4642, "ProductRealId" : "57fcd8d26341980eb0663d45", "ProductCount" : 20, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/dc0c1ccb027e6983cc8462965a80ea94.jpg", "ProductName" : "白心柚子2个5斤左右", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "24.9" }, "DeliverAddress" : "衢州", "Description" : "新鲜果汁中含有类胰岛素成分，有降低血糖的作用，有益于心血管病及肥胖病患者。柚性寒，味酸，无毒，功能清胃润肠，消食醒酒，化痰止咳，饭后吃几瓣，能帮助消化，消除疲劳。四季柚除鲜食外，还可制成果汁、果酱、果酒和水果罐头等食品。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476144796522", "RealName" : "杜彬彬", "Mobile" : "13757002326", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330800", "CityName" : "衢州市", "DistrictCode" : "330802", "DistrictName" : "柯城区", "Address" : "巨化北道口中国人寿保险公司", "Type" : null, "RealAddress" : "浙江省衢州市柯城区巨化北道口中国人寿保险公司" }, "ProductFee" : 378, "freightFee" : 0, "OrderFee" : 378, "OrderId" : 14007, "CreatTime" : 1476581915, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016095402
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57ffa6c26341980624c36565&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023205
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "OrderType" : 1, "ProductId" : [1134], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "OrderFee" : 39.9, "OrderId" : 13350, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161016095406
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=13350&$Limit=1
+超时时间:5
+处理时间:0.025723
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57ffa6c26341980624c36565", "CityCode" : 310100, "CityName" : "上海市", "OrderType" : 1, "ProductId" : [1134], "ProductRealId" : ["\"57f48678634198108863c171\""], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "安妮", "Mobile" : "18101839808", "ProviceName" : "上海市", "ProviceCode" : "310000", "CityName" : "上海市市辖区", "CityCode" : "310100", "DistrictName" : "闵行区", "DistrictCode" : "310112", "Address" : "紫星路1000号微创软件" }, "ProductFee" : 39.9, "freightFee" : 0, "OrderFee" : 39.9, "OrderId" : 13350, "CreatTime" : 1476372513, "OrderStatus" : 4, "PayStatus" : "已支付", "ProductList" : [{ "id" : "57f48678634198108863c171", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "freightAmout" : 0, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "ProductId" : 1134, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductCount" : 1, "CartId" : "57ffa7166341980624c36566", "PricesAll" : { "Normal" : 39.9, "Market" : "45" } }], "PayType" : "微信APP", "PayAmount" : 39.9, "PayTradeNo" : "4002622001201610136612378768", "PayTime" : 1476372525, "Address" : "", "Logistics" : { "LogisticsNum" : "50351165001820", "LogisticsName" : "百世汇通", "LogisticsCode" : "HTKY" }, "FahuoTime" : 1476511772 }], "Count" : 1 }
+
+执行日期：20161016095407
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=50351165001820&sid=HTKY
+超时时间:5
+处理时间:0.396789
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"HTKY","Success":true,"LogisticCode":"50351165001820","State":"2","Traces":[{"AcceptTime":"2016-10-14 18:22:10","AcceptStation":"北海市【北海西区分部】，【东添和苑/15577963778】已揽收","Remark":""},{"AcceptTime":"2016-10-14 18:24:55","AcceptStation":"北海市【北海西区分部】，正发往【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 18:52:58","AcceptStation":"到北海市【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 20:02:03","AcceptStation":"北海市【北海集散仓】，正发往【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:28:51","AcceptStation":"到南宁市【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:31:49","AcceptStation":"南宁市【南宁转运中心】，正发往【上海转运中心】","Remark":""}]}}
+
+执行日期：20161016095429
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57ffa6c26341980624c36565&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.025174
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "OrderType" : 1, "ProductId" : [1134], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "OrderFee" : 39.9, "OrderId" : 13350, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161016102601
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.017352
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802e34a6341981e3834f1ea", "OrderId" : 14053 }], "Count" : 476 }
+
+执行日期：20161016102601
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14087&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.022333
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802e5396341981e3834f1ef", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/eed146a08fb61fecfe3c9db305f8998c.jpg", "ProductName" : "若羌红枣一大包18.9", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 23.9, "freightFee" : 0, "OrderFee" : 23.9, "OrderId" : 14087, "CreatTime" : 1476584761, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016102608
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14087&$Limit=1
+超时时间:5
+处理时间:0.017812
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5802e5396341981e3834f1ef", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/eed146a08fb61fecfe3c9db305f8998c.jpg", "ProductName" : "若羌红枣一大包18.9", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 23.9, "freightFee" : 0, "OrderFee" : 23.9, "OrderId" : 14087, "CreatTime" : 1476584761, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016133343
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ad186341980c207fe911&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.017419
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161016144239
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.017126
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580311646341981e3834f21e", "OrderId" : 14199 }], "Count" : 482 }
+
+执行日期：20161016144239
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14220&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.02086
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5803215e6341981e3834f231", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 3, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 71.7, "freightFee" : 0, "OrderFee" : 71.7, "OrderId" : 14220, "CreatTime" : 1476600159, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016144255
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14220&$Limit=1
+超时时间:5
+处理时间:0.021243
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5803215e6341981e3834f231", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 3, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 71.7, "freightFee" : 0, "OrderFee" : 71.7, "OrderId" : 14220, "CreatTime" : 1476600159, "OrderStatus" : 3, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 71.7, "PayTradeNo" : "4001912001201610166840978363", "PayTime" : 1476600167 }], "Count" : 1 }
+
+执行日期：20161016144745
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.018273
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5803215e6341981e3834f231", "OrderId" : 14220 }], "Count" : 483 }
+
+执行日期：20161016144745
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14231&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.032346
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322926341981e3834f238", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 119.5, "freightFee" : 0, "OrderFee" : 119.5, "OrderId" : 14231, "CreatTime" : 1476600465, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016144800
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14231&$Limit=1
+超时时间:5
+处理时间:0.01715
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322926341981e3834f238", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 119.5, "freightFee" : 0, "OrderFee" : 119.5, "OrderId" : 14231, "CreatTime" : 1476600465, "OrderStatus" : 3, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 119.5, "PayTradeNo" : "4001912001201610166841197273", "PayTime" : 1476600473 }], "Count" : 1 }
+
+执行日期：20161016144809
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.015375
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322926341981e3834f238", "OrderId" : 14231 }], "Count" : 484 }
+
+执行日期：20161016144810
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14278&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.017514
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322aa6341981e3834f23b", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 119.5, "freightFee" : 0, "OrderFee" : 119.5, "OrderId" : 14278, "CreatTime" : 1476600489, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016144821
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14278&$Limit=1
+超时时间:5
+处理时间:0.024403
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322aa6341981e3834f23b", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1762, "ProductRealId" : "57f8a60e6341981cdc31ae2c", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/debc878d9025aa0a5807781011f9cb71.jpg", "ProductName" : "若羌红枣一大包", "Prices" : 23.9, "PricesAll" : { "Normal" : 23.9, "Market" : "33" }, "DeliverAddress" : "上海市", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 119.5, "freightFee" : 0, "OrderFee" : 119.5, "OrderId" : 14278, "CreatTime" : 1476600489, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016145339
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.020097
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580322aa6341981e3834f23b", "OrderId" : 14278 }], "Count" : 485 }
+
+执行日期：20161016145340
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14309&UserId=57f9ad6f63419a1540e862ac&$Limit=1
+超时时间:5
+处理时间:0.025673
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580323f46341981e3834f243", "ShopId" : "57f85a226341981cdc31ade4", "ShopName" : "精品水果", "UserId" : "57f9ad6f63419a1540e862ac", "CityCode" : 340500, "CityName" : "马鞍山市", "OrderType" : 2, "ProductId" : 6990, "ProductRealId" : "5801a5e46341980c207fe985", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-15/b5be5470411dbdc7f78ecc88143d2c7f.jpg", "ProductName" : "徐香猕猴桃", "Prices" : "38.8", "PricesAll" : { "Normal" : 38.8, "Market" : "48.8", "Team" : "38.8" }, "DeliverAddress" : "产地发货", "Description" : "徐香猕猴桃你懂的", "ProductType" : 2 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476535884990", "RealName" : "宫保杰", "Mobile" : "15395550196", "ProviceCode" : "340000", "ProviceName" : "安徽省", "CityCode" : "340500", "CityName" : "马鞍山市", "DistrictCode" : "340504", "DistrictName" : "雨山区", "Address" : "永泰家园1栋103室", "Type" : null, "RealAddress" : "安徽省马鞍山市雨山区永泰家园1栋103室" }, "ProductFee" : 38.8, "freightFee" : 0, "OrderFee" : 38.8, "OrderId" : 14309, "TeamId" : 14309, "CreatTime" : 1476600819, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161016145352
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f9ad6f63419a1540e862ac&TeamId=14309&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.016792
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161016151009
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.01088
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 4 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 4 }], "Count" : 2 }
+
+执行日期：20161016151012
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.028856
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 4 }], "Count" : 2 }
+
+执行日期：20161016151015
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=13629&$Limit=1
+超时时间:5
+处理时间:0.023056
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "UserId" : "57fa0edd63419a1540e8632c", "CityCode" : 430700, "CityName" : "常德市", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductRealId" : ["\"58004d8a6341980624c365a7\"", "\"580052b26341980624c365b0\""], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "周敏", "Mobile" : "13786650445", "ProviceName" : "湖南省", "ProviceCode" : "430000", "CityName" : "常德市", "CityCode" : "430700", "DistrictName" : "武陵区", "DistrictCode" : "430702", "Address" : "人民东路东城尚品8栋" }, "ProductFee" : 88.8, "freightFee" : 0, "OrderFee" : 88.8, "OrderId" : 13629, "CreatTime" : 1476525256, "OrderStatus" : 5, "PayStatus" : "已支付", "ProductList" : [{ "id" : "580052b26341980624c365b0", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6067, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductCount" : 1, "CartId" : "5801fc8a6341980c207fea15", "PricesAll" : { "Normal" : 32.8, "Market" : "45" } }, { "id" : "58004d8a6341980624c365a7", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/8460987a81463f56ae90e8abf8d834b2.jpg", "ProductName" : "越南红心火龙果（单果约重750g）5斤装56元", "Prices" : 56, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "红心火龙果是火龙果里的稀少品种,它的果实中富含了一种特殊的成分——花青素，切开后可见其果肉颜色通红，甜度远高于普通火龙果，一改过去“火龙果好看不好吃”的普通认识。富含大量果肉纤维，有丰富的胡萝卜素 ，维他命B1、B2、B3、B12、C......等，果核内 (黑色芝麻之种子) 更含有丰富的钙、磷、铁等矿物质及各种酶、白蛋白、纤维质及高浓度天然色素花青素(尤以红肉为最)，花、茎及嫩芽更有如其近亲 (芦荟) 之各种功效。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 5882, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/8460987a81463f56ae90e8abf8d834b2.jpg", "ProductCount" : 1, "CartId" : "5801fca36341980c207fea16", "PricesAll" : { "Normal" : 56, "Market" : "75" } }], "PayType" : "微信APP", "PayAmount" : 88.8, "PayTradeNo" : "4007702001201610156764800036", "PayTime" : 1476525278, "Address" : "", "Logistics" : { "LogisticsNum" : "20161015", "LogisticsName" : "韵达快递", "LogisticsCode" : "YD" }, "FahuoTime" : 1476526384, "BalanceRealIn" : 1, "BalanceRealAmount" : 88.8 }], "Count" : 1 }
+
+执行日期：20161016151019
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=20161015&sid=YD
+超时时间:5
+处理时间:3.914596
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"Reason":"此单无物流信息","LogisticCode":"20161015","Traces":[]}}
+
+执行日期：20161016151024
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.01665
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 4 }], "Count" : 2 }
+
+执行日期：20161016151027
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022247
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 5 }], "Count" : 2 }
+
+执行日期：20161016151034
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022335
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 5 }], "Count" : 2 }
+
+执行日期：20161016174024
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.015121
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161016174030
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.011028
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161016174033
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019273
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161016181347
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57ffa6c26341980624c36565&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023302
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "OrderType" : 1, "ProductId" : [1134], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "OrderFee" : 39.9, "OrderId" : 13350, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161016181351
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=13350&$Limit=1
+超时时间:5
+处理时间:0.028856
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57ffa6c26341980624c36565", "CityCode" : 310100, "CityName" : "上海市", "OrderType" : 1, "ProductId" : [1134], "ProductRealId" : ["\"57f48678634198108863c171\""], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "安妮", "Mobile" : "18101839808", "ProviceName" : "上海市", "ProviceCode" : "310000", "CityName" : "上海市市辖区", "CityCode" : "310100", "DistrictName" : "闵行区", "DistrictCode" : "310112", "Address" : "紫星路1000号微创软件" }, "ProductFee" : 39.9, "freightFee" : 0, "OrderFee" : 39.9, "OrderId" : 13350, "CreatTime" : 1476372513, "OrderStatus" : 4, "PayStatus" : "已支付", "ProductList" : [{ "id" : "57f48678634198108863c171", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "freightAmout" : 0, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "ProductId" : 1134, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductCount" : 1, "CartId" : "57ffa7166341980624c36566", "PricesAll" : { "Normal" : 39.9, "Market" : "45" } }], "PayType" : "微信APP", "PayAmount" : 39.9, "PayTradeNo" : "4002622001201610136612378768", "PayTime" : 1476372525, "Address" : "", "Logistics" : { "LogisticsNum" : "50351165001820", "LogisticsName" : "百世汇通", "LogisticsCode" : "HTKY" }, "FahuoTime" : 1476511772 }], "Count" : 1 }
+
+执行日期：20161016181351
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=50351165001820&sid=HTKY
+超时时间:5
+处理时间:0.333442
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"HTKY","Success":true,"LogisticCode":"50351165001820","State":"2","Traces":[{"AcceptTime":"2016-10-14 18:22:10","AcceptStation":"北海市【北海西区分部】，【东添和苑/15577963778】已揽收","Remark":""},{"AcceptTime":"2016-10-14 18:24:55","AcceptStation":"北海市【北海西区分部】，正发往【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 18:52:58","AcceptStation":"到北海市【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 20:02:03","AcceptStation":"北海市【北海集散仓】，正发往【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:28:51","AcceptStation":"到南宁市【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:31:49","AcceptStation":"南宁市【南宁转运中心】，正发往【上海转运中心】","Remark":""}]}}
+
+执行日期：20161016233632
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58039e796341981e3834f2a2&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.014759
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

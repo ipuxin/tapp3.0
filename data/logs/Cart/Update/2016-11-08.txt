@@ -1,0 +1,12 @@
+执行日期：20161108114127
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?UserId=581fe35d634198206c661e3d&Select==0
+超时时间:5
+处理时间:0.021694
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fe8db634198206c661e43", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "581fe35d634198206c661e3d", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12631, "ProductRealId" : "580b1f0e634198126c2c19ea", "ProductCount" : 1, "creatTime" : 1478486234, "Select" : 0 }] }
+
+执行日期：20161108114127
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=581fe8db634198206c661e43&Select==1
+超时时间:5
+处理时间:0.009531
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fe8db634198206c661e43", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "581fe35d634198206c661e3d", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12631, "ProductRealId" : "580b1f0e634198126c2c19ea", "ProductCount" : 1, "creatTime" : 1478486234, "Select" : 1 }] }
+

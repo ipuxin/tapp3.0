@@ -1,0 +1,168 @@
+执行日期：20161126111550
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.060405
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe286341981504997f91", "OrderId" : 334565 }], "Count" : 11457 }
+
+执行日期：20161126111550
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334604&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.045168
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe666341981504997f93", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 1, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : 1, "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 334604, "CreatTime" : 1480130150, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111557
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334604&$Limit=1
+超时时间:5
+处理时间:0.048087
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe666341981504997f93", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 1, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : 1, "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 334604, "CreatTime" : 1480130150, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111635
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.058747
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe666341981504997f93", "OrderId" : 334604 }], "Count" : 11458 }
+
+执行日期：20161126111636
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334616&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.067098
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe936341981504997f94", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 30014, "ProductRealId" : "583466b16341981188d81175", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 334616, "CreatTime" : 1480130195, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111645
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334616&$Limit=1
+超时时间:5
+处理时间:0.061062
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe936341981504997f94", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 30014, "ProductRealId" : "583466b16341981188d81175", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 334616, "CreatTime" : 1480130195, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111713
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.072169
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fe936341981504997f94", "OrderId" : 334616 }], "Count" : 11459 }
+
+执行日期：20161126111713
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334635&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.055752
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838feb96341981504997f95", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 334635, "CreatTime" : 1480130233, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111721
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334635&$Limit=1
+超时时间:5
+处理时间:0.04634
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838feb96341981504997f95", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 334635, "CreatTime" : 1480130233, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126111732
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.058089
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838feb96341981504997f95", "OrderId" : 334635 }], "Count" : 11460 }
+
+执行日期：20161126111732
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334645&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.048443
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fecc6341981504997f96", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 334645, "CreatTime" : 1480130252, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126112132
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.067046
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fecc6341981504997f96", "OrderId" : 334645 }], "Count" : 11461 }
+
+执行日期：20161126112132
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334680&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.043092
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838ffbc6341981504997f97", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 29905, "ProductRealId" : "5834635a6341981188d81171", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/591b21fa2547d5e801b54859128b1269.jpg", "ProductName" : "爱奇艺会员激活码12个月 爱奇艺vip 黄金年卡充值", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本团名额2人，成团后立即开奖\r\n品牌：爱奇艺官方正版\r\n充值方式：中奖后联系拼一下客服领取\r\n充值面值：360元\r\n爱奇艺产品：黄金会员", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291436, "OrderId" : 334680, "CreatTime" : 1480130492, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126112139
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334680&$Limit=1
+超时时间:5
+处理时间:0.041637
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838ffbc6341981504997f97", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 29905, "ProductRealId" : "5834635a6341981188d81171", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/591b21fa2547d5e801b54859128b1269.jpg", "ProductName" : "爱奇艺会员激活码12个月 爱奇艺vip 黄金年卡充值", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本团名额2人，成团后立即开奖\r\n品牌：爱奇艺官方正版\r\n充值方式：中奖后联系拼一下客服领取\r\n充值面值：360元\r\n爱奇艺产品：黄金会员", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291436, "OrderId" : 334680, "CreatTime" : 1480130492, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126112235
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.062091
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838ffbc6341981504997f97", "OrderId" : 334680 }], "Count" : 11462 }
+
+执行日期：20161126112235
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334727&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.063335
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fffb6341981504997f98", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 334727, "CreatTime" : 1480130555, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126112242
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334727&$Limit=1
+超时时间:5
+处理时间:0.049156
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5838fffb6341981504997f98", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 130400, "CityName" : "邯郸市", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480130140191", "RealName" : "来咯出", "Mobile" : "15582165522", "ProviceCode" : "130000", "ProviceName" : "河北省", "CityCode" : "130400", "CityName" : "邯郸市", "DistrictCode" : "130425", "DistrictName" : "大名县", "Address" : "大名县", "Type" : null, "RealAddress" : "河北省邯郸市大名县大名县" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 334727, "CreatTime" : 1480130555, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126155551
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.056314
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58393feb6341981d8882b669", "OrderId" : 334968 }], "Count" : 11472 }
+
+执行日期：20161126155551
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=334993&UserId=582e53e76341982154e4bfb0&$Limit=1
+超时时间:5
+处理时间:0.052838
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583940066341981d8882b66a", "ShopId" : "57f5ab356341981d5884c64c", "ShopName" : "小伟水果店", "UserId" : "582e53e76341982154e4bfb0", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : [4794, 5109], "ProductRealId" : ["\"57fdb52e6341981a98fd1bdb\"", "\"57fdba5f6341981a98fd1bed\""], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-12/4451c6d19b27bc593d7c14ae4c1d40ba.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "北海", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479431234190", "RealName" : "蔡蕊", "Mobile" : "15850860003", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321202", "DistrictName" : "海陵区", "Address" : "江州南路97号 中盛光电", "Type" : null, "RealAddress" : "江苏省泰州市海陵区江州南路97号 中盛光电" }, "ProductFee" : 63.8, "freightFee" : 0, "OrderFee" : 63.8, "OrderId" : 334993, "CreatTime" : 1480146951, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "57fdba5f6341981a98fd1bed", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-12/4451c6d19b27bc593d7c14ae4c1d40ba.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "freightAmout" : 0, "DeliverAddress" : "北海", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ShopId" : "57f5ab356341981d5884c64c", "ShopName" : "小伟水果店", "ProductId" : 5109, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-12/4451c6d19b27bc593d7c14ae4c1d40ba.jpg", "ProductCount" : 1, "CartId" : "58393f1f6341981d8882b666", "PricesAll" : { "Normal" : 39.9, "Market" : "45" } }, { "id" : "57fdb52e6341981a98fd1bdb", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-12/43352721a5619a8c2328bb857db7505a.jpg", "ProductName" : "若羌红枣一大包23.9", "Prices" : 23.9, "freightAmout" : 0, "DeliverAddress" : "泰州", "Description" : "【新疆特级枣 500g装；，可直接吃】若羌灰枣也称若羌香枣、楼兰红枣，主产中国新疆若羌地区。若羌灰枣个小美观，肉实质脆，果实圆润饱满，吃后满口余香。含有大量维C、胡萝卜素等多种维生素，具有较强的补养作用，能提高人体免疫功能；是女性朋友养颜美容的最佳选择", "ShopId" : "57f5ab356341981d5884c64c", "ShopName" : "小伟水果店", "ProductId" : 4794, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-12/43352721a5619a8c2328bb857db7505a.jpg", "ProductCount" : 1, "CartId" : "58393fb26341981d8882b667", "PricesAll" : { "Normal" : 23.9, "Market" : "33" } }] }], "Count" : 1 }
+
+执行日期：20161126155921
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.059612
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583940076341981d8882b66b", "OrderId" : 335022 }], "Count" : 11474 }
+
+执行日期：20161126155922
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335042&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.064451
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583940da6341981d8882b66e", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 3, "ProductId" : 29905, "ProductRealId" : "5834635a6341981188d81171", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/591b21fa2547d5e801b54859128b1269.jpg", "ProductName" : "爱奇艺会员激活码12个月 爱奇艺vip 黄金年卡充值", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本团名额2人，成团后立即开奖\r\n品牌：爱奇艺官方正版\r\n充值方式：中奖后联系拼一下客服领取\r\n充值面值：360元\r\n爱奇艺产品：黄金会员", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479139195994", "RealName" : "刘", "Mobile" : "15502135420", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "升龙b座17楼", "Type" : null, "RealAddress" : "河南省郑州市高新开发区升龙b座17楼" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291436, "OrderId" : 335042, "CreatTime" : 1480147161, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126155936
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335042&$Limit=1
+超时时间:5
+处理时间:0.050205
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583940da6341981d8882b66e", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 3, "ProductId" : 29905, "ProductRealId" : "5834635a6341981188d81171", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/591b21fa2547d5e801b54859128b1269.jpg", "ProductName" : "爱奇艺会员激活码12个月 爱奇艺vip 黄金年卡充值", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本团名额2人，成团后立即开奖\r\n品牌：爱奇艺官方正版\r\n充值方式：中奖后联系拼一下客服领取\r\n充值面值：360元\r\n爱奇艺产品：黄金会员", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479139195994", "RealName" : "刘", "Mobile" : "15502135420", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "升龙b座17楼", "Type" : null, "RealAddress" : "河南省郑州市高新开发区升龙b座17楼" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291436, "OrderId" : 335042, "CreatTime" : 1480147161, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126160037
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.061715
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583940da6341981d8882b66e", "OrderId" : 335042 }], "Count" : 11475 }
+
+执行日期：20161126160037
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335068&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.061254
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583941266341981d8882b66f", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 120200, "CityName" : "天津市郊县", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480147230876", "RealName" : "王", "Mobile" : "15502135420", "ProviceCode" : "120000", "ProviceName" : "天津市", "CityCode" : "120200", "CityName" : "天津市郊县", "DistrictCode" : "120200", "DistrictName" : "", "Address" : "585", "Type" : null, "RealAddress" : "天津市天津市郊县585" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 335068, "CreatTime" : 1480147237, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126160042
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335068&$Limit=1
+超时时间:5
+处理时间:0.062907
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583941266341981d8882b66f", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 120200, "CityName" : "天津市郊县", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480147230876", "RealName" : "王", "Mobile" : "15502135420", "ProviceCode" : "120000", "ProviceName" : "天津市", "CityCode" : "120200", "CityName" : "天津市郊县", "DistrictCode" : "120200", "DistrictName" : "", "Address" : "585", "Type" : null, "RealAddress" : "天津市天津市郊县585" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 335068, "CreatTime" : 1480147237, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126160150
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.066529
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583941266341981d8882b66f", "OrderId" : 335068 }], "Count" : 11476 }
+
+执行日期：20161126160150
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335104&UserId=581961bd6341981b94d34c55&$Limit=1
+超时时间:5
+处理时间:0.049471
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5839416e6341981d8882b670", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 230500, "CityName" : "双鸭山市", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480147308890", "RealName" : "王俊", "Mobile" : "18516625848", "ProviceCode" : "230000", "ProviceName" : "黑龙江省", "CityCode" : "230500", "CityName" : "双鸭山市", "DistrictCode" : "230524", "DistrictName" : "饶河县", "Address" : "天河路28号", "Type" : null, "RealAddress" : "黑龙江省双鸭山市饶河县天河路28号" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 335104, "CreatTime" : 1480147310, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161126160159
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=335104&$Limit=1
+超时时间:5
+处理时间:0.064444
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5839416e6341981d8882b670", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "581961bd6341981b94d34c55", "CityCode" : 230500, "CityName" : "双鸭山市", "OrderType" : 3, "ProductId" : 29882, "ProductRealId" : "58345d446341981188d8116c", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480147308890", "RealName" : "王俊", "Mobile" : "18516625848", "ProviceCode" : "230000", "ProviceName" : "黑龙江省", "CityCode" : "230500", "CityName" : "双鸭山市", "DistrictCode" : "230524", "DistrictName" : "饶河县", "Address" : "天河路28号", "Type" : null, "RealAddress" : "黑龙江省双鸭山市饶河县天河路28号" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 335104, "CreatTime" : 1480147310, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+

@@ -1,0 +1,48 @@
+执行日期：20161023084046
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580b0e1b634198126c2c19d4&AppLogined==1
+超时时间:5
+处理时间:0.025724
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b0e1b634198126c2c19d4", "UnionId" : "oM0Ffwb52UM52Z3ioyL2kLJklWxM", "OpenId" : "oeNEewB3IkxyGf6WZ-Ga39_znc3o", "Subscribe" : "", "NickName" : "三月里的小雨", "Thumbnail" : "http://wx.qlogo.cn/mmopen/574VdhMFwaEqbp14AWk7UkRoCvvZElOv36zd7aib09t6fIAN3neea0rmWlOOQ38u0rULbQrkG2BD72CKt9pBPrbicpABoAnVKT/0", "UserInfo" : { "Sex" : 1, "City" : "Yuncheng", "Province" : "Shanxi", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1477122232330", "RealName" : "张海荣", "Mobile" : "13834957505", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140800", "CityName" : "运城市", "DistrictCode" : "140825", "DistrictName" : "新绛县", "Address" : "山西省新绛县阳王镇刘峪村", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161023095216
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580c16ae6341981260f582fb&AppLogined==1
+超时时间:5
+处理时间:0.026524
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c16ae6341981260f582fb", "UnionId" : "oM0FfwbGxGH2gJs_KIB1haCb-3EM", "OpenId" : "oeNEewA05_pjsEbnyutRo1VVwl1Y", "Subscribe" : "", "NickName" : "荷花", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5PPTPL0Sfo7WZNg4Wrj0f5eW2poCv59qgvfnKAxL0EogyibWUdlF9xHVuFjibbnAnLqUQNS8zAMZdu3cibHxtsoEUF5gELF35YHg/0", "UserInfo" : { "Sex" : 2, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161023144055
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5804fa3f63419812f8557cda&AppLogined==1
+超时时间:5
+处理时间:0.008752
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804fa3f63419812f8557cda", "UnionId" : "oM0FfwbwyfU8pQzFlOUApYWSxaHQ", "OpenId" : "oE6qGwP2lW97cVW6JGkkWkepmu-o", "Subscribe" : 1, "NickName" : "遇见你", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcQKwSLCNcvibzwuDAynA26ms4fR0OHCmCBdxBYmrVib0zA0E5ogvvdG9lFv7ZhicwL0LRJKQ1IHAte9QgaQwHAUeo/0", "UserInfo" : { "Sex" : 1, "City" : "常州", "Province" : "江苏", "Country" : "中国", "Subscribe_time" : 1476721206 }, "AppLogined" : 1 }] }
+
+执行日期：20161023161351
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580c71176341981260f58349&AppLogined==1
+超时时间:5
+处理时间:0.012776
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580c71176341981260f58349", "UnionId" : "oM0FfwYTqeePpXbHGpklozptEzxw", "OpenId" : "oeNEewIhFp_pJOZOpmihNcqxevXI", "Subscribe" : "", "NickName" : "小贝壳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ajNVdqHZLLBoL3wpdjgFOaFiay6HNbhtpZBicVwcwIkGOeYEfmjtCZHAYOI3OtsPKgy3s9wzRFdzIib8yGZbMRq9g/0", "UserInfo" : { "Sex" : 0, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161023193919
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580ca0516341981260f5837f&AppLogined==1
+超时时间:5
+处理时间:0.024497
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ca0516341981260f5837f", "UnionId" : "oM0Ffwdb-dCMurUNmXNpPAdr7aFg", "OpenId" : "oE6qGwAlrEvAhJXIlaE_sRp4DdPI", "Subscribe" : 1, "NickName" : "Miss Rose花店与福道茶楼", "Thumbnail" : "http://wx.qlogo.cn/mmopen/zic2uH3fsdXOjGicEJozYZxItQC1FbMlTXicV4oyMIco1q57ysAlEW9G6O3iaCFiaMPjVejNZGoGmrMR3tagFwVdsNljQg5ia74RtS/0", "UserInfo" : { "Sex" : 2, "City" : "烟台", "Province" : "山东", "Country" : "中国", "Subscribe_time" : 1477222440 }, "AppLogined" : 1 }] }
+
+执行日期：20161023200139
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580ca6976341981260f58383&AppLogined==1
+超时时间:5
+处理时间:0.018182
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580ca6976341981260f58383", "UnionId" : "oM0FfwV_4YhNVKQ2Bugy3555yHI0", "OpenId" : "oeNEewNgYhB0F8hIV0fwAkmntaLU", "Subscribe" : "", "NickName" : "木言＊木语", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5WqH4jicJb7dEPp3tPpgGQd1ADaJQoRciaEKBt5R2JrRHt6cIhd8ebMVoEhMh9Z4qVsJaeuibD4RQFQ/0", "UserInfo" : { "Sex" : 2, "City" : "Xinyang", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161023210955
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57f7d2d76341980f38b139eb&AppLogined==1
+超时时间:5
+处理时间:0.024447
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7d2d76341980f38b139eb", "UnionId" : "oM0FfwaxAb-M0LQq_Pz0KtgYCW-Q", "OpenId" : "oE6qGwIAY05BEENCXI0S0kc5l9FE", "Subscribe" : 1, "NickName" : "爱", "Thumbnail" : "http://wx.qlogo.cn/mmopen/nibxxlib1VaPcZGhNRic2p4jEaTvFdHoXia3D63wJuUCkkvaciczHagxPfExd2pyrduMqUBAuEhFeoXe6jYEwm6sFcdmz4CSqU2J2/0", "UserInfo" : { "Sex" : 1, "City" : "惠州", "Province" : "广东", "Country" : "中国", "Subscribe_time" : 1475568285 }, "AppLogined" : 1 }] }
+
+执行日期：20161023221157
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57fd71fd6341981a98fd1b87&AppLogined==1
+超时时间:5
+处理时间:0.02033
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fd71fd6341981a98fd1b87", "UnionId" : "oM0FfwXk-IWeBr7NA6k9yZ4VR8wI", "OpenId" : "oE6qGwOoSRc427xG7a4_jLQYjWZQ", "Subscribe" : 1, "NickName" : "娟子衣橱", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcQKwSLCNcvib6ocNTznmoGLOAndeSmuhtFM793XpAQKcbUMWLOIia82Ib1bFSUnS35kKO2v3yX2hbSdpia6icRgh3u/0", "UserInfo" : { "Sex" : 2, "City" : "驻马店", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1464960828 }, "AppLogined" : 1 }] }
+

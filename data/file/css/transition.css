@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+/*header div.searchWarp input.search{transition:all 0.4s ease;}
+header div.searchWarp input.search:focus{height:40px;line-height:40px;-webkit-transform:translateY(-7px);}*/
+
+#page_index div.nav_list{transition:all 0.8s ease;opacity:0}
+#page_index div.nav_list.show{opacity:1}
+
+#page_index div.hotList_1,#page_index div.hotList_2{transition:all 1.5s ease;opacity:0}
+#page_index div.hotList_1.show,#page_index div.hotList_2.show{opacity:1}
+
+footer{transition:height 0.5s ease;}
+footer div{transition:transform 0.5s ease;}

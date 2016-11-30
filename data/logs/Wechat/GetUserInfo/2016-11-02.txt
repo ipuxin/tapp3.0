@@ -1,0 +1,12 @@
+执行日期：20161102141714
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=aCuJoOCiueCSjTixm_3Gib5fdkYdfsHVWVzjC7ZEZBPguLb9Sq-sCSbqXBWeUuwDehbkVgsC0h9htJkI21ZpcGo8_Bk2_WoqV6aArWy3rXbD_Y9KkOdyAri6Jotnj8QgUISiAGABPZ&openid=oE6qGwFCl3STXZGo1lFriLA36fqQ&lang=zh_CN
+超时时间:5 
+处理时间:0.16254
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [wSOEYa0433vr30!]"}
+
+执行日期：20161102141716
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=SvuMqwbDE-2LQ9uT9wXpoWHTbW0h4aaWUalOmz9BZY60owbSq71HigfQVNSyVsqc-xagV5DMLrrprHh1U6YzUPt0QTHZiV89hhEJNodJFrYiYOgOgMNjkeLrM02AqKIEXAJeADAQTC&openid=oE6qGwFCl3STXZGo1lFriLA36fqQ&lang=zh_CN
+超时时间:5 
+处理时间:0.140433
+返回参数:{"subscribe":1,"openid":"oE6qGwFCl3STXZGo1lFriLA36fqQ","nickname":"请叫我猫爷","sex":2,"language":"zh_CN","city":"常州","province":"江苏","country":"中国","headimgurl":"http:\/\/wx.qlogo.cn\/mmopen\/AEkl2dhLSEcQKwSLCNcvibibYpRIQfWZMJoKmFCebN1VnfJ5wiaLY4oRTuA3lAfCl17q10vRu2GgZUU2S8yleLx2Bn1FlWOicCr1\/0","subscribe_time":1478065833,"unionid":"oM0FfwV7cgNMeCDwoNTMjH0ZMbmc","remark":"","groupid":0,"tagid_list":[]}
+

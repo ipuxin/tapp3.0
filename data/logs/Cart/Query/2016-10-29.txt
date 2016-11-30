@@ -1,0 +1,192 @@
+执行日期：20161029063104
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=&UserId=5813d19e6341980de44b5733&~creatTime=DESC
+超时时间:5
+处理时间:0.030557
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029070656
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=320400&UserId=58082099634198026c8140da&~creatTime=DESC
+超时时间:5
+处理时间:0.020953
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029081851
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=110100&UserId=5813ea926341980de44b573c&~creatTime=DESC
+超时时间:5
+处理时间:0.022185
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029081908
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=110100&UserId=5813ea926341980de44b573c&~creatTime=DESC
+超时时间:5
+处理时间:0.022289
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029091018
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=430700&UserId=57fa0edd63419a1540e8632c&~creatTime=DESC
+超时时间:5
+处理时间:0.016393
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029101032
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=230800&UserId=581404c96341980de44b578b&~creatTime=DESC
+超时时间:5
+处理时间:0.019893
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029110145
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=581410e96341980de44b57b0&~creatTime=DESC
+超时时间:5
+处理时间:0.014165
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029111240
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=321200&UserId=5805ba576341981d8c43da58&~creatTime=DESC
+超时时间:5
+处理时间:0.024265
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029114042
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5810e0416341981810eb1f89&~creatTime=DESC
+超时时间:5
+处理时间:0.021854
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a7f6341981810eb1fdb", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477536382, "Select" : 1 }], "Count" : 1 }
+
+执行日期：20161029114045
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5810e0416341981810eb1f89&~creatTime=DESC
+超时时间:5
+处理时间:0.007381
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a7f6341981810eb1fdb", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477536382, "Select" : 1 }], "Count" : 1 }
+
+执行日期：20161029114116
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5810e0416341981810eb1f89&~creatTime=DESC
+超时时间:5
+处理时间:0.013561
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58116a7f6341981810eb1fdb", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477536382, "Select" : 1 }], "Count" : 1 }
+
+执行日期：20161029114153
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?ProductRealId=580b1f0e634198126c2c19ea&UserId=5810e0416341981810eb1f89&$Limit=1
+超时时间:5
+处理时间:0.027017
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029114207
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5810e0416341981810eb1f89&~creatTime=DESC
+超时时间:5
+处理时间:0.020864
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58141a826341980de44b57f6", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12631, "ProductRealId" : "580b1f0e634198126c2c19ea", "ProductCount" : 1, "creatTime" : 1477712513 }, { "id" : "58116a7f6341981810eb1fdb", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477536382, "Select" : 1 }], "Count" : 2 }
+
+执行日期：20161029114209
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5810e0416341981810eb1f89&~creatTime=DESC
+超时时间:5
+处理时间:0.025044
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58141a826341980de44b57f6", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12631, "ProductRealId" : "580b1f0e634198126c2c19ea", "ProductCount" : 1, "creatTime" : 1477712513 }, { "id" : "58116a7f6341981810eb1fdb", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "5810e0416341981810eb1f89", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477536382, "Select" : 1 }], "Count" : 2 }
+
+执行日期：20161029123827
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=430700&UserId=57fa0edd63419a1540e8632c&~creatTime=DESC
+超时时间:5
+处理时间:0.020124
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029141015
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=210600&UserId=58143cc56341980de44b5826&~creatTime=DESC
+超时时间:5
+处理时间:0.035601
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029141025
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58143cad6341980de44b5825&~creatTime=DESC
+超时时间:5
+处理时间:0.024022
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029142724
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=330400&UserId=57f4c6f1634198108863c190&~creatTime=DESC
+超时时间:5
+处理时间:0.026984
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029162233
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=230200&UserId=58145bba6341980de44b58ad&~creatTime=DESC
+超时时间:5
+处理时间:0.030112
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029174421
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?ProductRealId=57f4abaa634198108863c182&UserId=58146e686341980de44b58d0&$Limit=1
+超时时间:5
+处理时间:0.023975
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029174459
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?ProductRealId=57f48c30634198108863c172&UserId=58146e686341980de44b58d0&$Limit=1
+超时时间:5
+处理时间:0.02379
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029174506
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&~creatTime=DESC
+超时时间:5
+处理时间:0.011715
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299 }, { "id" : "58146f756341980de44b58d2", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1295, "ProductRealId" : "57f4abaa634198108863c182", "ProductCount" : 1, "creatTime" : 1477734261 }], "Count" : 2 }
+
+执行日期：20161029174527
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&~creatTime=DESC
+超时时间:5
+处理时间:0.026556
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299 }], "Count" : 1 }
+
+执行日期：20161029174706
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?ProductRealId=5805df216341981d8c43da85&UserId=58146e686341980de44b58d0&$Limit=1
+超时时间:5
+处理时间:0.025946
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029175433
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&~creatTime=DESC
+超时时间:5
+处理时间:0.014228
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581470196341980de44b58d4", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477734426 }, { "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299 }], "Count" : 2 }
+
+执行日期：20161029175439
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&Select=1&~creatTime=DESC
+超时时间:5
+处理时间:0.019505
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581470196341980de44b58d4", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477734426, "Select" : 1 }, { "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299, "Select" : 1 }], "Count" : 2 }
+
+执行日期：20161029175452
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&Select=1&~creatTime=DESC
+超时时间:5
+处理时间:0.013464
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581470196341980de44b58d4", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477734426, "Select" : 1 }, { "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299, "Select" : 1 }], "Count" : 2 }
+
+执行日期：20161029180450
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=58146e686341980de44b58d0&Select=1&~creatTime=DESC
+超时时间:5
+处理时间:0.012777
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029191136
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=330800&UserId=57ff535b6341980624c36424&~creatTime=DESC
+超时时间:5
+处理时间:0.024247
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029200330
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=110100&UserId=58148fb76341980de44b58f0&~creatTime=DESC
+超时时间:5
+处理时间:0.012447
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029220812
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5814ac4f6341980de44b5973&~creatTime=DESC
+超时时间:5
+处理时间:0.023909
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161029220859
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Query?CityCode=310100&UserId=5814ac4f6341980de44b5973&~creatTime=DESC
+超时时间:5
+处理时间:0.028977
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

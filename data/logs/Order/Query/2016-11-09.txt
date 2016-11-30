@@ -1,0 +1,42 @@
+执行日期：20161109103420
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3d7206341980134260160&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.027724
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f6e9296341980f14818999", "OrderType" : 1, "ProductId" : 1278, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-05/9067601e8d8c5d212c407b0d8df919eb.jpg", "ProductName" : "【美味直达】四川金艳猕猴桃中果15只22.9", "Prices" : 22.9, "PricesAll" : { "Normal" : 22.9, "Market" : "35" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃中果15只装，单果70-90g；包邮", "ProductType" : 1 }, "OrderFee" : 22.9, "OrderId" : 3888, "OrderStatus" : 5 }], "Count" : 1 }
+
+执行日期：20161109181050
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58020e3f6341980c207fea4a&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.026884
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161109181052
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58020e3f6341980c207fea4a&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.018762
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161109181057
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58020e3f6341980c207fea4a&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.041817
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161109201338
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582311ee6341980d2c4cbeaa&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.018641
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161109211231
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581d84546341981fd87b2035&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023688
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161109214748
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5808defb6341980e185af5ca&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.032597
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

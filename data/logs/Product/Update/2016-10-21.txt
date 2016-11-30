@@ -1,0 +1,12 @@
+执行日期：20161021124539
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Update?&id=58099c8f6341980e185af778&StorageCount-=1&SalesCount.Waiting+=1
+超时时间:5
+处理时间:0.0085109999999999
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58099c8f6341980e185af778", "ProductType" : 3, "ImageMin" : "/data/images/product/2016-10-21/5d042923da6896dfbec71af53fed9f2a.jpg", "ImageBig" : "/data/images/product/2016-10-21/2db2dc5635301257daec2b7d4c487d60.jpg", "ImageList" : ["/data/images/product/2016-10-21/0f729321c515b9063b1bcc7b0de374d4.jpg"], "ProductName" : "免费试用-测试 概不发货", "Prices" : { "Normal" : "0", "Market" : "333", "Team" : "0" }, "StorageCount" : 32, "freightAmout" : 0, "DeliverAddress" : "上海市", "Description" : 333, "Category1" : "57dd2a6fa09042194c7cdd2a", "Category2" : "57e9f176a090421aec229a41", "Content" : "", "IsForSale" : 1, "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson 拼一下store", "CityCode" : 310100, "CityName" : "上海市", "IsChecked" : 1, "TeamMemberLimit" : 2, "Alive" : 24, "IsTeam" : 1, "LotteryCount" : 1, "IsLottery" : 1, "ProductId" : 11881, "SalesCount" : { "Waiting" : 1, "Real" : 0, "Adjust" : 0 }, "CreatTime" : 1477024910, "IsDisable" : 0, "IsHide" : 0 }] }
+
+执行日期：20161021124603
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Update?&id=58099c8f6341980e185af778&StorageCount-=1&SalesCount.Waiting+=1
+超时时间:5
+处理时间:0.010779
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58099c8f6341980e185af778", "ProductType" : 3, "ImageMin" : "/data/images/product/2016-10-21/5d042923da6896dfbec71af53fed9f2a.jpg", "ImageBig" : "/data/images/product/2016-10-21/2db2dc5635301257daec2b7d4c487d60.jpg", "ImageList" : ["/data/images/product/2016-10-21/0f729321c515b9063b1bcc7b0de374d4.jpg"], "ProductName" : "免费试用-测试 概不发货", "Prices" : { "Normal" : "0", "Market" : "333", "Team" : "0" }, "StorageCount" : 31, "freightAmout" : 0, "DeliverAddress" : "上海市", "Description" : 333, "Category1" : "57dd2a6fa09042194c7cdd2a", "Category2" : "57e9f176a090421aec229a41", "Content" : "", "IsForSale" : 1, "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson 拼一下store", "CityCode" : 310100, "CityName" : "上海市", "IsChecked" : 1, "TeamMemberLimit" : 2, "Alive" : 24, "IsTeam" : 1, "LotteryCount" : 1, "IsLottery" : 1, "ProductId" : 11881, "SalesCount" : { "Waiting" : 2, "Real" : 0, "Adjust" : 0 }, "CreatTime" : 1477024910, "IsDisable" : 0, "IsHide" : 0 }] }
+

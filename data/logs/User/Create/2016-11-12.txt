@@ -1,0 +1,78 @@
+执行日期：20161112005741
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwSOIUJy3NK_P2N0Up0lMoqk&OpenId=oeNEewPWg1dAvqgcf3E00KHV53tE&Subscribe=&NickName=%E6%9F%AF%E5%8D%97&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrqicTNoSiaIb4CtibU5L92lcOGFvOUwMcfq5J0BKoFoens9ytbQcraAEFzdXSY26Wh7gpESVDZvvKNv2ScNffRpibqO%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22%22%2C%22Province%22%3A%22%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.024452
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5825f885634198236c3a4ce8", "UnionId" : "oM0FfwSOIUJy3NK_P2N0Up0lMoqk", "OpenId" : "oeNEewPWg1dAvqgcf3E00KHV53tE", "Subscribe" : "", "NickName" : "柯南", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CtibU5L92lcOGFvOUwMcfq5J0BKoFoens9ytbQcraAEFzdXSY26Wh7gpESVDZvvKNv2ScNffRpibqO/0", "UserInfo" : { "Sex" : 1, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112073808
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwVmSRpUwwyBxmfMHs07bhW0&OpenId=oeNEewBSHfS5lTPkexw-LoAqJvwA&Subscribe=&NickName=%E5%A2%A8%E5%A2%A8&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2FajNVdqHZLLAbmcxIDR7fbMKnicg7Q7S3XialHHpVfqv4A3WgjuJsYvWh65Iv8enZo52Hg1ppKafSvPu1c1OtmfoA%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22Nantong%22%2C%22Province%22%3A%22Jiangsu%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.023797
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58265660634198147c4cf0a2", "UnionId" : "oM0FfwVmSRpUwwyBxmfMHs07bhW0", "OpenId" : "oeNEewBSHfS5lTPkexw-LoAqJvwA", "Subscribe" : "", "NickName" : "墨墨", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ajNVdqHZLLAbmcxIDR7fbMKnicg7Q7S3XialHHpVfqv4A3WgjuJsYvWh65Iv8enZo52Hg1ppKafSvPu1c1OtmfoA/0", "UserInfo" : { "Sex" : 2, "City" : "Nantong", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112082943
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwQPKVoejEEOkFkgGCmknXMc&OpenId=oeNEewIqhkrQFYJu6l7vh18beSO8&Subscribe=&NickName=%E5%BE%90JY&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrqm8Ks5oaK5ayQlmq4rH7Uz4TGFRiaM6fAaiaabZPOiaiarEDq2AUwrRMz4Wiaa9eJtkO1Je5WHQ2e9GjLYsiaMZYSb6D%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22Shaoxing%22%2C%22Province%22%3A%22Zhejiang%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.019991
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58266278634198147c4cf0dc", "UnionId" : "oM0FfwQPKVoejEEOkFkgGCmknXMc", "OpenId" : "oeNEewIqhkrQFYJu6l7vh18beSO8", "Subscribe" : "", "NickName" : "徐JY", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqm8Ks5oaK5ayQlmq4rH7Uz4TGFRiaM6fAaiaabZPOiaiarEDq2AUwrRMz4Wiaa9eJtkO1Je5WHQ2e9GjLYsiaMZYSb6D/0", "UserInfo" : { "Sex" : 1, "City" : "Shaoxing", "Province" : "Zhejiang", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112093729
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwZVbJtBbiVQzcdi51PZRsoY&OpenId=oeNEewK5tJ6lLC76pmu0kQwx5br0&Subscribe=&NickName=%E5%8D%97%E5%B1%B1&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrp9tF9LyCL2A4LaONonP7vN9libuiaKlW7O2D1icnotpGEqwNUSalHdZzepSf3fjB7dNrTVHLwQZBGNw%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22Sanmenxia%22%2C%22Province%22%3A%22Henan%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.01317
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58267259634198147c4cf13f", "UnionId" : "oM0FfwZVbJtBbiVQzcdi51PZRsoY", "OpenId" : "oeNEewK5tJ6lLC76pmu0kQwx5br0", "Subscribe" : "", "NickName" : "南山", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrp9tF9LyCL2A4LaONonP7vN9libuiaKlW7O2D1icnotpGEqwNUSalHdZzepSf3fjB7dNrTVHLwQZBGNw/0", "UserInfo" : { "Sex" : 1, "City" : "Sanmenxia", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112111831
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwScdDoAqBSG9j_JUx9Yw3GY&OpenId=oeNEewMgSaElIzoomvGVcksWVTb4&Subscribe=&NickName=liubin&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2FXBbHEKCXCXibKJibvyGeStibDSGQccoTic3EygWvq9ss4pxATwmRvXvZ7Tb9y03LQt2YZPpf4sLsl6lkIAOGwPdicWbYG9TeFKSGR%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22Qujing%22%2C%22Province%22%3A%22Yunnan%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.017617
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58268a08634198147c4cf244", "UnionId" : "oM0FfwScdDoAqBSG9j_JUx9Yw3GY", "OpenId" : "oeNEewMgSaElIzoomvGVcksWVTb4", "Subscribe" : "", "NickName" : "liubin", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXibKJibvyGeStibDSGQccoTic3EygWvq9ss4pxATwmRvXvZ7Tb9y03LQt2YZPpf4sLsl6lkIAOGwPdicWbYG9TeFKSGR/0", "UserInfo" : { "Sex" : 1, "City" : "Qujing", "Province" : "Yunnan", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112115929
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwSDfbNFJkBrMWYpwU46_GYo&OpenId=oeNEewCRQCvnlYeTqTgzofeikUew&Subscribe=&NickName=%E5%BA%84%E5%AE%87&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CProIr6MvaueoJrE9T9bxgSy3NVSibhXFWJBGpKQQPdc0ySnI1PCb9Cz9fnvxVYOmYhOb4slXic2o0v68o57WcQuOibg%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22Nanjing%22%2C%22Province%22%3A%22Jiangsu%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.028963
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582693a2634198147c4cf2d5", "UnionId" : "oM0FfwSDfbNFJkBrMWYpwU46_GYo", "OpenId" : "oeNEewCRQCvnlYeTqTgzofeikUew", "Subscribe" : "", "NickName" : "庄宇", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CProIr6MvaueoJrE9T9bxgSy3NVSibhXFWJBGpKQQPdc0ySnI1PCb9Cz9fnvxVYOmYhOb4slXic2o0v68o57WcQuOibg/0", "UserInfo" : { "Sex" : 1, "City" : "Nanjing", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112165841
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwYQR_-WRVLEyeu9vEUDlGKA&OpenId=oeNEewHh8fn8nl4qcehZDO-bQtDY&Subscribe=&NickName=%E8%9A%8A%E5%AD%90&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrqicTNoSiaIb4CjRmIRVQFVM61MuUMiaOmpibKnmYnC6xEs3ibcibvey20DibrfecRYBhWHDuKUZDjcbGp2hdWbeulVMdP%2F0&UserInfo=%7B%22Sex%22%3A0%2C%22City%22%3A%22%22%2C%22Province%22%3A%22%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.018709
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5826d9c0634198147c4cf9b7", "UnionId" : "oM0FfwYQR_-WRVLEyeu9vEUDlGKA", "OpenId" : "oeNEewHh8fn8nl4qcehZDO-bQtDY", "Subscribe" : "", "NickName" : "蚊子", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CjRmIRVQFVM61MuUMiaOmpibKnmYnC6xEs3ibcibvey20DibrfecRYBhWHDuKUZDjcbGp2hdWbeulVMdP/0", "UserInfo" : { "Sex" : 0, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112174049
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwS_dl0GX4HypGkELXlViDOc&OpenId=oeNEewIhvp4Vp66vUR_GrGof2d1k&Subscribe=&NickName=%E7%BE%8E%E5%A5%BD%40%E5%BF%83%E6%83%85&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CProVqpdoDecUB1eYT15zEsq1IZgo4VLemPxgVc8hYtoicywibyBfws6BkF6I0QTpasOUJj9AXLQk2e8WKn4ZajUEJh%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22%22%2C%22Province%22%3A%22%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.027549
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5826e3a1634198147c4cf9cb", "UnionId" : "oM0FfwS_dl0GX4HypGkELXlViDOc", "OpenId" : "oeNEewIhvp4Vp66vUR_GrGof2d1k", "Subscribe" : "", "NickName" : "美好@心情", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CProVqpdoDecUB1eYT15zEsq1IZgo4VLemPxgVc8hYtoicywibyBfws6BkF6I0QTpasOUJj9AXLQk2e8WKn4ZajUEJh/0", "UserInfo" : { "Sex" : 2, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112191217
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwdY_JXBDXWmIcXMky31updc&OpenId=oeNEewLs7wklpTmUg9p3iKJBIJsw&Subscribe=&NickName=%E8%B7%B3%E8%B7%B3%E8%99%8E&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2FXBbHEKCXCX9Z7I2LBPfB8Np1ZpDZE5HQqA76mH9pwdoFmsEcge6EC4yiaa9WvPIdcIdForvm3XdvjDIlcxS97oGwW4aPOrUWc%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22Zhongwei%22%2C%22Province%22%3A%22Ningxia%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.01896
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5826f911634198147c4cf9fa", "UnionId" : "oM0FfwdY_JXBDXWmIcXMky31updc", "OpenId" : "oeNEewLs7wklpTmUg9p3iKJBIJsw", "Subscribe" : "", "NickName" : "跳跳虎", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCX9Z7I2LBPfB8Np1ZpDZE5HQqA76mH9pwdoFmsEcge6EC4yiaa9WvPIdcIdForvm3XdvjDIlcxS97oGwW4aPOrUWc/0", "UserInfo" : { "Sex" : 2, "City" : "Zhongwei", "Province" : "Ningxia", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112195548
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwT7lJ3VtvkmbsAiBUqcEp-k&OpenId=oeNEewMVvrJIVoVc6k3CFRtwyh8Q&Subscribe=&NickName=%E5%90%B4%E6%8B%9B%E6%8B%9B&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2FXBbHEKCXCXib5rMJdbKkibm6aA8zuic44TcCFolFTrZIoLbicwaSaicGMPRLMl7ZrsHic9Fiaa0XjKf1MTMtrqDm9ibzdDGdLst0uMicF%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22Dongguan%22%2C%22Province%22%3A%22Guangdong%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.018475
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58270344634198147c4cfa00", "UnionId" : "oM0FfwT7lJ3VtvkmbsAiBUqcEp-k", "OpenId" : "oeNEewMVvrJIVoVc6k3CFRtwyh8Q", "Subscribe" : "", "NickName" : "吴招招", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXib5rMJdbKkibm6aA8zuic44TcCFolFTrZIoLbicwaSaicGMPRLMl7ZrsHic9Fiaa0XjKf1MTMtrqDm9ibzdDGdLst0uMicF/0", "UserInfo" : { "Sex" : 2, "City" : "Dongguan", "Province" : "Guangdong", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112203032
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwXZOSdRjKh_OLkc6Nih2OXI&OpenId=oeNEewMXgAzm9KK8RsYJhGdPRysQ&Subscribe=&NickName=%E5%90%BB%E7%9A%84%E3%80%81%E5%A4%AA%E9%80%BC%E7%9C%9F&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrqicTNoSiaIb4Cl2NzIlSlnMZhiaYgia969OngFuhibY7X8qKdyU3ZmU4R5VCe24Y0Reh4RdSg5yLs6JvQuJibuuyjDZx%2F0&UserInfo=%7B%22Sex%22%3A1%2C%22City%22%3A%22Guangzhou%22%2C%22Province%22%3A%22Guangdong%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.027624
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58270b68634198147c4cfa3e", "UnionId" : "oM0FfwXZOSdRjKh_OLkc6Nih2OXI", "OpenId" : "oeNEewMXgAzm9KK8RsYJhGdPRysQ", "Subscribe" : "", "NickName" : "吻的、太逼真", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4Cl2NzIlSlnMZhiaYgia969OngFuhibY7X8qKdyU3ZmU4R5VCe24Y0Reh4RdSg5yLs6JvQuJibuuyjDZx/0", "UserInfo" : { "Sex" : 1, "City" : "Guangzhou", "Province" : "Guangdong", "Country" : "CN", "Subscribe_time" : null } }] }
+
+执行日期：20161112221404
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwVsZcoyC_Y6M4rdyb8AfJ9E&OpenId=oeNEewO4fJUbPh811B5DptNQOypk&Subscribe=&NickName=%E2%99%9A%E5%91%A8%E5%91%A8%E2%99%9A%28%E0%B9%91%E2%80%A2%E0%B8%B1%E0%B9%87%CF%89%E2%80%A2%E0%B9%87%E0%B8%B1%E0%B9%91%29&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrqicTNoSiaIb4CoAWoovId9f7NP5x4vWTGshIZwPiavyXj0HicJWVnZ8tVZ5182p0mxeDku7cMHdjKMGq2tZOicNXek5%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22%22%2C%22Province%22%3A%22%22%2C%22Country%22%3A%22%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.014404
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582723ac634198147c4cfa46", "UnionId" : "oM0FfwVsZcoyC_Y6M4rdyb8AfJ9E", "OpenId" : "oeNEewO4fJUbPh811B5DptNQOypk", "Subscribe" : "", "NickName" : "♚周周♚(๑•\u0e31\u0e47ω•\u0e47\u0e31๑)", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CoAWoovId9f7NP5x4vWTGshIZwPiavyXj0HicJWVnZ8tVZ5182p0mxeDku7cMHdjKMGq2tZOicNXek5/0", "UserInfo" : { "Sex" : 2, "City" : "", "Province" : "", "Country" : "", "Subscribe_time" : null } }] }
+
+执行日期：20161112232110
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Create?UnionId=oM0FfwUpmF-7HMBDPZsHSLszIIUI&OpenId=oeNEewLAy-1gCj6hbCZCdZGwT-EE&Subscribe=&NickName=%E5%89%A7%E6%83%85%E5%86%8D%E7%BE%8E%EE%80%83%20%E7%BB%88%E7%A9%B6%E6%98%AF%E6%88%8F%EE%80%83%EE%80%B4&Thumbnail=http%3A%2F%2Fwx.qlogo.cn%2Fmmopen%2Fictia7Nu6CPrpTKB27RUWIxXjJWgUqUwBMAlZTDMgh6aHPtdMJP8qSaxF5hGGJU7uepvBljJ2wvVBBMyB2DcoKGIhUKViaIz8Uh%2F0&UserInfo=%7B%22Sex%22%3A2%2C%22City%22%3A%22Shenzhen%22%2C%22Province%22%3A%22Guangdong%22%2C%22Country%22%3A%22CN%22%2C%22Subscribe_time%22%3Anull%7D
+超时时间:5
+处理时间:0.010708
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58273366634198147c4cfa53", "UnionId" : "oM0FfwUpmF-7HMBDPZsHSLszIIUI", "OpenId" : "oeNEewLAy-1gCj6hbCZCdZGwT-EE", "Subscribe" : "", "NickName" : "剧情再美\ue003 终究是戏\ue003\ue034", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrpTKB27RUWIxXjJWgUqUwBMAlZTDMgh6aHPtdMJP8qSaxF5hGGJU7uepvBljJ2wvVBBMyB2DcoKGIhUKViaIz8Uh/0", "UserInfo" : { "Sex" : 2, "City" : "Shenzhen", "Province" : "Guangdong", "Country" : "CN", "Subscribe_time" : null } }] }
+

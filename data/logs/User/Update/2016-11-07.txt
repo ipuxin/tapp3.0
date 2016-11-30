@@ -1,0 +1,24 @@
+执行日期：20161107150021
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58061e206341981d8c43dae4&AppLogined==1
+超时时间:5
+处理时间:0.025444
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58061e206341981d8c43dae4", "UnionId" : "oM0FfwZcnD8BZK9mndd9M-voFvIM", "OpenId" : "oE6qGwF0-edMCafPQ1S4QqlIKlJ0", "Subscribe" : 1, "NickName" : "唉", "Thumbnail" : "http://wx.qlogo.cn/mmopen/mdy8YibQA2qu5pUelT4YFB0mwEX3FmHu6beJlnYcjV8erSp2YNawVhb5PWNfxJxEib9wZE2SWdOXVUx0N1hfrIMmMBKcbNPJCY/0", "UserInfo" : { "Sex" : 1, "City" : "Sanmenxia", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : 1466767984 }, "Addresses" : [{ "AddressId" : "add_1477556006669", "RealName" : "李晓松", "Mobile" : "18625782004", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411200", "CityName" : "三门峡市", "DistrictCode" : "411282", "DistrictName" : "灵宝市", "Address" : "南方商务酒店附近", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161107164454
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581fe35d634198206c661e3d&AppLogined==1
+超时时间:5
+处理时间:0.021834
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fe35d634198206c661e3d", "UnionId" : "oM0FfwVqmuLvQd5bfxn8wZRkAmbk", "OpenId" : "oeNEewDS6EVsGYkQ4FV3SQaSxG8E", "Subscribe" : "", "NickName" : "谁忆，紫禁。", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4CgQLYPWCKe94bsQDOIIr1KeshkaibBX5jhJQneV2QiajBNNzWBfZ6R870fRichWYC3d0UYoy2cJKGhd/0", "UserInfo" : { "Sex" : 1, "City" : "Ganzhou", "Province" : "Jiangxi", "Country" : "CN", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+
+执行日期：20161107200548
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57fd32b16341980eb0663e28&AppLogined==1
+超时时间:5
+处理时间:0.028629
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fd32b16341980eb0663e28", "UnionId" : "oM0FfwXdVAElUfeug0mSqHTdIZec", "OpenId" : "oE6qGwLLgHEobhhaDJ2EqE8qlgfo", "Subscribe" : 1, "NickName" : "蜕变", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM5b8KV0Fr6EibO893J2ibo47PMu2kM2zS7iacZ41js7rC5RIk1N3q1QZlA90r2kDyiaicL18W66Q2TY7Sw/0", "UserInfo" : { "Sex" : 2, "City" : "广州", "Province" : "广东", "Country" : "中国", "Subscribe_time" : 1469675831 }, "AppLogined" : 1 }] }
+
+执行日期：20161107205223
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=582078e96341981374ccbdb9&AppLogined==1
+超时时间:5
+处理时间:0.031045
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582078e96341981374ccbdb9", "UnionId" : "oM0FfwcL_jjIAg9YdoWFnngzz9ww", "OpenId" : "oeNEewPoavoQXh1jp7c9KMBDt2Ww", "Subscribe" : "", "NickName" : "弟", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXib5rMJdbKkibm4yraZ50R0EXtC80QjyiccbjXJmicgUqiazM5nu5ZvuFwjGR7oWVEjOs6zucEfFXrfO6kzQ0PQHHPUP/0", "UserInfo" : { "Sex" : 1, "City" : "", "Province" : "", "Country" : "", "Subscribe_time" : null }, "AppLogined" : 1 }] }
+

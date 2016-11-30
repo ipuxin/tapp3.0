@@ -1,0 +1,24 @@
+执行日期：20161124103704
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581961bd6341981b94d34c55&AppLogined==1
+超时时间:5
+处理时间:0.01567
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "UnionId" : "oM0FfwbAJ1emFbq8tUG5hkkkmvoY", "OpenId" : "oE6qGwECow_0mKz-oqlyf9fbz1R8", "Subscribe" : 1, "NickName" : "a咔咔咔", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4ChOyP2nPljFqkncIEaECnUpKLPPIYBgPHZ4GRhPehRQb2Bic650LgQO6F1uYrRLUL45yoyibsM6mYp/0", "UserInfo" : { "Sex" : 1, "City" : "Zhengzhou", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : 1459140539 }, "Addresses" : [{ "AddressId" : "add_1479139195994", "RealName" : "刘", "Mobile" : "15502135420", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "升龙b座17楼", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161124104950
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=581961bd6341981b94d34c55&AppLogined==1
+超时时间:5
+处理时间:0.00956
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581961bd6341981b94d34c55", "UnionId" : "oM0FfwbAJ1emFbq8tUG5hkkkmvoY", "OpenId" : "oE6qGwECow_0mKz-oqlyf9fbz1R8", "Subscribe" : 1, "NickName" : "a咔咔咔", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4ChOyP2nPljFqkncIEaECnUpKLPPIYBgPHZ4GRhPehRQb2Bic650LgQO6F1uYrRLUL45yoyibsM6mYp/0", "UserInfo" : { "Sex" : 1, "City" : "Zhengzhou", "Province" : "Henan", "Country" : "CN", "Subscribe_time" : 1459140539 }, "Addresses" : [{ "AddressId" : "add_1479139195994", "RealName" : "刘", "Mobile" : "15502135420", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "升龙b座17楼", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161124154338
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583698ba634198050ce65741&Addresses==%5B%7B%22AddressId%22%3A%22add_1479973418167%22%2C%22RealName%22%3A%22%5Cu82ae%5Cu5cb3%5Cu4e1c%22%2C%22Mobile%22%3A%2213961897516%22%2C%22ProviceCode%22%3A%22310000%22%2C%22ProviceName%22%3A%22%5Cu4e0a%5Cu6d77%5Cu5e02%22%2C%22CityCode%22%3A%22310100%22%2C%22CityName%22%3A%22%5Cu4e0a%5Cu6d77%5Cu5e02%5Cu5e02%5Cu8f96%5Cu533a%22%2C%22DistrictCode%22%3A%22310115%22%2C%22DistrictName%22%3A%22%5Cu6d66%5Cu4e1c%5Cu65b0%5Cu533a%22%2C%22Address%22%3A%22%5Cu5f20%5Cu6c5f%5Cu7389%5Cu5170%5Cu9999%5Cu82d13%5Cu671f102%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.015095
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583698ba634198050ce65741", "UnionId" : "oM0FfwYOLAZSjivLo_D8FpDLA8g8", "OpenId" : "oeNEewOZAXrt-Lujnf_Bn6Dg4J5Y", "Subscribe" : "", "NickName" : "错过的失去", "Thumbnail" : "http://wx.qlogo.cn/mmopen/574VdhMFwaEqbp14AWk7Up7XQXntDsQKFhylndWiabibGeTafx5DBpBTeZ3AHrcjv5PnKh0LSLkh5YOqCEZfPkb7XbRGZF663b/0", "UserInfo" : { "Sex" : 1, "City" : "", "Province" : "", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479973418167", "RealName" : "芮岳东", "Mobile" : "13961897516", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310115", "DistrictName" : "浦东新区", "Address" : "张江玉兰香苑3期102", "Type" : null }] }] }
+
+执行日期：20161124235522
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=58370ba5634198050ce657e4&AppLogined==1
+超时时间:5
+处理时间:0.010323
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58370ba5634198050ce657e4", "UnionId" : "oM0FfwVNL_bGftEgekYkootRlY7E", "OpenId" : "oE6qGwEIvNCsPSS49hbp0fQhsPFo", "Subscribe" : 1, "NickName" : "郑州中大门垮境保税(陈先生)", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkIboeERpk7259j9JaCD4Np7cOA65IcicSgGX0C4N9pVHxSYicJ7B69BmIUzib1cJKHRqTFaDI3rVcrpRhVowALOB6j/0", "UserInfo" : { "Sex" : 1, "City" : "", "Province" : "高雄市", "Country" : "中国台湾", "Subscribe_time" : 1480002417 }, "AppLogined" : 1 }] }
+

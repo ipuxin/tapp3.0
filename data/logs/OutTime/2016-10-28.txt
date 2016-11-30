@@ -1,0 +1,6 @@
+执行日期：20161028183631
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=201610211712&sid=YD
+超时时间:5
+处理时间:2.815797
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"YD","Success":true,"Reason":"此单无物流信息","LogisticCode":"201610211712","Traces":[]}}
+

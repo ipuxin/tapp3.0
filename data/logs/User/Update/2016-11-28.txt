@@ -1,0 +1,24 @@
+执行日期：20161128092346
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5834fa516341981188d81330&AppLogined==1
+超时时间:5
+处理时间:0.013758
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5834fa516341981188d81330", "UnionId" : "oM0Ffwf8ybRvZZiV1R4xYyGWLKh4", "OpenId" : "oE6qGwHX84l3yPtbDEzuukwdAiVY", "Subscribe" : 1, "NickName" : "A娜娜", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM74bYVDicvFQB67X0QIm9wpupr8QHePib1bMEQ1icCR9AfEXAFH3l0n4TBs8COZqAuUMWvxibic9ibMgHI9sf02cA1C2VOFA6xuIQiaHo/0", "UserInfo" : { "Sex" : 2, "City" : "枣庄", "Province" : "山东", "Country" : "中国", "Subscribe_time" : 1442533917 }, "AppLogined" : 1 }] }
+
+执行日期：20161128134410
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583bc34f63419812242c9a37&Addresses==%5B%7B%22AddressId%22%3A%22add_1480311850374%22%2C%22RealName%22%3A%22%5Cu859b%5Cu5c0f%5Cu5174%22%2C%22Mobile%22%3A%2213651751073%22%2C%22ProviceCode%22%3A%22310000%22%2C%22ProviceName%22%3A%22%5Cu4e0a%5Cu6d77%5Cu5e02%22%2C%22CityCode%22%3A%22310200%22%2C%22CityName%22%3A%22%5Cu4e0a%5Cu6d77%5Cu5e02%5Cu90ca%5Cu53bf%22%2C%22DistrictCode%22%3A%22310200%22%2C%22DistrictName%22%3A%22%22%2C%22Address%22%3A%22%5Cu5b9d%5Cu5c71%5Cu533a%5Cu6cf0%5Cu548c%5Cu8def1000%5Cu53f72%5Cu53f7%5Cu95e8%5Cu767d%5Cu9886%5Cu516c%5Cu5bd32112%5Cu5ba4%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.010962
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583bc34f63419812242c9a37", "UnionId" : "oM0FfwWVwEd___frdh48OYCaqTDA", "OpenId" : "oeNEewEEDalCTCsb6wvlk_a0mOkc", "Subscribe" : "", "NickName" : "cherry\ud83c\udf61", "Thumbnail" : "http://wx.qlogo.cn/mmopen/574VdhMFwaEqbp14AWk7UojNgEVXF2sKoQPkGPr0yBlWdBtb9ZLYFapLMfSWvYLxLsLJnQ4iclvMkpzq5Nm8sVJKSbWR2p2fN/0", "UserInfo" : { "Sex" : 2, "City" : "Changning", "Province" : "Shanghai", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1480311850374", "RealName" : "薛小兴", "Mobile" : "13651751073", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310200", "CityName" : "上海市郊县", "DistrictCode" : "310200", "DistrictName" : "", "Address" : "宝山区泰和路1000号2号门白领公寓2112室", "Type" : null }] }] }
+
+执行日期：20161128170915
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583bf34f63419812242c9a6e&Addresses==%5B%7B%22AddressId%22%3A%22add_1480324154625%22%2C%22RealName%22%3A%22%5Cu97e9%5Cu633a%22%2C%22Mobile%22%3A%2217712631225%22%2C%22ProviceCode%22%3A%22320000%22%2C%22ProviceName%22%3A%22%5Cu6c5f%5Cu82cf%5Cu7701%22%2C%22CityCode%22%3A%22320500%22%2C%22CityName%22%3A%22%5Cu82cf%5Cu5dde%5Cu5e02%22%2C%22DistrictCode%22%3A%22320506%22%2C%22DistrictName%22%3A%22%5Cu5434%5Cu4e2d%5Cu533a%22%2C%22Address%22%3A%22%5Cu56ed%5Cu533a%5Cu552f%5Cu534e%5Cu8def6%5Cu53f7%5Cu91d1%5Cu6c99%5Cu5e7f%5Cu573a1%5Cu5e62%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.015516
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583bf34f63419812242c9a6e", "UnionId" : "oM0FfwSzeVnFdtP3KBroHXf1n0uk", "OpenId" : "oeNEewNf7McdcHmMnKFJ34EWDEc8", "Subscribe" : "", "NickName" : "i小憨", "Thumbnail" : "http://wx.qlogo.cn/mmopen/ictia7Nu6CPrqicTNoSiaIb4ClRdjIZXsIliaCVLQT6hujzSDeZIVAlHVzsWmRBNHMJn2S87WdMIQqTlncAkwuFG4F7bDefCs4zrn/0", "UserInfo" : { "Sex" : 1, "City" : "Suzhou", "Province" : "Jiangsu", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1480324154625", "RealName" : "韩挺", "Mobile" : "17712631225", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320500", "CityName" : "苏州市", "DistrictCode" : "320506", "DistrictName" : "吴中区", "Address" : "园区唯华路6号金沙广场1幢", "Type" : null }] }] }
+
+执行日期：20161128214831
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=583c2a2863419812242c9abc&AppLogined==1
+超时时间:5
+处理时间:0.030025
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583c2a2863419812242c9abc", "UnionId" : "oM0FfwdLe-RybaDgaxTjcx1Pe3EM", "OpenId" : "oE6qGwPNM1eKM_mUk7hFkDeZsL7M", "Subscribe" : 1, "NickName" : "Mr.san", "Thumbnail" : "http://wx.qlogo.cn/mmopen/PiajxSqBRaELibtmOzPkgl8NT2pXa0Krafoibzm7EOdHujNmsbNLt10mg112saQxbvw36NtBXdAScAmXgQ8Hlbxcw/0", "UserInfo" : { "Sex" : 1, "City" : "郑州", "Province" : "河南", "Country" : "中国", "Subscribe_time" : 1480337869 }, "AppLogined" : 1 }] }
+

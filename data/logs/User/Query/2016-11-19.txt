@@ -1,0 +1,576 @@
+执行日期：20161119001614
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwVaoyL7NNfYCWKBFQMUR9NI&$Limit=1
+超时时间:5
+处理时间:0.065322
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119001617
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwVaoyL7NNfYCWKBFQMUR9NI&$Limit=1
+超时时间:5
+处理时间:0.064932
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119001617
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewLDQ7NAAAVFJgEQ0DtRRIQw&$Limit=1
+超时时间:5
+处理时间:0.065161
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119002003
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017987
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4" }], "Count" : 1 }
+
+执行日期：20161119002029
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.01359
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4" }], "Count" : 1 }
+
+执行日期：20161119002204
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.023389
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4" }], "Count" : 1 }
+
+执行日期：20161119002205
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.024188
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4", "Addresses" : [{ "AddressId" : "add_1479486124247", "RealName" : "梁小洁", "Mobile" : "18664300545", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440306", "DistrictName" : "宝安区", "Address" : "广东省深圳市宝安区黄田恒昌荣高新技园2b楼2楼威兰", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119002205
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&$Limit=1
+超时时间:5
+处理时间:0.010462
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4", "UnionId" : "oM0FfwVaoyL7NNfYCWKBFQMUR9NI", "OpenId" : "oeNEewLDQ7NAAAVFJgEQ0DtRRIQw", "Subscribe" : "", "NickName" : "Lost 、youth", "Thumbnail" : "http://wx.qlogo.cn/mmopen/XBbHEKCXCXibgrdTA9kZv6QYHMCCLH2dzzIKtBhaGZs8Yr6agv5bAUYSB1hfH9byicTsicnpkdNJ0gBXiay1E0m1QDzUOVG5xVIc/0", "UserInfo" : { "Sex" : 2, "City" : "Shenzhen", "Province" : "Guangdong", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479486124247", "RealName" : "梁小洁", "Mobile" : "18664300545", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440306", "DistrictName" : "宝安区", "Address" : "广东省深圳市宝安区黄田恒昌荣高新技园2b楼2楼威兰", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119002247
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582f29516341982154e4efe4&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.023635
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582f29516341982154e4efe4", "Addresses" : [{ "AddressId" : "add_1479486124247", "RealName" : "梁小洁", "Mobile" : "18664300545", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440306", "DistrictName" : "宝安区", "Address" : "广东省深圳市宝安区黄田恒昌荣高新技园2b楼2楼威兰", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119010342
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwVO3mBeFla6m3LSkTvgUGIY&$Limit=1
+超时时间:5
+处理时间:0.063319
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119010343
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwVO3mBeFla6m3LSkTvgUGIY&$Limit=1
+超时时间:5
+处理时间:0.05295
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119010343
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewAdQmNCeYgj6VqS-x1ANXZw&$Limit=1
+超时时间:5
+处理时间:0.061779
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119092436
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwT7pOWF3KwirXCimUiSmJR0&$Limit=1
+超时时间:5
+处理时间:0.056737
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "UnionId" : "oM0FfwT7pOWF3KwirXCimUiSmJR0", "OpenId" : "oE6qGwFGY9XHLx2qHeL1RfYSewaA", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119092438
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwFGY9XHLx2qHeL1RfYSewaA&$Limit=1
+超时时间:5
+处理时间:0.062737
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "UnionId" : "oM0FfwT7pOWF3KwirXCimUiSmJR0", "OpenId" : "oE6qGwFGY9XHLx2qHeL1RfYSewaA", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161119093112
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582e74646341982154e4d846&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017034
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119093210
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwFGY9XHLx2qHeL1RfYSewaA&$Limit=1
+超时时间:5
+处理时间:0.076681
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "UnionId" : "oM0FfwT7pOWF3KwirXCimUiSmJR0", "OpenId" : "oE6qGwFGY9XHLx2qHeL1RfYSewaA", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161119093212
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwFGY9XHLx2qHeL1RfYSewaA&$Limit=1
+超时时间:5
+处理时间:0.071097
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "UnionId" : "oM0FfwT7pOWF3KwirXCimUiSmJR0", "OpenId" : "oE6qGwFGY9XHLx2qHeL1RfYSewaA", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161119093221
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwFGY9XHLx2qHeL1RfYSewaA&$Limit=1
+超时时间:5
+处理时间:0.074467
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e74646341982154e4d846", "UnionId" : "oM0FfwT7pOWF3KwirXCimUiSmJR0", "OpenId" : "oE6qGwFGY9XHLx2qHeL1RfYSewaA", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479439536465", "RealName" : "黄静", "Mobile" : "15371187149", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320900", "CityName" : "盐城市", "DistrictCode" : "320981", "DistrictName" : "东台市", "Address" : "溱东镇周黄村", "Type" : null }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161119093533
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwA85QtVgFZ7CXwfpHPZ9v_M&$Limit=1
+超时时间:5
+处理时间:0.042588
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fc908d6341980eb0663cef", "UnionId" : "oM0FfwRc1sBGn4ioncrc9sYyNQeM", "OpenId" : "oE6qGwA85QtVgFZ7CXwfpHPZ9v_M", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1479295139491", "RealName" : "崔萌", "Mobile" : "18272990962", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "法院家属院", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119093556
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oE6qGwA85QtVgFZ7CXwfpHPZ9v_M&$Limit=1
+超时时间:5
+处理时间:0.04485
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fc908d6341980eb0663cef", "UnionId" : "oM0FfwRc1sBGn4ioncrc9sYyNQeM", "OpenId" : "oE6qGwA85QtVgFZ7CXwfpHPZ9v_M", "Subscribe" : 0, "NickName" : "", "Thumbnail" : "", "UserInfo" : { "Sex" : null, "City" : null, "Province" : null, "Country" : null, "Subscribe_time" : null }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1479295139491", "RealName" : "崔萌", "Mobile" : "18272990962", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "法院家属院", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119093653
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57fc908d6341980eb0663cef&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012499
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fc908d6341980eb0663cef", "Addresses" : [{ "AddressId" : "add_1479295139491", "RealName" : "崔萌", "Mobile" : "18272990962", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "法院家属院", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119094457
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38d2163419801342600ea&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.029893
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38d2163419801342600ea", "Addresses" : [{ "AddressId" : "add_1478228656858", "RealName" : "234567890", "Mobile" : "13312345678", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "翔殷路12344567889", "Type" : null }, { "AddressId" : "add_1475579292965", "RealName" : "哈哈镜", "Mobile" : "13386529458", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "1008号", "Type" : null, "RealAddress" : "河南省郑州市高新开发区1008号" }] }], "Count" : 1 }
+
+执行日期：20161119094459
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38d2163419801342600ea&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.010835
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38d2163419801342600ea", "Addresses" : [{ "AddressId" : "add_1478228656858", "RealName" : "234567890", "Mobile" : "13312345678", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "翔殷路12344567889", "Type" : null }, { "AddressId" : "add_1475579292965", "RealName" : "哈哈镜", "Mobile" : "13386529458", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "1008号", "Type" : null, "RealAddress" : "河南省郑州市高新开发区1008号" }] }], "Count" : 1 }
+
+执行日期：20161119094459
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38d2163419801342600ea&$Limit=1
+超时时间:5
+处理时间:0.024832
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38d2163419801342600ea", "UnionId" : "oM0Ffwdl3VSGyLKnPcGF0sUlvKfk", "OpenId" : "oE6qGwKlPz3V0dZSleEX0zdDCIrA", "Subscribe" : 1, "NickName" : "算命先生", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkIboeERpk7253GqU2CfJ0gLeibgRoP12l3HxLLyckznRPvyTIibaaQ6U1seVIEmiaibTicHicbwmZ6oUBPF4wX3iaIoKKh/0", "UserInfo" : { "Sex" : 1, "City" : "松江", "Province" : "上海", "Country" : "中国", "Subscribe_time" : 1477114261 }, "Addresses" : [{ "AddressId" : "add_1478228656858", "RealName" : "234567890", "Mobile" : "13312345678", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "翔殷路12344567889", "Type" : null }, { "AddressId" : "add_1475579292965", "RealName" : "哈哈镜", "Mobile" : "13386529458", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "1008号", "Type" : null, "RealAddress" : "河南省郑州市高新开发区1008号" }], "AppLogined" : 1 }], "Count" : 1 }
+
+执行日期：20161119094514
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=57f38d2163419801342600ea&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014959
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f38d2163419801342600ea", "Addresses" : [{ "AddressId" : "add_1478228656858", "RealName" : "234567890", "Mobile" : "13312345678", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320400", "CityName" : "常州市", "DistrictCode" : "320412", "DistrictName" : "武进区", "Address" : "翔殷路12344567889", "Type" : null }, { "AddressId" : "add_1475579292965", "RealName" : "哈哈镜", "Mobile" : "13386529458", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410194", "DistrictName" : "高新开发区", "Address" : "1008号", "Type" : null, "RealAddress" : "河南省郑州市高新开发区1008号" }] }], "Count" : 1 }
+
+执行日期：20161119110528
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwaVqLhvZxVeYIrT7WWveatA&$Limit=1
+超时时间:5
+处理时间:0.069895
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119110530
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwaVqLhvZxVeYIrT7WWveatA&$Limit=1
+超时时间:5
+处理时间:0.071502
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119110530
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewO0rCk9xQDYspswqXjGA2vI&$Limit=1
+超时时间:5
+处理时间:0.071354
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119112137
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwaAhhdBAZjAc0t7nTut7qe0&$Limit=1
+超时时间:5
+处理时间:0.066523
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119112139
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwaAhhdBAZjAc0t7nTut7qe0&$Limit=1
+超时时间:5
+处理时间:0.059477
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119112139
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewBOBUiuIcmQlWLPYEf9_h8U&$Limit=1
+超时时间:5
+处理时间:0.068767
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119143715
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwR5e1JoNQKuOwZYbH8_lFKs&$Limit=1
+超时时间:5
+处理时间:0.068772
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119143716
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwR5e1JoNQKuOwZYbH8_lFKs&$Limit=1
+超时时间:5
+处理时间:0.068361
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119143717
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewLhYotIg_HoaqcIueO9q4YU&$Limit=1
+超时时间:5
+处理时间:0.077242
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119143741
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.01486
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8" }], "Count" : 1 }
+
+执行日期：20161119143951
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014493
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8" }], "Count" : 1 }
+
+执行日期：20161119144109
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017298
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8" }], "Count" : 1 }
+
+执行日期：20161119144211
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.015574
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8" }], "Count" : 1 }
+
+执行日期：20161119144216
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014542
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119144216
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&$Limit=1
+超时时间:5
+处理时间:0.022671
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "UnionId" : "oM0FfwR5e1JoNQKuOwZYbH8_lFKs", "OpenId" : "oeNEewLhYotIg_HoaqcIueO9q4YU", "Subscribe" : "", "NickName" : "甜甜圈", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM7y7wwtFLYSWoEOroFFEcOl6rBMkmoGHEoZgh53MHbLdUKsPlAygrMh6r3W0nweyoaB0KxhUfrsGDgicFt39Qglg9cRCFKa7O88/0", "UserInfo" : { "Sex" : 2, "City" : "Po", "Province" : "Shanghai", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119144302
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.013865
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119144305
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.023026
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119144305
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&$Limit=1
+超时时间:5
+处理时间:0.020427
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "UnionId" : "oM0FfwR5e1JoNQKuOwZYbH8_lFKs", "OpenId" : "oeNEewLhYotIg_HoaqcIueO9q4YU", "Subscribe" : "", "NickName" : "甜甜圈", "Thumbnail" : "http://wx.qlogo.cn/mmopen/Q3auHgzwzM7y7wwtFLYSWoEOroFFEcOl6rBMkmoGHEoZgh53MHbLdUKsPlAygrMh6r3W0nweyoaB0KxhUfrsGDgicFt39Qglg9cRCFKa7O88/0", "UserInfo" : { "Sex" : 2, "City" : "Po", "Province" : "Shanghai", "Country" : "CN", "Subscribe_time" : null }, "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119144308
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582ff31c6341981954416bb8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.026733
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582ff31c6341981954416bb8", "Addresses" : [{ "AddressId" : "add_1479537731391", "RealName" : "康", "Mobile" : "13345678978", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110105", "DistrictName" : "朝阳区", "Address" : "法国红酒打飞机", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119154434
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQ35a8G9dqqQCMV7RPtkI9U&$Limit=1
+超时时间:5
+处理时间:0.070652
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119154435
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwQ35a8G9dqqQCMV7RPtkI9U&$Limit=1
+超时时间:5
+处理时间:0.063168
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119154435
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewBau4nHdFD6MtAA2wDkx5rE&$Limit=1
+超时时间:5
+处理时间:0.065259
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119161204
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.034466
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119161325
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.026862
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119161337
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.018012
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161402
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.021622
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161458
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.016034
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161513
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017589
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161629
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.029614
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161706
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.010388
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161814
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.012289
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161910
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.017542
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119161915
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5816a74a6341982128df71a8&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.034066
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5816a74a6341982128df71a8", "Addresses" : [{ "AddressId" : "add_1479543550245", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "缔梦园丽梦轩一层112号吉缘精舍", "Type" : null }, { "AddressId" : "add_1479543205894", "RealName" : "肖老师", "Mobile" : "18319024966", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花西路缔梦园丽梦轩一层112号吉缘精舍", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花西路缔梦园丽梦轩一层112号吉缘精舍" }, { "AddressId" : "add_1477880208534", "RealName" : "肖老师", "Mobile" : "15013454667", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "莲花路缔梦园丽梦轩一层112号", "Type" : null, "RealAddress" : "广东省深圳市福田区莲花路缔梦园丽梦轩一层112号" }] }], "Count" : 1 }
+
+执行日期：20161119163147
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfCxCLELzsXSXNS2NBSFTjY&$Limit=1
+超时时间:5
+处理时间:0.078744
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163149
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfCxCLELzsXSXNS2NBSFTjY&$Limit=1
+超时时间:5
+处理时间:0.071926
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163149
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewAVtGcH8zSdUsxkaqnz7jnk&$Limit=1
+超时时间:5
+处理时间:0.074801
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163316
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwW29O_F5VDHaMc9kfr0PHxo&$Limit=1
+超时时间:5
+处理时间:0.076617
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163318
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwW29O_F5VDHaMc9kfr0PHxo&$Limit=1
+超时时间:5
+处理时间:0.064429
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163318
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewADmg5AXRAKkoh8WqnLovvc&$Limit=1
+超时时间:5
+处理时间:0.065914
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163522
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfweJ34oApafh6MFCykd5RTCA&$Limit=1
+超时时间:5
+处理时间:0.063557
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163523
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfweJ34oApafh6MFCykd5RTCA&$Limit=1
+超时时间:5
+处理时间:0.068163
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119163523
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewNt5Yruacg3upwVjPxoErdo&$Limit=1
+超时时间:5
+处理时间:0.073173
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119172550
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=5810e0416341981810eb1f89&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.010065
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5810e0416341981810eb1f89" }], "Count" : 1 }
+
+执行日期：20161119183323
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwXINx-WXkqJWbbln7nEiEnM&$Limit=1
+超时时间:5
+处理时间:0.070331
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119183325
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwXINx-WXkqJWbbln7nEiEnM&$Limit=1
+超时时间:5
+处理时间:0.073711
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119183325
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewDVk9N18_nscKoFmT3ffd3o&$Limit=1
+超时时间:5
+处理时间:0.07191
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119201044
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?id=582eda916341982154e4ecac&@Addresses&$Limit=1
+超时时间:5
+处理时间:0.014669
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582eda916341982154e4ecac", "Addresses" : [{ "AddressId" : "add_1479465658229", "RealName" : "陈苗苗", "Mobile" : "18989300829", "ProviceCode" : "330000", "ProviceName" : "浙江省", "CityCode" : "330200", "CityName" : "宁波市", "DistrictCode" : "330205", "DistrictName" : "江北区", "Address" : "洪塘街道投资创业园区C区长阳路136号鑫晟工具", "Type" : null }] }], "Count" : 1 }
+
+执行日期：20161119201529
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwWHosmeQml7ViCAGsu1Dy_8&$Limit=1
+超时时间:5
+处理时间:0.071505
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119201530
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwWHosmeQml7ViCAGsu1Dy_8&$Limit=1
+超时时间:5
+处理时间:0.067228
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119201530
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewKcwdt65HuiTqMW7iaF9BaQ&$Limit=1
+超时时间:5
+处理时间:0.077651
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119211503
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUwPMfUzsCCpUPf0uPCQCjI&$Limit=1
+超时时间:5
+处理时间:0.066676
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119211505
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUwPMfUzsCCpUPf0uPCQCjI&$Limit=1
+超时时间:5
+处理时间:0.069138
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119211505
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewJ_iqUlkZkOGa2xwmIhPsEE&$Limit=1
+超时时间:5
+处理时间:0.067139
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119212844
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0Ffwe27dREASY-3DLYXyHTnsVI&$Limit=1
+超时时间:5
+处理时间:0.070119
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119212845
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0Ffwe27dREASY-3DLYXyHTnsVI&$Limit=1
+超时时间:5
+处理时间:0.075159
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119212845
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewIkgSrRSAyD-TNC0rn-ZTxs&$Limit=1
+超时时间:5
+处理时间:0.083463
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119214218
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwTcUYzrIIKnX5dcmvt2Cj7Y&$Limit=1
+超时时间:5
+处理时间:0.080882
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119214219
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwTcUYzrIIKnX5dcmvt2Cj7Y&$Limit=1
+超时时间:5
+处理时间:0.06838
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119214219
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewLSfmKGFiqV6sRL12vdYxl8&$Limit=1
+超时时间:5
+处理时间:0.069296
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119220802
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwZevdxBZfa7EaTw_6f5g20g&$Limit=1
+超时时间:5
+处理时间:0.079931
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119220803
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwZevdxBZfa7EaTw_6f5g20g&$Limit=1
+超时时间:5
+处理时间:0.063067
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119220803
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewOFVmp22Ki9AygNvpK3D4sM&$Limit=1
+超时时间:5
+处理时间:0.054982
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119225633
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfHUJIeBcrLavMik7ptNsOY&$Limit=1
+超时时间:5
+处理时间:0.079634
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119225635
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwfHUJIeBcrLavMik7ptNsOY&$Limit=1
+超时时间:5
+处理时间:0.06651
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119225635
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewOqk0mtVuodqpLnZsMB3VYU&$Limit=1
+超时时间:5
+处理时间:0.063148
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119230027
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUU_E1tiGytFC0OU4jdWs60&$Limit=1
+超时时间:5
+处理时间:0.066583
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119230029
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwUU_E1tiGytFC0OU4jdWs60&$Limit=1
+超时时间:5
+处理时间:0.076626
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119230029
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewFXWA6CS5ylDF7wx3mlUjgo&$Limit=1
+超时时间:5
+处理时间:0.052561
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119235949
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwZJdbLUDb74Pxnt6-af9kcs&$Limit=1
+超时时间:5
+处理时间:0.070609
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119235951
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?UnionId=oM0FfwZJdbLUDb74Pxnt6-af9kcs&$Limit=1
+超时时间:5
+处理时间:0.068168
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161119235951
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Query?OpenId=oeNEewIjifBfTmPvpJwIB91xUfvI&$Limit=1
+超时时间:5
+处理时间:0.069003
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

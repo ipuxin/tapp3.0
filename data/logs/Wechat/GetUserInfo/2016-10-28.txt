@@ -1,0 +1,18 @@
+执行日期：20161028182232
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=1iljjEltjZJyBTb0ydbmz9s7SH3WOtY-qjsiuc-ThIuEo9pfAK7P2Rah7bTvq6v8tQgw_RfnkJ_nIjL5tmW0VPRQ-LXXn_rkXYwpYlA_rzoPGBeADAHYT&openid=oE6qGwIrhVUYBlT9jatdKCHt-HM0&lang=zh_CN
+超时时间:5 
+处理时间:0.154733
+返回参数:{"subscribe":1,"openid":"oE6qGwIrhVUYBlT9jatdKCHt-HM0","nickname":"AA溱湖特产实惠店","sex":2,"language":"zh_CN","city":"泰州","province":"江苏","country":"中国","headimgurl":"http:\/\/wx.qlogo.cn\/mmopen\/AEkl2dhLSEcQKwSLCNcvibwclicv8TqoMekmdC6Ick28MJDZxdqZUCKvK8BZDZfcoTFMHR9pZ1oibF7TEZicMFqY3xvdibGu3ibj6h\/0","subscribe_time":1477488126,"unionid":"oM0FfwbwS7_hae5U6owXHsNHRrwU","remark":"","groupid":0,"tagid_list":[]}
+
+执行日期：20161028211132
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=sDk8KqpMfaqpBXE5y0naSLJpDdem1ZF0XInaDfEzia5sjWvOj-d7vPQqdW_a0gzo4ZCck-7sPQVwPlWTK4L9SdZsU1icl-D6qzbVUaI60YwOSZiAFAFJQ&openid=oE6qGwIOITF7CvNPe8zHlKwN90Kg&lang=zh_CN
+超时时间:5 
+处理时间:0.139967
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [f500291vr29!]"}
+
+执行日期：20161028211134
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=3P9w_kpeB85G-peFQyiocpQRccc6rLmJFTuj4GrC6Z6tzI5FXgOcn9m3YorhGBtl2Sf28GZKXoylV_CNpfEfbeaywS2dBNYqHBktsB1ar0Bm0xnClNvLFWcxg1npy0saZLJcAGAEQO&openid=oE6qGwIOITF7CvNPe8zHlKwN90Kg&lang=zh_CN
+超时时间:5 
+处理时间:0.148484
+返回参数:{"subscribe":0,"openid":"oE6qGwIOITF7CvNPe8zHlKwN90Kg","unionid":"oM0FfwSZlfNj3JlEgjssgnIxO464","tagid_list":[]}
+

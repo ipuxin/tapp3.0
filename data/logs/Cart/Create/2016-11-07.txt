@@ -1,0 +1,6 @@
+执行日期：20161107103714
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=%5B310100%2C321100%2C441300%2C310100%5D&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=581fe35d634198206c661e3d&ShopName=Wilson%20%E6%8B%BC%E4%B8%80%E4%B8%8Bstore&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=12631&ProductRealId=580b1f0e634198126c2c19ea&ProductCount=1&creatTime=1478486234
+超时时间:5
+处理时间:0.021089
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581fe8db634198206c661e43", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "581fe35d634198206c661e3d", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 12631, "ProductRealId" : "580b1f0e634198126c2c19ea", "ProductCount" : 1, "creatTime" : 1478486234 }] }
+

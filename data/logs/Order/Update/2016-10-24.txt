@@ -1,0 +1,6 @@
+执行日期：20161024104508
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Update?&id=580d75aa6341980da40d2254&OrderStatus==6
+超时时间:5
+处理时间:0.019475
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580d75aa6341980da40d2254", "ShopId" : "5805ff9d6341981d8c43dab4", "ShopName" : "情趣用品超市", "UserId" : "580321fd6341981e3834f237", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 12474, "ProductRealId" : "580aea09634198126c2c19b0", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/6a02ec1264de6d9f5d772e62914222ae.jpg", "ProductName" : "早早孕快速检测笔毓婷", "Prices" : 12, "PricesAll" : { "Normal" : 12, "Market" : "25" }, "DeliverAddress" : "上海市奉贤区庄行镇邬桥社区", "Description" : "早早孕快速检测笔毓婷", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477040529456", "RealName" : "拒绝了", "Mobile" : "15555555555", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310107", "DistrictName" : "普陀区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "上海市普陀区考虑考虑" }, "ProductFee" : 12, "freightFee" : 0, "OrderFee" : 12, "OrderId" : 32473, "CreatTime" : 1477277099, "OrderStatus" : 6, "PayStatus" : "未支付" }] }
+

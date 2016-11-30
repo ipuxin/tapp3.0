@@ -1,0 +1,12 @@
+执行日期：20161108103928
+接口路径:http://api.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:1.028576
+返回参数:
+
+执行日期：20161108103931
+接口路径:http://api.pingoing.cn/restful.PYX3_Banner.Query?IsDisable=0&~Paixu=DESC
+超时时间:5
+处理时间:1.285403
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57f7a11a6341981970f2f4b5", "Url" : "/data/images/banner/2016-10-13/5848d9f90edacc10a7531175cad1cdec.jpg", "Name" : "聚优惠，极速达", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475846425 }, { "id" : "57f9ae0c63419a1540e862ad", "Url" : "/data/images/banner/2016-10-13/b70a04043fdd01a2b14700ec31ca922c.jpg", "Name" : "购物升级，全新体验", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980812 }, { "id" : "57f9ae6163419a1540e862ae", "Url" : "/data/images/banner/2016-10-13/c60c771628592d9b79d0cf958f010df1.jpg", "Name" : "一样的钱", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980897 }, { "id" : "57f9ae7f63419a1540e862af", "Url" : "/data/images/banner/2016-10-13/06066871d2a0a18dfc203cb82d061bbc.jpg", "Name" : "tu4", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980927 }, { "id" : "57f9ae8e63419a1540e862b0", "Url" : "/data/images/banner/2016-10-13/fb254b23b88f0dac5053045d71e9bd1c.jpg", "Name" : "tu5", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980942 }, { "id" : "57f9ae9a63419a1540e862b1", "Url" : "/data/images/banner/2016-10-13/3e6f97647caf4698ab1ac3e30a9a7b5c.png", "Name" : "一元夺宝", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980955 }, { "id" : "57f9aea763419a1540e862b2", "Url" : "/data/images/banner/2016-10-13/31d6fd70966f070950d6c8536cdf505e.jpg", "Name" : "幸运抽奖", "Paixu" : 0, "IsDisable" : 0, "CreatTime" : 1475980967 }], "Count" : 7 }
+

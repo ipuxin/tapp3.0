@@ -1,0 +1,360 @@
+执行日期：20161129111159
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.062117
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583cf1db634198215ce68020", "OrderId" : 344452 }], "Count" : 11800 }
+
+执行日期：20161129111159
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=344463&UserId=58086c3c634198026c8144c9&$Limit=1
+超时时间:5
+处理时间:0.055166
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583cf1ff634198215ce68023", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "58086c3c634198026c8144c9", "CityCode" : 411700, "CityName" : "驻马店市", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1477822059125", "RealName" : "刘宁", "Mobile" : "18903964683", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "猫狗市场北花卉胡同往里走", "Type" : null, "RealAddress" : "河南省驻马店市平舆县猫狗市场北花卉胡同往里走" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 344463, "CreatTime" : 1480389119, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129111216
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58086c3c634198026c8144c9&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.054749
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129111244
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58086c3c634198026c8144c9&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.04073
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583cf1ff634198215ce68023", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 344463, "OrderStatus" : 2 }, { "id" : "5815c66f6341982128df6f51", "OrderType" : 3, "ProductId" : 4581, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-11/fdf853e15d742da03511024c6f60b865.jpg", "ProductName" : "6A 山竹大果一元夺宝", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "25", "Team" : "1" }, "DeliverAddress" : "平舆县上河城", "Description" : "　山竹称为果后，除了本身的味道甜美之外，还在古时东南亚医药中所担当的角色，传统上，山竹被人用来控制发烧的温度及防止各种皮肤感染。\r\n       山竹中所含有的营养价值非常丰富，其中山竹中所含有的蛋白质与脂类非常丰富，对于人体具有很好的补充营养的作用，尤其对于营养不良，体质虚弱及病后的人群都能起到很好的保健作用。\r\n     山竹中含有一种物质具有清热解凉的作用，因此经常吃山竹还可以有降火的功效，还能解除人体的燥热，让身体变得更加凉爽。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 57094, "OrderId" : 57318, "OrderStatus" : 5 }], "Count" : 2 }
+
+执行日期：20161129114952
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.062077
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583cf9c9634198215ce680d0", "OrderId" : 345802 }], "Count" : 11847 }
+
+执行日期：20161129114953
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=345828&UserId=5835b36a6341981188d823f3&$Limit=1
+超时时间:5
+处理时间:0.062808
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583cfae0634198215ce680dc", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "5835b36a6341981188d823f3", "CityCode" : 340500, "CityName" : "马鞍山市", "OrderType" : 3, "ProductId" : 29905, "ProductRealId" : "5834635a6341981188d81171", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/591b21fa2547d5e801b54859128b1269.jpg", "ProductName" : "爱奇艺会员激活码12个月 爱奇艺vip 黄金年卡充值", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本团名额2人，成团后立即开奖\r\n品牌：爱奇艺官方正版\r\n充值方式：中奖后联系拼一下客服领取\r\n充值面值：360元\r\n爱奇艺产品：黄金会员", "ProductType" : 4 }, "Remark" : "号：13721249553", "DeliveryInfo" : { "AddressId" : "add_1480391369889", "RealName" : "刘潮", "Mobile" : "13721249553", "ProviceCode" : "340000", "ProviceName" : "安徽省", "CityCode" : "340500", "CityName" : "马鞍山市", "DistrictCode" : "340504", "DistrictName" : "雨山区", "Address" : "向山镇欣利阳光城23栋108", "Type" : null, "RealAddress" : "安徽省马鞍山市雨山区向山镇欣利阳光城23栋108" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291436, "OrderId" : 345828, "CreatTime" : 1480391392, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129115006
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5835b36a6341981188d823f3&TeamId=291436&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.044799
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129154427
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582e42966341982154e4b767&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.043837
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e431c6341982154e4b78a", "OrderType" : 3, "ProductId" : 27833, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-16/44ed8fc3934db937d79170798bdd4ebd.jpg", "ProductName" : "泰州华侨城温泉票（含自助餐）2张", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "328", "Team" : "1" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "泰州华侨城第七届温泉养生文化节，11月19日开幕，同时庆祝泰州华侨城10周年，特推出门市价格248元/张(含自助餐温泉门票)，优惠价格158元/张限量抢购活动，有效期到2017年1月27日(周末、元旦可使用）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 201894, "OrderId" : 218185, "OrderStatus" : 2 }], "Count" : 1 }
+
+执行日期：20161129154430
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=218185&$Limit=1
+超时时间:5
+处理时间:0.047081
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e431c6341982154e4b78a", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "582e42966341982154e4b767", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 3, "ProductId" : 27833, "ProductRealId" : "582c025c6341982200645949", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-16/44ed8fc3934db937d79170798bdd4ebd.jpg", "ProductName" : "泰州华侨城温泉票（含自助餐）2张", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "328", "Team" : "1" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "泰州华侨城第七届温泉养生文化节，11月19日开幕，同时庆祝泰州华侨城10周年，特推出门市价格248元/张(含自助餐温泉门票)，优惠价格158元/张限量抢购活动，有效期到2017年1月27日(周末、元旦可使用）", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479426815328", "RealName" : "杨杰", "Mobile" : "15996016088", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321203", "DistrictName" : "高港区", "Address" : "府后人家万家灯火22栋1-102", "Type" : null, "RealAddress" : "江苏省泰州市高港区府后人家万家灯火22栋1-102" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 201894, "OrderId" : 218185, "CreatTime" : 1479426844, "OrderStatus" : 2, "PayStatus" : "已支付", "PayType" : "微信", "PayAmount" : 1, "PayTradeNo" : "4008242001201611180058028238", "PayTime" : 1479426851 }], "Count" : 1 }
+
+执行日期：20161129161545
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582e42966341982154e4b767&TeamId=201894&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.051858
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129161559
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582e42966341982154e4b767&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.065832
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "582e431c6341982154e4b78a", "OrderType" : 3, "ProductId" : 27833, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-16/44ed8fc3934db937d79170798bdd4ebd.jpg", "ProductName" : "泰州华侨城温泉票（含自助餐）2张", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "328", "Team" : "1" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "泰州华侨城第七届温泉养生文化节，11月19日开幕，同时庆祝泰州华侨城10周年，特推出门市价格248元/张(含自助餐温泉门票)，优惠价格158元/张限量抢购活动，有效期到2017年1月27日(周末、元旦可使用）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 201894, "OrderId" : 218185, "OrderStatus" : 2 }], "Count" : 1 }
+
+执行日期：20161129161609
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582e42966341982154e4b767&TeamId=201894&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.057047
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129165443
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583bf34f63419812242c9a6e&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.045333
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583bf51163419812242c9a74", "OrderType" : 3, "ProductId" : 29882, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 336729, "OrderStatus" : 2 }, { "id" : "583bf4da63419812242c9a72", "OrderType" : 3, "ProductId" : 30057, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 336717, "OrderStatus" : 2 }, { "id" : "583bf44463419812242c9a6f", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 336686, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161129165817
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583bf34f63419812242c9a6e&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.053869
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583bf51163419812242c9a74", "OrderType" : 3, "ProductId" : 29882, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291203, "OrderId" : 336729, "OrderStatus" : 2 }, { "id" : "583bf4da63419812242c9a72", "OrderType" : 3, "ProductId" : 30057, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 336717, "OrderStatus" : 2 }, { "id" : "583bf44463419812242c9a6f", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 336686, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161129175536
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583ce54b634198215ce67d48&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.034828
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583ceba7634198215ce67f45", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 342976, "OrderStatus" : 2 }, { "id" : "583ce680634198215ce67e0c", "OrderType" : 3, "ProductId" : 29975, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/65a74ef73843355edabce3d307e6d839.jpg", "ProductName" : "美的（Midea）NY2513-17EW 13片速暖电热油汀取暖器/电暖器/电暖气", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：美的NY2513-17EW\r\n商品毛重：17.9kg\r\n加热片数量：13片\r\n类型：电油汀\r\n加热方式：油汀加热倾倒断电\r\n支持控制方式：机械式\r\n适用面积：11-20㎡\r\n防水功能：不支持\r\n放置方式：台式\r\n档位：三档调温\r\n功率：2000W-2999W", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 290415, "OrderId" : 340353, "OrderStatus" : 2 }, { "id" : "583ce627634198215ce67dcd", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 339587, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161129175540
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583ce54b634198215ce67d48&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.046028
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583ceba7634198215ce67f45", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 342976, "OrderStatus" : 2 }, { "id" : "583ce680634198215ce67e0c", "OrderType" : 3, "ProductId" : 29975, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/65a74ef73843355edabce3d307e6d839.jpg", "ProductName" : "美的（Midea）NY2513-17EW 13片速暖电热油汀取暖器/电暖器/电暖气", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：美的NY2513-17EW\r\n商品毛重：17.9kg\r\n加热片数量：13片\r\n类型：电油汀\r\n加热方式：油汀加热倾倒断电\r\n支持控制方式：机械式\r\n适用面积：11-20㎡\r\n防水功能：不支持\r\n放置方式：台式\r\n档位：三档调温\r\n功率：2000W-2999W", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 290415, "OrderId" : 340353, "OrderStatus" : 2 }, { "id" : "583ce627634198215ce67dcd", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 339587, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161129175548
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583ce54b634198215ce67d48&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.065592
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129175903
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5800ab736341980c207fe910&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.055964
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5834fac16341981188d813f0", "OrderType" : 2, "ProductId" : 29882, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/f103613b0d1cc21e0bea106be8367bbe.jpg", "ProductName" : "Apple MacBook 12英寸笔记本电脑 银色 512GB闪存 MLHC2CH", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "13288", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：AppleMLHC2CH/A\r\n商品毛重：1.85kg\r\n系统：MAC\r\n厚度：10.0mm—15.0mm\r\n内存容量：8G\r\n分辨率：超高清屏（2K/3k/4K)\r\n待机时长：9小时以上\r\n处理器：Intel CoreM\r\n显卡类别：集成显卡\r\n裸机重量：小于1KG\r\n硬盘容量：512G", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 293890, "TeamId" : 293890, "OrderStatus" : 2 }, { "id" : "5834fa8d6341981188d8139f", "OrderType" : 2, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/9dd3a191e0658128dcb937231053b45b.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 293168, "TeamId" : 293168, "OrderStatus" : 2 }, { "id" : "582ee52d6341982154e4ed7e", "OrderType" : 2, "ProductId" : 28410, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/60c918f5337d43a21e59063697dd1725.jpg", "ProductName" : "农家玉米粒玉米块玉米碴玉米糁 五谷杂粮粗粮豆浆伴侣500g", "Prices" : "0", "PricesAll" : { "Normal" : 6.8, "Market" : "6.8", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "好糁吃出的好味道", "ProductType" : 3 }, "OrderFee" : 0, "OrderId" : 277643, "TeamId" : 277643, "OrderStatus" : 2 }, { "id" : "582ee5166341982154e4ed7c", "OrderType" : 2, "ProductId" : 28410, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/60c918f5337d43a21e59063697dd1725.jpg", "ProductName" : "农家玉米粒玉米块玉米碴玉米糁 五谷杂粮粗粮豆浆伴侣500g", "Prices" : "0", "PricesAll" : { "Normal" : 6.8, "Market" : "6.8", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "好糁吃出的好味道", "ProductType" : 3 }, "OrderFee" : 0, "OrderId" : 277598, "TeamId" : 277598, "OrderStatus" : 2 }, { "id" : "582ee4d36341982154e4ed76", "OrderType" : 2, "ProductId" : 28205, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/709fdd76d86fcb22dab2ec8e327bdfc8.jpg", "ProductName" : "飞利浦电动剃须刀", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "128", "Team" : "1" }, "DeliverAddress" : "河西大厦", "Description" : "内置充电 独立浮动刀头 自动研磨 清洁切剃系统", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 277522, "TeamId" : 277522, "OrderStatus" : 2 }, { "id" : "582ee2606341982154e4ed42", "OrderType" : 3, "ProductId" : 28360, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/24852c5fbb4e6529eb0697f6682660a9.jpg", "ProductName" : "新货休闲零食品坚果炒货特产花生米下酒菜500g包", "Prices" : "0", "PricesAll" : { "Normal" : "0", "Market" : "22.4", "Team" : "0" }, "DeliverAddress" : "河南濮阳", "Description" : "2毛一张电影票时的最美好回忆，好吃！", "ProductType" : 3 }, "OrderFee" : 0, "TeamId" : 253422, "OrderId" : 277277, "OrderStatus" : 2 }, { "id" : "582e79ef6341982154e4da72", "OrderType" : 2, "ProductId" : 28328, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-18/d8f83419302eff3e96438f7f8b2a1335.jpg", "ProductName" : "Bemega高档英制保温杯", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "168", "Team" : "1" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "Bemega大容量高档商务礼品保温杯直身保温水杯 \r\n英国CHALAS国际集团有限公司", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 256090, "TeamId" : 256090, "OrderStatus" : 2 }, { "id" : "582cbd6963419817dc77de60", "OrderType" : 2, "ProductId" : 13575, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/efb4e2562d26ad41db5b1ec8a7a446d0.jpg", "ProductName" : "【疯抢】澳大利亚脐橙6只装1元", "Prices" : "1", "PricesAll" : { "Normal" : 36, "Market" : "36", "Team" : "1" }, "DeliverAddress" : "湖北咸宁咸安区", "Description" : "澳橙味甘、性凉。具有生津止渴、开胃下气的功效。正常人饭后食橙子或饮橙汁，有解油腻、消积食、止渴、醒酒的作用。橙子营养极为丰富而全面，老幼皆宜。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 138816, "TeamId" : 138816, "OrderStatus" : 1 }, { "id" : "582b5a9c63419822006457fe", "OrderType" : 2, "ProductId" : 27329, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/6e956cc648435ee6c8a18c88289ba437.jpg", "ProductName" : "努比亚(nubia) Z11 无边框双卡双待手机 黑金版 全网通(6GRAM+64GROM)", "Prices" : "1", "PricesAll" : { "Normal" : 3199, "Market" : "3199", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：努比亚（nubia）Z11\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1000-1600万\r\n机身内存：64GB\r\n热点：后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 135810, "TeamId" : 135810, "OrderStatus" : 2 }, { "id" : "582b5a6263419822006457fb", "OrderType" : 2, "ProductId" : 27284, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-14/2fdab4e341d031b1ad655afff1495410.jpg", "ProductName" : "OPPO R9s 全网通4G+64G 双卡双待手机 玫瑰金", "Prices" : "1", "PricesAll" : { "Normal" : 2799, "Market" : "2799", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：OPPOR9s\r\n商品毛重：0.51kg\r\n商品产地：中国大陆\r\n系统：安卓（Android）\r\n运行内存：4GB\r\n电池容量：3000mAh-3999mAh\r\n像素：1600万以上\r\n机身内存：64GB热点：骁龙芯片，双卡双待，快速充电，指纹识别，金属机身，女性手机", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 135796, "TeamId" : 135796, "OrderStatus" : 2 }, { "id" : "582b5a2e63419822006457f8", "OrderType" : 2, "ProductId" : 13575, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/efb4e2562d26ad41db5b1ec8a7a446d0.jpg", "ProductName" : "【疯抢】澳大利亚脐橙6只装1元", "Prices" : "1", "PricesAll" : { "Normal" : 36, "Market" : "36", "Team" : "1" }, "DeliverAddress" : "湖北咸宁咸安区", "Description" : "澳橙味甘、性凉。具有生津止渴、开胃下气的功效。正常人饭后食橙子或饮橙汁，有解油腻、消积食、止渴、醒酒的作用。橙子营养极为丰富而全面，老幼皆宜。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 135766, "TeamId" : 135766, "OrderStatus" : 2 }, { "id" : "582b594563419822006457f6", "OrderType" : 3, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 122640, "OrderId" : 135738, "OrderStatus" : 2 }, { "id" : "582b587e63419822006457f3", "OrderType" : 2, "ProductId" : 27361, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-15/b213cf507898f6d81d90c8f8c7689d37.jpg", "ProductName" : "苹果(Apple) iPhone 7 Plus 移动联通电信4G手机 玫瑰金 128G 标配", "Prices" : "1", "PricesAll" : { "Normal" : 7398, "Market" : "7398", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "商品名称：AppleiPhone7 Plus\r\n商品毛重：0.6kg\r\n系统：苹果（IOS）\r\n电池容量：2000mAh-2999mAh\r\n像素：500-1000万\r\n机身内存：32GB\r\n热点：指纹识别，后置双摄像头", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 135699, "TeamId" : 135699, "OrderStatus" : 2 }, { "id" : "580dda1b6341980da40d23d2", "OrderType" : 2, "ProductId" : 13575, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/efb4e2562d26ad41db5b1ec8a7a446d0.jpg", "ProductName" : "【疯抢】澳大利亚脐橙6只装1元", "Prices" : "1", "PricesAll" : { "Normal" : 36, "Market" : "36", "Team" : "1" }, "DeliverAddress" : "湖北咸宁咸安区", "Description" : "澳橙味甘、性凉。具有生津止渴、开胃下气的功效。正常人饭后食橙子或饮橙汁，有解油腻、消积食、止渴、醒酒的作用。橙子营养极为丰富而全面，老幼皆宜。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 34148, "TeamId" : 34148, "OrderStatus" : 7 }, { "id" : "580dd9d06341980da40d23cc", "OrderType" : 2, "ProductId" : 13575, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-22/efb4e2562d26ad41db5b1ec8a7a446d0.jpg", "ProductName" : "【疯抢】澳大利亚脐橙6只装1元", "Prices" : "1", "PricesAll" : { "Normal" : 36, "Market" : "36", "Team" : "1" }, "DeliverAddress" : "湖北咸宁咸安区", "Description" : "澳橙味甘、性凉。具有生津止渴、开胃下气的功效。正常人饭后食橙子或饮橙汁，有解油腻、消积食、止渴、醒酒的作用。橙子营养极为丰富而全面，老幼皆宜。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 34066, "TeamId" : 34066, "OrderStatus" : 7 }], "Count" : 15 }
+
+执行日期：20161129180440
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583ce54b634198215ce67d48&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.051144
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583ceba7634198215ce67f45", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 342976, "OrderStatus" : 2 }, { "id" : "583ce680634198215ce67e0c", "OrderType" : 3, "ProductId" : 29975, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/65a74ef73843355edabce3d307e6d839.jpg", "ProductName" : "美的（Midea）NY2513-17EW 13片速暖电热油汀取暖器/电暖器/电暖气", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n商品名称：美的NY2513-17EW\r\n商品毛重：17.9kg\r\n加热片数量：13片\r\n类型：电油汀\r\n加热方式：油汀加热倾倒断电\r\n支持控制方式：机械式\r\n适用面积：11-20㎡\r\n防水功能：不支持\r\n放置方式：台式\r\n档位：三档调温\r\n功率：2000W-2999W", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 290415, "OrderId" : 340353, "OrderStatus" : 2 }, { "id" : "583ce627634198215ce67dcd", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 339587, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161129180833
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.066608
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d5384634198215ce6831a", "OrderId" : 349492 }], "Count" : 11976 }
+
+执行日期：20161129180833
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349511&UserId=583d5325634198215ce68312&$Limit=1
+超时时间:5
+处理时间:0.055733
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d53a1634198215ce6831c", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 349511, "CreatTime" : 1480414113, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129180843
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.053504
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129180907
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.055768
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d53a1634198215ce6831c", "OrderId" : 349511 }], "Count" : 11977 }
+
+执行日期：20161129180907
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349535&UserId=583d5325634198215ce68312&$Limit=1
+超时时间:5
+处理时间:0.05005
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d53c3634198215ce6831e", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 349535, "CreatTime" : 1480414147, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129180915
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.053972
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129180944
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.061571
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129181017
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.076486
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d53c3634198215ce6831e", "OrderId" : 349535 }], "Count" : 11978 }
+
+执行日期：20161129181018
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349567&UserId=583d5325634198215ce68312&$Limit=1
+超时时间:5
+处理时间:0.044414
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d540a634198215ce68320", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30057, "ProductRealId" : "58346b686341981188d81177", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 349567, "CreatTime" : 1480414217, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129181027
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=289829&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.066324
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d540a634198215ce68320", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30057, "ProductRealId" : "58346b686341981188d81177", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 349567, "CreatTime" : 1480414217, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129181027
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349567&$Limit=1
+超时时间:5
+处理时间:0.053895
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d540a634198215ce68320", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30057, "ProductRealId" : "58346b686341981188d81177", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 349567, "CreatTime" : 1480414217, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129181036
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349567&UserId=583d5325634198215ce68312&$Limit=1
+超时时间:5
+处理时间:0.045379
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d540a634198215ce68320", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30057, "ProductRealId" : "58346b686341981188d81177", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 349567, "CreatTime" : 1480414217, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129181039
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=289829&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.053676
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129181056
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.057687
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d540a634198215ce68320", "OrderId" : 349567 }], "Count" : 11979 }
+
+执行日期：20161129181056
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=349614&UserId=583d5325634198215ce68312&$Limit=1
+超时时间:5
+处理时间:0.050355
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d5430634198215ce68322", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d5325634198215ce68312", "CityCode" : 110100, "CityName" : "北京市市辖区", "OrderType" : 3, "ProductId" : 30014, "ProductRealId" : "583466b16341981188d81175", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480414086131", "RealName" : "门红昌", "Mobile" : "13701206615", "ProviceCode" : "110000", "ProviceName" : "北京市", "CityCode" : "110100", "CityName" : "北京市市辖区", "DistrictCode" : "110114", "DistrictName" : "昌平区", "Address" : "金科廊桥水岸东区6-1-301", "Type" : null, "RealAddress" : "北京市昌平区金科廊桥水岸东区6-1-301" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 349614, "CreatTime" : 1480414256, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129181104
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.049987
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129181108
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.051137
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d5430634198215ce68322", "OrderType" : 3, "ProductId" : 30014, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 349614, "OrderStatus" : 2 }, { "id" : "583d540a634198215ce68320", "OrderType" : 3, "ProductId" : 30057, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/8d06b036176a07d2df18d7af78f3d833.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289829, "OrderId" : 349567, "OrderStatus" : 2 }, { "id" : "583d53c3634198215ce6831e", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 349535, "OrderStatus" : 2 }, { "id" : "583d53a1634198215ce6831c", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 349511, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161129181112
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d5325634198215ce68312&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.053769
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129222945
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.069864
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d8f40634198215ce683cb", "OrderId" : 350712 }], "Count" : 12018 }
+
+执行日期：20161129222945
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=350733&UserId=583d8f84634198215ce683cc&$Limit=1
+超时时间:5
+处理时间:0.057799
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d90d9634198215ce683cf", "ShopId" : "5821ba7d63419f1ea0fddfdf", "ShopName" : "TST庭秘密", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "UserId" : "583d8f84634198215ce683cc", "CityCode" : 140600, "CityName" : "朔州市", "OrderType" : 3, "ProductId" : 30581, "ProductRealId" : "583bc7b963419812242c9a49", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-28/b969e84db7b874dd39f4fb98b036da6e.jpg", "ProductName" : "雪绒花柔润香体乳300ml", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "1", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "安全到孕妇可用！专为身体护肤定造，质地轻柔，易于延展，有效补充肌肤水份及养分，紧致肌肤，在肌肤表面形成弹性膜，肌肤立现弹滑丰盈。", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480429780497", "RealName" : "李彦强", "Mobile" : "18234922255", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140600", "CityName" : "朔州市", "DistrictCode" : "140621", "DistrictName" : "山阴县", "Address" : "山西省朔州市山阴县岱岳镇曼都审美理发店", "Type" : null, "RealAddress" : "山西省朔州市山阴县山西省朔州市山阴县岱岳镇曼都审美理发店" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 337875, "OrderId" : 350733, "CreatTime" : 1480429785, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129223001
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=337875&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.053138
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223031
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.070519
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d90d9634198215ce683cf", "OrderId" : 350733 }], "Count" : 12019 }
+
+执行日期：20161129223031
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=350745&UserId=583d8f84634198215ce683cc&$Limit=1
+超时时间:5
+处理时间:0.060967
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d9107634198215ce683d1", "ShopId" : "5821ba7d63419f1ea0fddfdf", "ShopName" : "TST庭秘密", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "UserId" : "583d8f84634198215ce683cc", "CityCode" : 140600, "CityName" : "朔州市", "OrderType" : 3, "ProductId" : 28163, "ProductRealId" : "582d0d8563419817dc77e236", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/af62f0f0c1f6cff14d8606112729a480.jpg", "ProductName" : "雪绒花滋润紧致眼霜祛眼袋除皱温和无刺激", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "378", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480429780497", "RealName" : "李彦强", "Mobile" : "18234922255", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140600", "CityName" : "朔州市", "DistrictCode" : "140621", "DistrictName" : "山阴县", "Address" : "山西省朔州市山阴县岱岳镇曼都审美理发店", "Type" : null, "RealAddress" : "山西省朔州市山阴县山西省朔州市山阴县岱岳镇曼都审美理发店" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 337609, "OrderId" : 350745, "CreatTime" : 1480429831, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129223039
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=337609&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.050554
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223124
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.067327
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d9107634198215ce683d1", "OrderId" : 350745 }], "Count" : 12020 }
+
+执行日期：20161129223124
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=350762&UserId=583d8f84634198215ce683cc&$Limit=1
+超时时间:5
+处理时间:0.063335
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d913c634198215ce683d3", "ShopId" : "5821ba7d63419f1ea0fddfdf", "ShopName" : "TST庭秘密", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161108/1478602446900526.jpg", "UserId" : "583d8f84634198215ce683cc", "CityCode" : 140600, "CityName" : "朔州市", "OrderType" : 2, "ProductId" : 28192, "ProductRealId" : "582d0e0663419817dc77e265", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/30c254ef3477d079b96ed5a06b4f2045.jpg", "ProductName" : "隔离霜30g修颜亮肤妆前乳遮瑕防护", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "158", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480429780497", "RealName" : "李彦强", "Mobile" : "18234922255", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140600", "CityName" : "朔州市", "DistrictCode" : "140621", "DistrictName" : "山阴县", "Address" : "山西省朔州市山阴县岱岳镇曼都审美理发店", "Type" : null, "RealAddress" : "山西省朔州市山阴县山西省朔州市山阴县岱岳镇曼都审美理发店" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "OrderId" : 350762, "TeamId" : 350762, "CreatTime" : 1480429884, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129223139
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=350762&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.051918
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223213
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.062704
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d913c634198215ce683d3", "OrderId" : 350762 }], "Count" : 12021 }
+
+执行日期：20161129223213
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=350805&UserId=583d8f84634198215ce683cc&$Limit=1
+超时时间:5
+处理时间:0.051788
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d916d634198215ce683d6", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583d8f84634198215ce683cc", "CityCode" : 140600, "CityName" : "朔州市", "OrderType" : 3, "ProductId" : 30014, "ProductRealId" : "583466b16341981188d81175", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480429780497", "RealName" : "李彦强", "Mobile" : "18234922255", "ProviceCode" : "140000", "ProviceName" : "山西省", "CityCode" : "140600", "CityName" : "朔州市", "DistrictCode" : "140621", "DistrictName" : "山阴县", "Address" : "山西省朔州市山阴县岱岳镇曼都审美理发店", "Type" : null, "RealAddress" : "山西省朔州市山阴县山西省朔州市山阴县岱岳镇曼都审美理发店" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 350805, "CreatTime" : 1480429933, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129223223
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.052225
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223305
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.045174
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d916d634198215ce683d6", "OrderType" : 3, "ProductId" : 30014, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 350805, "OrderStatus" : 2 }, { "id" : "583d913c634198215ce683d3", "OrderType" : 2, "ProductId" : 28192, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/30c254ef3477d079b96ed5a06b4f2045.jpg", "ProductName" : "隔离霜30g修颜亮肤妆前乳遮瑕防护", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "158", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 350762, "TeamId" : 350762, "OrderStatus" : 2 }, { "id" : "583d9107634198215ce683d1", "OrderType" : 3, "ProductId" : 28163, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/af62f0f0c1f6cff14d8606112729a480.jpg", "ProductName" : "雪绒花滋润紧致眼霜祛眼袋除皱温和无刺激", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "378", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337609, "OrderId" : 350745, "OrderStatus" : 2 }, { "id" : "583d90d9634198215ce683cf", "OrderType" : 3, "ProductId" : 30581, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-28/b969e84db7b874dd39f4fb98b036da6e.jpg", "ProductName" : "雪绒花柔润香体乳300ml", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "1", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "安全到孕妇可用！专为身体护肤定造，质地轻柔，易于延展，有效补充肌肤水份及养分，紧致肌肤，在肌肤表面形成弹性膜，肌肤立现弹滑丰盈。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337875, "OrderId" : 350733, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161129223419
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.05592
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223437
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.047233
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d916d634198215ce683d6", "OrderType" : 3, "ProductId" : 30014, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 350805, "OrderStatus" : 2 }, { "id" : "583d913c634198215ce683d3", "OrderType" : 2, "ProductId" : 28192, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/30c254ef3477d079b96ed5a06b4f2045.jpg", "ProductName" : "隔离霜30g修颜亮肤妆前乳遮瑕防护", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "158", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 350762, "TeamId" : 350762, "OrderStatus" : 2 }, { "id" : "583d9107634198215ce683d1", "OrderType" : 3, "ProductId" : 28163, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/af62f0f0c1f6cff14d8606112729a480.jpg", "ProductName" : "雪绒花滋润紧致眼霜祛眼袋除皱温和无刺激", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "378", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337609, "OrderId" : 350745, "OrderStatus" : 2 }, { "id" : "583d90d9634198215ce683cf", "OrderType" : 3, "ProductId" : 30581, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-28/b969e84db7b874dd39f4fb98b036da6e.jpg", "ProductName" : "雪绒花柔润香体乳300ml", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "1", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "安全到孕妇可用！专为身体护肤定造，质地轻柔，易于延展，有效补充肌肤水份及养分，紧致肌肤，在肌肤表面形成弹性膜，肌肤立现弹滑丰盈。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337875, "OrderId" : 350733, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161129223448
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.06063
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223513
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.049225
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223542
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&TeamId=291647&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.047619
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129223545
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583d8f84634198215ce683cc&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.043459
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d916d634198215ce683d6", "OrderType" : 3, "ProductId" : 30014, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/179e29d4ad7c9fff4ba1261c217c3105.jpg", "ProductName" : "HUAWEI Mate 9 4GB+32GB 全网通版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "3599", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。\r\n品牌\t华为 HUAWEI\r\n型号\tMHA-AL00\r\n上市时间\t2016年11月\r\n外观设计\t直板\r\n操作系统\t华为 EMUI 5.0 （兼容Android 7.0）\r\n用户界面\t华为 EMUI 5.0\r\nCPU型号\t麒麟960\r\nCPU核数\t八核 + 微智核i6\r\nCPU主频\t4*Cortex A73 2.4GHz + 4*Cortex A53 1.8GHz\r\nGPU\tMali G71MP8\r\n双卡\t双卡双待单通，主副卡不区分卡槽，Nano SIM\r\n输入方式\t百度输入法华为版、华为Swype输入法、Android键盘（AOSP）", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 291647, "OrderId" : 350805, "OrderStatus" : 2 }, { "id" : "583d913c634198215ce683d3", "OrderType" : 2, "ProductId" : 28192, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/30c254ef3477d079b96ed5a06b4f2045.jpg", "ProductName" : "隔离霜30g修颜亮肤妆前乳遮瑕防护", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "158", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 350762, "TeamId" : 350762, "OrderStatus" : 2 }, { "id" : "583d9107634198215ce683d1", "OrderType" : 3, "ProductId" : 28163, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-17/af62f0f0c1f6cff14d8606112729a480.jpg", "ProductName" : "雪绒花滋润紧致眼霜祛眼袋除皱温和无刺激", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "378", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "肌肤深层启动代谢、修复、吸收的调理机制，还原健康的肌肤，自然能有效改善干燥、油脂、粉刺、暗沉、细纹、敏感等各种肌肤问题，为忙碌的你，提供全方位的高效深度保养，持续净、亮、嫩、白。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337609, "OrderId" : 350745, "OrderStatus" : 2 }, { "id" : "583d90d9634198215ce683cf", "OrderType" : 3, "ProductId" : 30581, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-28/b969e84db7b874dd39f4fb98b036da6e.jpg", "ProductName" : "雪绒花柔润香体乳300ml", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "1", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "安全到孕妇可用！专为身体护肤定造，质地轻柔，易于延展，有效补充肌肤水份及养分，紧致肌肤，在肌肤表面形成弹性膜，肌肤立现弹滑丰盈。", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 337875, "OrderId" : 350733, "OrderStatus" : 2 }], "Count" : 4 }
+
+执行日期：20161129235612
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.085192
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583d9f0d634198215ce683e6", "OrderId" : 350903 }], "Count" : 12025 }
+
+执行日期：20161129235612
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=350933&UserId=583da3fd634198215ce683e8&$Limit=1
+超时时间:5
+处理时间:0.047526
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583da51b634198215ce683e9", "ShopId" : "5816f6376341980fe45f5e11", "ShopName" : "拼一下商城旗舰总店", "ShopLogo" : "http://www.pingoing.cn/upload/image/20161031/1477899423562296.png", "UserId" : "583da3fd634198215ce683e8", "CityCode" : 120100, "CityName" : "天津市市辖区", "OrderType" : 3, "ProductId" : 30045, "ProductRealId" : "583469326341981188d81176", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-24/3989a31ba5eedfe5327da9b6e1b0e4f3.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1480434970464", "RealName" : "郑芳", "Mobile" : "13642126338", "ProviceCode" : "120000", "ProviceName" : "天津市", "CityCode" : "120100", "CityName" : "天津市市辖区", "DistrictCode" : "120111", "DistrictName" : "西青区", "Address" : "卓尔商城B1—1188", "Type" : null, "RealAddress" : "天津市西青区卓尔商城B1—1188" }, "ProductFee" : 1, "freightFee" : 0, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 350933, "CreatTime" : 1480434972, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161129235625
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583da3fd634198215ce683e8&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.058908
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161129235711
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583da3fd634198215ce683e8&TeamId=289845&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.050487
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

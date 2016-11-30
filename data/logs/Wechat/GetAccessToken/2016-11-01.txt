@@ -1,0 +1,66 @@
+执行日期：20161101112231
+接口路径:https://api.weixin.qq.com/cgi-bin/token?
+超时时间:5 
+处理时间:1.172503
+返回参数:{"access_token":"J4XiY5UU382D4UlT930epVyOr0WUOzxNeTsFY6LPIECiUsXPxeN06N7p0gg4OY5QoIti9VSC6cabkdE_QSdAsSLDP1HkGQZ6FR8tKKStSPHncYyG-6gEMYd9NHzWQi_PZFKbAGAJPU","expires_in":7200}
+
+执行日期：20161101112231
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=J4XiY5UU382D4UlT930epVyOr0WUOzxNeTsFY6LPIECiUsXPxeN06N7p0gg4OY5QoIti9VSC6cabkdE_QSdAsSLDP1HkGQZ6FR8tKKStSPHncYyG-6gEMYd9NHzWQi_PZFKbAGAJPU&type=jsapi
+超时时间:5 
+处理时间:0.142312
+返回参数:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qebMbcq8vFNJ2A2VOoLiV7QQw2yD8YNPS_UOjfbVBqXnHct9SXg_RQlJfNmbHKUrtCA","expires_in":7200}
+
+执行日期：20161101194104
+接口路径:https://api.weixin.qq.com/cgi-bin/token?
+超时时间:5 
+处理时间:1.172487
+返回参数:{"access_token":"nSzdnxAGPHsBUx2BgE6nYb2lB1CYMWRMg6zloZytztkg3N7fVPdCo9R0b_1piDggYxM83Rs4EfoZfpbzs79sDRQA0bdiq0rEDMSPLLeWrioihlkAeUQfjSIRdEgCAUTAYILjAEAQAD","expires_in":7200}
+
+执行日期：20161101194356
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=nSzdnxAGPHsBUx2BgE6nYb2lB1CYMWRMg6zloZytztkg3N7fVPdCo9R0b_1piDggYxM83Rs4EfoZfpbzs79sDRQA0bdiq0rEDMSPLLeWrioihlkAeUQfjSIRdEgCAUTAYILjAEAQAD&type=jsapi
+超时时间:5 
+处理时间:0.133685
+返回参数:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qebMbcq8vFNJ2A2VOoLiV7QRNwbS2CZUgFsQ9mHZQDgIOFTHJ45pDe93iXHYZCIm7YA","expires_in":7200}
+
+执行日期：20161101210054
+接口路径:https://api.weixin.qq.com/cgi-bin/token?
+超时时间:5 
+处理时间:1.505378
+返回参数:{"access_token":"EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE","expires_in":7200}
+
+执行日期：20161101215942
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.278626
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [JIyKia0782rsz3!]"}
+
+执行日期：20161101215945
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.23644
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [xR_y4a0786rsz4!]"}
+
+执行日期：20161101215949
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.230207
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [tOnhha0789rsz4!]"}
+
+执行日期：20161101215953
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.263533
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [RxQvHa0793rsz4!]"}
+
+执行日期：20161101215958
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.238865
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [Mn5iIA0798rsz4!]"}
+
+执行日期：20161101220038
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=EAZtrnqYryhOAG1BvtnyVSgkK5C7QxpfmnAEZiCVNOFxC0LYnhW5dQCy55fGYMQVx5fk4x5LoyDi_yPUC6y0i2P3CgSt6eqUYcNhAsKilKJf7e4USXp00WYpa6w_5YVyWVXgAHADCE&type=jsapi
+超时时间:5 
+处理时间:0.241763
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [rxkERa0838rsz4!]"}
+

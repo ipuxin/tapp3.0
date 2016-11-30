@@ -1,0 +1,24 @@
+执行日期：20161105115254
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=580b3703634198126c2c1a3f&Addresses==%5B%7B%22AddressId%22%3A%22add_1478317974976%22%2C%22RealName%22%3A%22%5Cu6797%5Cu79c0%5Cu82f1%22%2C%22Mobile%22%3A%2218565688439%22%2C%22ProviceCode%22%3A%22440000%22%2C%22ProviceName%22%3A%22%5Cu5e7f%5Cu4e1c%5Cu7701%22%2C%22CityCode%22%3A%22440300%22%2C%22CityName%22%3A%22%5Cu6df1%5Cu5733%5Cu5e02%22%2C%22DistrictCode%22%3A%22440304%22%2C%22DistrictName%22%3A%22%5Cu798f%5Cu7530%5Cu533a%22%2C%22Address%22%3A%22%5Cu4e0a%5Cu6885%5Cu6797%5Cu4e2d%5Cu5eb7%5Cu8def%5Cu5353%5Cu8d8a%5Cu57ce%5Cu4e8c%5Cu671fA%5Cu5ea72507%22%2C%22Type%22%3Anull%7D%5D
+超时时间:5
+处理时间:0.013687
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580b3703634198126c2c1a3f", "UnionId" : "oM0FfwYKgXKJSNCgQSiUxIcOj50g", "OpenId" : "oE6qGwPXfgpnj7ZBlRFEYsdlPcy8", "Subscribe" : 1, "NickName" : "林工", "Thumbnail" : "http://wx.qlogo.cn/mmopen/nibxxlib1VaPeSlk0dYVq2aJEE7zMbmicicPeWdCeiah6TB6C4rWicpccLxxYdZo0EEWwzAviagfoOicicPUUQUHl0ymQjT6l4ZARWK7t/0", "UserInfo" : { "Sex" : 2, "City" : "深圳", "Province" : "广东", "Country" : "中国", "Subscribe_time" : 1466989186 }, "Addresses" : [{ "AddressId" : "add_1478317974976", "RealName" : "林秀英", "Mobile" : "18565688439", "ProviceCode" : "440000", "ProviceName" : "广东省", "CityCode" : "440300", "CityName" : "深圳市", "DistrictCode" : "440304", "DistrictName" : "福田区", "Address" : "上梅林中康路卓越城二期A座2507", "Type" : null }] }] }
+
+执行日期：20161105135222
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=57fa0edd63419a1540e8632c&AppLogined==1
+超时时间:5
+处理时间:0.015723
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57fa0edd63419a1540e8632c", "UnionId" : "oM0FfwbRIWq0rLtXIKyjjgeRWJ34", "OpenId" : "oE6qGwI9roc6WC1lfZhHZCOw5VZg", "Subscribe" : 1, "NickName" : "胡晓芳", "Thumbnail" : "http://wx.qlogo.cn/mmopen/B7zbp6N1lkInpYG8zCibPHmy4m6eSqB7cq2dnrBZo6hYbgKfxWl5AoHCiaQPoGPcDSfgsCABtrGly10Itnfn5yhxXsk6OkBwUa/0", "UserInfo" : { "Sex" : 2, "City" : "常德", "Province" : "湖南", "Country" : "中国", "Subscribe_time" : 1473665200 }, "AppLogined" : 1, "Addresses" : [{ "AddressId" : "add_1476524939887", "RealName" : "胡晓芳", "Mobile" : "13786636336", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品", "Type" : null }] }] }
+
+执行日期：20161105203011
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5805ba576341981d8c43da58&AppLogined==1
+超时时间:5
+处理时间:0.02879
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5805ba576341981d8c43da58", "UnionId" : "oM0FfwbwS7_hae5U6owXHsNHRrwU", "OpenId" : "oE6qGwIrhVUYBlT9jatdKCHt-HM0", "Subscribe" : 1, "NickName" : "AA溱湖特产实惠店", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcQKwSLCNcvibwclicv8TqoMekmdC6Ick28MJDZxdqZUCKvK8BZDZfcoTFMHR9pZ1oibF7TEZicMFqY3xvdibGu3ibj6h/0", "UserInfo" : { "Sex" : 2, "City" : "泰州", "Province" : "江苏", "Country" : "中国", "Subscribe_time" : 1477488126 }, "Addresses" : [{ "AddressId" : "add_1477378022947", "RealName" : "钱桂香", "Mobile" : "15061042549", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱潼镇城东小区", "Type" : null }], "AppLogined" : 1 }] }
+
+执行日期：20161105211723
+接口路径:http://api.pingoing.cn/restful.PYX3_User.Update?&id=5811afa36341981810eb20f9&AppLogined==1
+超时时间:5
+处理时间:0.026961
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811afa36341981810eb20f9", "UnionId" : "oM0FfwYvzRKTPhR9WECwmnCQzLCo", "OpenId" : "oE6qGwJTMuYnGG_Yv36bymke_Vwk", "Subscribe" : 1, "NickName" : "王思珍", "Thumbnail" : "http://wx.qlogo.cn/mmopen/AEkl2dhLSEcQKwSLCNcvib75WyEUU4lvuelZWYGYgyanB2VCJwQuicJgicMXucbWVcZQpM8R9EReCNEC9Ww5JrFBbhz4B4eHNQX/0", "UserInfo" : { "Sex" : 1, "City" : "苏州", "Province" : "江苏", "Country" : "中国", "Subscribe_time" : 1442273367 }, "Addresses" : [{ "AddressId" : "add_1477556413638", "RealName" : "王思珍", "Mobile" : "13812869597", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320500", "CityName" : "苏州市", "DistrictCode" : "320582", "DistrictName" : "张家港市", "Address" : "金港镇巫山路5号张家港港务集团港盛分公司", "Type" : null }, { "AddressId" : "add_1477554185128", "RealName" : "王思珍", "Mobile" : "13812869596", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "320500", "CityName" : "苏州市", "DistrictCode" : "320582", "DistrictName" : "张家港市", "Address" : "金港镇巫山路5号张家港港务集团港盛分公司", "Type" : null, "RealAddress" : "江苏省苏州市张家港市金港镇巫山路5号张家港港务集团港盛分公司" }], "AppLogined" : 1 }] }
+

@@ -1,0 +1,12 @@
+执行日期：20161018182659
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=XQnZEyWRaMM-CB4bxK2qXnDQ9rZvuampOAnyw1yi85xxkrkH93wPZHR4v0d_GOZU_uXQ4XzxOcKF7x6j0QA8U45aDGVel_U8nx35Fr7clpUAGsW-kqIEbpkgVBw2Nhi7UUMjAGAGGY&openid=oE6qGwBN0B0grIIQfE8KDEass0Pk&lang=zh_CN
+超时时间:5 
+处理时间:0.289567
+返回参数:{"errcode":40001,"errmsg":"invalid credential, access_token is invalid or not latest hint: [olSafA0418rsz3!]"}
+
+执行日期：20161018182701
+接口路径:https://api.weixin.qq.com/cgi-bin/user/info?access_token=gbum5kVQJscDDryS2ftLLRBNBX6a7oqXohngWFw_4Or-YKTn45ek5zt3-LT92Q_vdDPkLvZb0tAWlHyQE5VTQWXIwHs78y51lzxNz7hND__tchgz173lnMeN2nb4ics9PVGeAFAZFQ&openid=oE6qGwBN0B0grIIQfE8KDEass0Pk&lang=zh_CN
+超时时间:5 
+处理时间:0.336229
+返回参数:{"subscribe":0,"openid":"oE6qGwBN0B0grIIQfE8KDEass0Pk","unionid":"oM0FfwXWn82wJYseR5DKvhDJG3Ms","tagid_list":[]}
+

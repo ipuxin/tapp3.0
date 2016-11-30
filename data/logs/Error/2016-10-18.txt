@@ -1,0 +1,6 @@
+执行日期：20161018093402
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=654321&sid=zj
+超时时间:5
+处理时间:0.020671
+返回参数:{"Code":10,"Success":false,"Message":"The parameter of 'lid' can not be null and must be a string."}
+

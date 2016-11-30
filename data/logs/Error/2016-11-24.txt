@@ -1,0 +1,18 @@
+执行日期：20161124110924
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Update?
+超时时间:5
+处理时间:0.014085
+返回参数:{"Code":500,"Message":"Internal server error:Value cannot be null.\r\n参数名: update","IsSuccess":false}
+
+执行日期：20161124154018
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Update?
+超时时间:5
+处理时间:0.029271
+返回参数:{"Code":500,"Message":"Internal server error:Value cannot be null.\r\n参数名: update","IsSuccess":false}
+
+执行日期：20161124154113
+接口路径:http://api.pingoing.cn/restful.PYX3_Product.Update?
+超时时间:5
+处理时间:0.023956
+返回参数:{"Code":500,"Message":"Internal server error:Value cannot be null.\r\n参数名: update","IsSuccess":false}
+

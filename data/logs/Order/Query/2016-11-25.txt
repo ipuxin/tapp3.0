@@ -1,0 +1,84 @@
+执行日期：20161125074702
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5833c6d16341981960c96808&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.041323
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125084830
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=582d30c963419817dc77ee68&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.051053
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583526876341981188d81fd2", "OrderType" : 2, "ProductId" : 30057, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/05a66019e225a4468dc4ffc2dc8da156.jpg", "ProductName" : "凯迪拉克 XT5 2016款 25T 豪华型", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "488880", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机。为裸车价！", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 321050, "TeamId" : 321050, "OrderStatus" : 2 }, { "id" : "58351e016341981188d81f3d", "OrderType" : 3, "ProductId" : 30045, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-22/9dd3a191e0658128dcb937231053b45b.jpg", "ProductName" : " 奔驰CLS级 2016款CLS 400 4MATIC 猎装版", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "999999", "Team" : "1" }, "DeliverAddress" : "上海", "Description" : "本商品由第三方商家提供并发货，颜色随机，含保险，不含购置税及上牌费。\r\n厂商：奔驰(进口)\r\n级别：中大型车\r\n发动机：3.0T 333马力 V6\r\n变速箱：7挡手自一体\r\n长*宽*高(mm)：4959*1881*1420\r\n车身结构：5门5座旅行车\r\n最高车速(km/h)：250\r\n本商品由第三方商家提供并发货，颜色随机，为裸车价，更多详情见奔驰官方网站！", "ProductType" : 4 }, "OrderFee" : 1, "TeamId" : 289845, "OrderId" : 319819, "OrderStatus" : 2 }, { "id" : "582d316263419817dc77ee9e", "OrderType" : 2, "ProductId" : 27833, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-11-16/44ed8fc3934db937d79170798bdd4ebd.jpg", "ProductName" : "泰州华侨城温泉票（含自助餐）2张", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "328", "Team" : "1" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "泰州华侨城第七届温泉养生文化节，11月19日开幕，同时庆祝泰州华侨城10周年，特推出门市价格248元/张(含自助餐温泉门票)，优惠价格158元/张限量抢购活动，有效期到2017年1月27日(周末、元旦可使用）", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 156322, "TeamId" : 156322, "OrderStatus" : 2 }], "Count" : 3 }
+
+执行日期：20161125104324
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583132236341981b342e3caf&TeamId=286184&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.064883
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125104353
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583132236341981b342e3caf&TeamId=286184&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.062807
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125104400
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583132236341981b342e3caf&TeamId=286156&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.061975
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125202651
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=581c8f9e63419806686d5a78&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.045726
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125203315
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583607e5634198050ce65612&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.033245
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583615ca634198050ce6561c", "OrderType" : 1, "ProductId" : 15901, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-23/182d1c0a46a26418e3d4a7441579f2b5.jpg", "ProductName" : "丑柑--不知火丑柑10个装19.8元", "Prices" : 19.8, "PricesAll" : { "Normal" : 19.8, "Market" : "24.5" }, "DeliverAddress" : "武进区南湖家苑", "Description" : "易剥皮，有碰柑香味，无浮皮。果肉橙色，肉质柔软多汁，囊壁极薄而软，口感脆甜。果汁糖度13-14度。其果肉富含维生素C，及人体所需的微量元素。", "ProductType" : 1 }, "OrderFee" : 19.8, "OrderId" : 329856, "OrderStatus" : 1 }, { "id" : "58361574634198050ce65619", "OrderType" : 1, "ProductId" : 10624, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-19/40044cac7c323baef532e1bbe6d1a160.jpg", "ProductName" : "【产地直发】四川金艳猕猴桃15只装单果70~90克", "Prices" : 24.9, "PricesAll" : { "Normal" : 24.9, "Market" : "28" }, "DeliverAddress" : "产地直发", "Description" : "金艳猕猴桃个头匀称结实，明黄的果肉晶莹剔透，口感香甜. 果肉金黄、维生素C含量高、肉质细嫩多汁、风味香甜可口、营养丰富。", "ProductType" : 1 }, "OrderFee" : 24.9, "OrderId" : 329810, "OrderStatus" : 3 }, { "id" : "58361510634198050ce65618", "OrderType" : 1, "ProductId" : 10624, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-19/40044cac7c323baef532e1bbe6d1a160.jpg", "ProductName" : "【产地直发】四川金艳猕猴桃15只装单果70~90克", "Prices" : 24.9, "PricesAll" : { "Normal" : 24.9, "Market" : "28" }, "DeliverAddress" : "产地直发", "Description" : "金艳猕猴桃个头匀称结实，明黄的果肉晶莹剔透，口感香甜. 果肉金黄、维生素C含量高、肉质细嫩多汁、风味香甜可口、营养丰富。", "ProductType" : 1 }, "OrderFee" : 24.9, "OrderId" : 329763, "OrderStatus" : 1 }], "Count" : 3 }
+
+执行日期：20161125203320
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=329856&$Limit=1
+超时时间:5
+处理时间:0.056688
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583615ca634198050ce6561c", "ShopId" : "580377dc6341981e3834f288", "ShopName" : "果蔬担当", "UserId" : "583607e5634198050ce65612", "CityCode" : 411700, "CityName" : "驻马店市", "OrderType" : 1, "ProductId" : 15901, "ProductRealId" : "580cabff6341981260f58398", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-23/182d1c0a46a26418e3d4a7441579f2b5.jpg", "ProductName" : "丑柑--不知火丑柑10个装19.8元", "Prices" : 19.8, "PricesAll" : { "Normal" : 19.8, "Market" : "24.5" }, "DeliverAddress" : "武进区南湖家苑", "Description" : "易剥皮，有碰柑香味，无浮皮。果肉橙色，肉质柔软多汁，囊壁极薄而软，口感脆甜。果汁糖度13-14度。其果肉富含维生素C，及人体所需的微量元素。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1479939523702", "RealName" : "董丹丹", "Mobile" : "13525319766", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "411700", "CityName" : "驻马店市", "DistrictCode" : "411723", "DistrictName" : "平舆县", "Address" : "双龙路口南100米路西院内", "Type" : null, "RealAddress" : "河南省驻马店市平舆县双龙路口南100米路西院内" }, "ProductFee" : 19.8, "freightFee" : 0, "OrderFee" : 19.8, "OrderId" : 329856, "CreatTime" : 1479939530, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161125203327
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=583607e5634198050ce65612&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.038692
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "583615ca634198050ce6561c", "OrderType" : 1, "ProductId" : 15901, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-23/182d1c0a46a26418e3d4a7441579f2b5.jpg", "ProductName" : "丑柑--不知火丑柑10个装19.8元", "Prices" : 19.8, "PricesAll" : { "Normal" : 19.8, "Market" : "24.5" }, "DeliverAddress" : "武进区南湖家苑", "Description" : "易剥皮，有碰柑香味，无浮皮。果肉橙色，肉质柔软多汁，囊壁极薄而软，口感脆甜。果汁糖度13-14度。其果肉富含维生素C，及人体所需的微量元素。", "ProductType" : 1 }, "OrderFee" : 19.8, "OrderId" : 329856, "OrderStatus" : 1 }, { "id" : "58361574634198050ce65619", "OrderType" : 1, "ProductId" : 10624, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-19/40044cac7c323baef532e1bbe6d1a160.jpg", "ProductName" : "【产地直发】四川金艳猕猴桃15只装单果70~90克", "Prices" : 24.9, "PricesAll" : { "Normal" : 24.9, "Market" : "28" }, "DeliverAddress" : "产地直发", "Description" : "金艳猕猴桃个头匀称结实，明黄的果肉晶莹剔透，口感香甜. 果肉金黄、维生素C含量高、肉质细嫩多汁、风味香甜可口、营养丰富。", "ProductType" : 1 }, "OrderFee" : 24.9, "OrderId" : 329810, "OrderStatus" : 3 }, { "id" : "58361510634198050ce65618", "OrderType" : 1, "ProductId" : 10624, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-19/40044cac7c323baef532e1bbe6d1a160.jpg", "ProductName" : "【产地直发】四川金艳猕猴桃15只装单果70~90克", "Prices" : 24.9, "PricesAll" : { "Normal" : 24.9, "Market" : "28" }, "DeliverAddress" : "产地直发", "Description" : "金艳猕猴桃个头匀称结实，明黄的果肉晶莹剔透，口感香甜. 果肉金黄、维生素C含量高、肉质细嫩多汁、风味香甜可口、营养丰富。", "ProductType" : 1 }, "OrderFee" : 24.9, "OrderId" : 329763, "OrderStatus" : 1 }], "Count" : 3 }
+
+执行日期：20161125205522
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a5d56341980134260123&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.057073
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811c2166341981810eb21a3", "OrderType" : 2, "ProductId" : 18275, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-27/c89b54ee3d46fb745f909b962cd6de73.jpg", "ProductName" : "伟力V912单桨四通道直升机2.4G大型合金遥控飞机航模", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "318", "Team" : "1" }, "DeliverAddress" : "湖北省武汉市", "Description" : "伟力V912四通道单桨直升机", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 47877, "TeamId" : 47877, "OrderStatus" : 2 }], "Count" : 1 }
+
+执行日期：20161125205524
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a5d56341980134260123&TeamId=47877&OrderStatus=1&$Limit=1
+超时时间:5
+处理时间:0.059455
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125205529
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a5d56341980134260123&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.044137
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5811c2166341981810eb21a3", "OrderType" : 2, "ProductId" : 18275, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-27/c89b54ee3d46fb745f909b962cd6de73.jpg", "ProductName" : "伟力V912单桨四通道直升机2.4G大型合金遥控飞机航模", "Prices" : "1", "PricesAll" : { "Normal" : 1, "Market" : "318", "Team" : "1" }, "DeliverAddress" : "湖北省武汉市", "Description" : "伟力V912四通道单桨直升机", "ProductType" : 4 }, "OrderFee" : 1, "OrderId" : 47877, "TeamId" : 47877, "OrderStatus" : 2 }], "Count" : 1 }
+
+执行日期：20161125214846
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58367dd2634198050ce656e8&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.037437
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161125214853
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58367dd2634198050ce656e8&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.034264
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

@@ -1,0 +1,12 @@
+执行日期：20161104145407
+接口路径:https://api.weixin.qq.com/cgi-bin/token?
+超时时间:5 
+处理时间:1.166419
+返回参数:{"access_token":"r5qcUBdR5_edp782QVEzcixMF6QLYb0HlTs9VP4LkeM7OU8_hEhLWghP1gSpQyM3bzgjCiORU1sdzME4dTK3eboeMLIVgeFp-1ffguBPcY9Zdts9jukq6jGtmId6bgF3TKMcACALCE","expires_in":7200}
+
+执行日期：20161104145407
+接口路径:https://api.weixin.qq.com/cgi-bin/ticket/getticket?access_token=r5qcUBdR5_edp782QVEzcixMF6QLYb0HlTs9VP4LkeM7OU8_hEhLWghP1gSpQyM3bzgjCiORU1sdzME4dTK3eboeMLIVgeFp-1ffguBPcY9Zdts9jukq6jGtmId6bgF3TKMcACALCE&type=jsapi
+超时时间:5 
+处理时间:0.127793
+返回参数:{"errcode":0,"errmsg":"ok","ticket":"kgt8ON7yVITDhtdwci0qebMbcq8vFNJ2A2VOoLiV7QSgOQx-tVp8YTdKAh6tUrw9i-RfvetKSLlQC0OAdX2DRA","expires_in":7200}
+

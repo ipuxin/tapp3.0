@@ -1,0 +1,36 @@
+执行日期：20161014103146
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=411700&CityName=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%B8%82&UserId=57fd6c676341981a98fd1b84&ShopName=%E6%8B%BC%E4%B8%80%E4%B8%8B&ShopId=&ShopRealId=57f9c96c63419a1540e862f1&ProductId=3550&ProductRealId=57faf5006341980e14f9eb99&ProductCount=1&creatTime=1476412306
+超时时间:5
+处理时间:0.010305
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580043936341980624c3659d", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "57fd6c676341981a98fd1b84", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3550, "ProductRealId" : "57faf5006341980e14f9eb99", "ProductCount" : 1, "creatTime" : 1476412306 }] }
+
+执行日期：20161014105455
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=411700&CityName=%E9%A9%BB%E9%A9%AC%E5%BA%97%E5%B8%82&UserId=57ff31196341980624c363ac&ShopName=%E6%8B%BC%E4%B8%80%E4%B8%8B&ShopId=&ShopRealId=57f9c96c63419a1540e862f1&ProductId=3577&ProductRealId=57fb096c6341980e14f9ebc3&ProductCount=1&creatTime=1476413695
+超时时间:5
+处理时间:0.00724
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580048ff6341980624c3659f", "CityCode" : 411700, "CityName" : "驻马店市", "UserId" : "57ff31196341980624c363ac", "ShopName" : "拼一下", "ShopId" : "", "ShopRealId" : "57f9c96c63419a1540e862f1", "ProductId" : 3577, "ProductRealId" : "57fb096c6341980e14f9ebc3", "ProductCount" : 1, "creatTime" : 1476413695 }] }
+
+执行日期：20161014110227
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=57f38a3063419801342600dd&ShopName=Wilson%20store&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=1134&ProductRealId=57f48678634198108863c171&ProductCount=1&creatTime=1476414147
+超时时间:5
+处理时间:0.015551
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58004ac26341980624c365a2", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "57f38a3063419801342600dd", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1134, "ProductRealId" : "57f48678634198108863c171", "ProductCount" : 1, "creatTime" : 1476414147 }] }
+
+执行日期：20161014144846
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=57f38a8e63419801342600e1&ShopName=Wilson%20store&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=1194&ProductRealId=57f490ba634198108863c175&ProductCount=1&creatTime=1476427726
+超时时间:5
+处理时间:0.029791
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58007fce6341980624c365f5", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "57f38a8e63419801342600e1", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1194, "ProductRealId" : "57f490ba634198108863c175", "ProductCount" : 1, "creatTime" : 1476427726 }] }
+
+执行日期：20161014150348
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=310100&CityName=%E4%B8%8A%E6%B5%B7%E5%B8%82&UserId=57f38a8e63419801342600e1&ShopName=Wilson%20store&ShopId=&ShopRealId=57ef4c8c634199034056b774&ProductId=1168&ProductRealId=57f48c30634198108863c172&ProductCount=1&creatTime=1476428628
+超时时间:5
+处理时间:0.015008
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580083536341980624c365fa", "CityCode" : 310100, "CityName" : "上海市", "UserId" : "57f38a8e63419801342600e1", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1476428628 }] }
+
+执行日期：20161014151120
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Create?CityCode=361000&CityName=%E6%8A%9A%E5%B7%9E%E5%B8%82&UserId=57eeaefb6341980b647c07b6&ShopName=%E6%9C%88%E5%8D%8A%E5%B0%8F%E9%93%BA&ShopId=&ShopRealId=57fdbb166341981a98fd1bf1&ProductId=5417&ProductRealId=57fe2cac6341981a98fd1cef&ProductCount=1&creatTime=1476429080
+超时时间:5
+处理时间:0.015101
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580085196341980624c365fc", "CityCode" : 361000, "CityName" : "抚州市", "UserId" : "57eeaefb6341980b647c07b6", "ShopName" : "月半小铺", "ShopId" : "", "ShopRealId" : "57fdbb166341981a98fd1bf1", "ProductId" : 5417, "ProductRealId" : "57fe2cac6341981a98fd1cef", "ProductCount" : 1, "creatTime" : 1476429080 }] }
+

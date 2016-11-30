@@ -1,0 +1,360 @@
+执行日期：20161017025011
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5803891a6341981e3834f29b&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.011806
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017025554
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5803891a6341981e3834f29b&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.01432
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017071945
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.023758
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5803f32263419812f8557b5b", "OrderId" : 14502 }], "Count" : 493 }
+
+执行日期：20161017071945
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14526&UserId=57f39be76341980134260117&$Limit=1
+超时时间:5
+处理时间:0.021259
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58040b1063419812f8557b78", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "57f39be76341980134260117", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : 8360, "ProductRealId" : "580324306341981e3834f246", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/eae15551a395b2ab3d5acf982be2ac86.jpg", "ProductName" : "小东衣服架", "Prices" : 0.2, "PricesAll" : { "Normal" : 0.2, "Market" : "3.00" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "                 产品介绍                        \r\n品名：浸塑衣服架\r\n规格：40*20\r\n克重：500克左右（1捆）\r\n每箱60捆（600个）\r\n商品价格是一个的价格哦，一把是10个,请按10的倍数下单哦~~~\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475936962864", "RealName" : "徐伟", "Mobile" : "15261028816", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱潼镇文明东巷26号", "Type" : null, "RealAddress" : "江苏省泰州市姜堰区溱潼镇文明东巷26号" }, "ProductFee" : 0.2, "freightFee" : 0, "OrderFee" : 0.2, "OrderId" : 14526, "CreatTime" : 1476659985, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017071951
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14526&$Limit=1
+超时时间:5
+处理时间:0.020342
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58040b1063419812f8557b78", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "57f39be76341980134260117", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : 8360, "ProductRealId" : "580324306341981e3834f246", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/eae15551a395b2ab3d5acf982be2ac86.jpg", "ProductName" : "小东衣服架", "Prices" : 0.2, "PricesAll" : { "Normal" : 0.2, "Market" : "3.00" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "                 产品介绍                        \r\n品名：浸塑衣服架\r\n规格：40*20\r\n克重：500克左右（1捆）\r\n每箱60捆（600个）\r\n商品价格是一个的价格哦，一把是10个,请按10的倍数下单哦~~~\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475936962864", "RealName" : "徐伟", "Mobile" : "15261028816", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱潼镇文明东巷26号", "Type" : null, "RealAddress" : "江苏省泰州市姜堰区溱潼镇文明东巷26号" }, "ProductFee" : 0.2, "freightFee" : 0, "OrderFee" : 0.2, "OrderId" : 14526, "CreatTime" : 1476659985, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017080539
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57ffa6c26341980624c36565&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.020411
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "OrderType" : 1, "ProductId" : [1134], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "OrderFee" : 39.9, "OrderId" : 13350, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161017080540
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=13350&$Limit=1
+超时时间:5
+处理时间:0.026417
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ffa8216341980624c36567", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57ffa6c26341980624c36565", "CityCode" : 310100, "CityName" : "上海市", "OrderType" : 1, "ProductId" : [1134], "ProductRealId" : ["\"57f48678634198108863c171\""], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "安妮", "Mobile" : "18101839808", "ProviceName" : "上海市", "ProviceCode" : "310000", "CityName" : "上海市市辖区", "CityCode" : "310100", "DistrictName" : "闵行区", "DistrictCode" : "310112", "Address" : "紫星路1000号微创软件" }, "ProductFee" : 39.9, "freightFee" : 0, "OrderFee" : 39.9, "OrderId" : 13350, "CreatTime" : 1476372513, "OrderStatus" : 4, "PayStatus" : "已支付", "ProductList" : [{ "id" : "57f48678634198108863c171", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚39.9", "Prices" : 39.9, "freightAmout" : 0, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "ProductId" : 1134, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductCount" : 1, "CartId" : "57ffa7166341980624c36566", "PricesAll" : { "Normal" : 39.9, "Market" : "45" } }], "PayType" : "微信APP", "PayAmount" : 39.9, "PayTradeNo" : "4002622001201610136612378768", "PayTime" : 1476372525, "Address" : "", "Logistics" : { "LogisticsNum" : "50351165001820", "LogisticsName" : "百世汇通", "LogisticsCode" : "HTKY" }, "FahuoTime" : 1476511772 }], "Count" : 1 }
+
+执行日期：20161017080541
+接口路径:http://106.75.62.247:81/api/logistics/trace?lid=50351165001820&sid=HTKY
+超时时间:5
+处理时间:0.860928
+返回参数:{"Code":0,"Success":true,"Message":"Success","Result":{"EBusinessID":"1256092","ShipperCode":"HTKY","Success":true,"LogisticCode":"50351165001820","State":"2","Traces":[{"AcceptTime":"2016-10-14 18:22:10","AcceptStation":"北海市【北海西区分部】，【东添和苑/15577963778】已揽收","Remark":""},{"AcceptTime":"2016-10-14 18:24:55","AcceptStation":"北海市【北海西区分部】，正发往【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 18:52:58","AcceptStation":"到北海市【北海集散仓】","Remark":""},{"AcceptTime":"2016-10-14 20:02:03","AcceptStation":"北海市【北海集散仓】，正发往【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:28:51","AcceptStation":"到南宁市【南宁转运中心】","Remark":""},{"AcceptTime":"2016-10-15 00:31:49","AcceptStation":"南宁市【南宁转运中心】，正发往【上海转运中心】","Remark":""},{"AcceptTime":"2016-10-16 20:15:34","AcceptStation":"到上海市【上海转运中心】","Remark":""},{"AcceptTime":"2016-10-16 21:50:36","AcceptStation":"上海市【上海转运中心】，正发往【吴泾】","Remark":""}]}}
+
+执行日期：20161017101053
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f4c6f1634198108863c190&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.017487
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017101056
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f4c6f1634198108863c190&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.016011
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017113022
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.019807
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58043d1063419812f8557bb6", "OrderId" : 14613 }], "Count" : 498 }
+
+执行日期：20161017113022
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14661&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.018539
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580445ce63419812f8557bd1", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1134, "ProductRealId" : "57f48678634198108863c171", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 199.5, "freightFee" : 0, "OrderFee" : 199.5, "OrderId" : 14661, "CreatTime" : 1476675022, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017113048
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14661&$Limit=1
+超时时间:5
+处理时间:0.01479
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580445ce63419812f8557bd1", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1134, "ProductRealId" : "57f48678634198108863c171", "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/a52bc5f1ab8c4ba12c01d5fad760b265.jpg", "ProductName" : "北海宝海鸭蛋20枚", "Prices" : 39.9, "PricesAll" : { "Normal" : 39.9, "Market" : "45" }, "DeliverAddress" : "产地广西省", "Description" : "【产地直发，美味直达】北海湾散养海鸭咸鸭蛋", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 199.5, "freightFee" : 0, "OrderFee" : 199.5, "OrderId" : 14661, "CreatTime" : 1476675022, "OrderStatus" : 3, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 199.5, "PayTradeNo" : "4001912001201610176913666720", "PayTime" : 1476675031 }], "Count" : 1 }
+
+执行日期：20161017115706
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fc99256341980eb0663d06&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.021874
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017124403
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.012512
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804474263419812f8557bdd", "OrderId" : 14701 }], "Count" : 500 }
+
+执行日期：20161017124403
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14715&UserId=57f38de163419801342600f0&$Limit=1
+超时时间:5
+处理时间:0.024147
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804571463419812f8557c0c", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 0, "OrderFee" : 9.9, "OrderId" : 14715, "CreatTime" : 1476679443, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017124416
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14715&$Limit=1
+超时时间:5
+处理时间:0.032959
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804571463419812f8557c0c", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 0, "OrderFee" : 9.9, "OrderId" : 14715, "CreatTime" : 1476679443, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017124515
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.023632
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804571463419812f8557c0c", "OrderId" : 14715 }], "Count" : 501 }
+
+执行日期：20161017124516
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14736&UserId=57f38de163419801342600f0&$Limit=1
+超时时间:5
+处理时间:0.009478
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804575b63419812f8557c0d", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 0, "OrderFee" : 9.9, "OrderId" : 14736, "CreatTime" : 1476679515, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017124521
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14736&$Limit=1
+超时时间:5
+处理时间:0.013432
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804575b63419812f8557c0d", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 0, "OrderFee" : 9.9, "OrderId" : 14736, "CreatTime" : 1476679515, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017133305
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.016579
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804575b63419812f8557c0d", "OrderId" : 14736 }], "Count" : 502 }
+
+执行日期：20161017133305
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14756&UserId=57f38de163419801342600f0&$Limit=1
+超时时间:5
+处理时间:0.022219
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804629163419812f8557c1a", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 4, "OrderFee" : 13.9, "OrderId" : 14756, "CreatTime" : 1476682385, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017133322
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14756&$Limit=1
+超时时间:5
+处理时间:0.033431
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804629163419812f8557c1a", "ShopId" : "57fda3a56341981a98fd1bad", "ShopName" : "拼一下商城官方旗舰店", "UserId" : "57f38de163419801342600f0", "CityCode" : 321000, "CityName" : "扬州市", "OrderType" : 1, "ProductId" : 8807, "ProductRealId" : "5804525963419812f8557bff", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-17/4a1195e4aea40959c684d326a5cb2c29.jpg", "ProductName" : "水军海鲜/蟹香蛋黄锅巴香脆糯米 安徽特产休闲小吃传统米零食120g", "Prices" : 9.9, "PricesAll" : { "Normal" : 9.9, "Market" : "15" }, "DeliverAddress" : "扬州", "Description" : "海鲜味的里面有虾有海苔 锅巴的味道特别浓，很酥脆的\r\n但是也是因为这款宝贝特别酥脆，所以通常收到的时候大整块有点残缺\r\n但是小块也不影响美味，不是大家想象中的渣渣 只是稍微碎了一点点，介意的亲们慎拍哦", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476679274425", "RealName" : "朱月兵", "Mobile" : "18752796840", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321000", "CityName" : "扬州市", "DistrictCode" : "321012", "DistrictName" : "江都区", "Address" : "小纪镇宗村神舟汽车内饰件有限公司", "Type" : null, "RealAddress" : "江苏省扬州市江都区小纪镇宗村神舟汽车内饰件有限公司" }, "ProductFee" : 9.9, "freightFee" : 4, "OrderFee" : 13.9, "OrderId" : 14756, "CreatTime" : 1476682385, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017142916
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=58042b7663419812f8557b8d&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.016984
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017154205
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.015809
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58047ec463419812f8557c4a", "OrderId" : 14810 }], "Count" : 505 }
+
+执行日期：20161017154205
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14845&UserId=57f38a3063419801342600dd&$Limit=1
+超时时间:5
+处理时间:0.016434
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580480cd63419812f8557c50", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38a3063419801342600dd", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 2, "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/84498f0e171986abbeed1fc7baeb8944.jpg", "ProductName" : "智利绿奇异果10只", "Prices" : "19.9", "PricesAll" : { "Normal" : 19.9, "Market" : "35", "Team" : "19.9" }, "DeliverAddress" : "上海市", "Description" : "【上海市同城配送】智利绿奇异果10只19.9", "ProductType" : 2 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "ProductFee" : 19.9, "freightFee" : 0, "OrderFee" : 19.9, "OrderId" : 14845, "TeamId" : 14845, "CreatTime" : 1476690125, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017154742
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=14845&$Limit=1
+超时时间:5
+处理时间:0.008455
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "580480cd63419812f8557c50", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38a3063419801342600dd", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 2, "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/84498f0e171986abbeed1fc7baeb8944.jpg", "ProductName" : "智利绿奇异果10只", "Prices" : "19.9", "PricesAll" : { "Normal" : 19.9, "Market" : "35", "Team" : "19.9" }, "DeliverAddress" : "上海市", "Description" : "【上海市同城配送】智利绿奇异果10只19.9", "ProductType" : 2 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475578475391", "RealName" : "张", "Mobile" : "18621504906", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "翔殷路128号", "Type" : null, "RealAddress" : "上海市杨浦区翔殷路128号" }, "ProductFee" : 19.9, "freightFee" : 0, "OrderFee" : 19.9, "OrderId" : 14845, "TeamId" : 14845, "CreatTime" : 1476690125, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017155840
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580321fd6341981e3834f237&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022746
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017155939
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580321fd6341981e3834f237&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019004
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017160012
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580321fd6341981e3834f237&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.022893
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017160015
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=580321fd6341981e3834f237&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.02334
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+
+执行日期：20161017161611
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f97dff63419815402a86bd&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019766
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801ac6f6341980c207fe990", "OrderType" : 2, "ProductId" : 6990, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "徐香猕猴桃", "Prices" : "38.8", "PricesAll" : { "Normal" : 38.8, "Market" : "48.8", "Team" : "38.8" }, "DeliverAddress" : "产地发货", "Description" : "徐香猕猴桃你懂的", "ProductType" : 2 }, "OrderFee" : 38.8, "OrderId" : 13525, "TeamId" : 13525, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161017161619
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=13525&$Limit=1
+超时时间:5
+处理时间:0.018218
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801ac6f6341980c207fe990", "ShopId" : "57f85a226341981cdc31ade4", "ShopName" : "精品水果", "UserId" : "57f97dff63419815402a86bd", "CityCode" : 340500, "CityName" : "马鞍山市", "OrderType" : 2, "ProductId" : 6990, "ProductRealId" : "5801a5e46341980c207fe985", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "徐香猕猴桃", "Prices" : "38.8", "PricesAll" : { "Normal" : 38.8, "Market" : "48.8", "Team" : "38.8" }, "DeliverAddress" : "产地发货", "Description" : "徐香猕猴桃你懂的", "ProductType" : 2 }, "Remark" : "", "DeliveryInfo" : { "RealName" : "周敏", "Mobile" : "15955555115", "ProviceName" : "安徽省", "ProviceCode" : "340000", "CityName" : "马鞍山市", "CityCode" : "340500", "DistrictName" : "雨山区", "DistrictCode" : "340504", "Address" : "蒙牛西门对面国平环保放门卫" }, "ProductFee" : 38.8, "freightFee" : 0, "OrderFee" : 38.8, "OrderId" : 13525, "TeamId" : 13525, "CreatTime" : 1476504687, "OrderStatus" : 4, "PayStatus" : "已支付", "PayType" : "微信APP", "PayAmount" : 38.8, "PayTradeNo" : "4006382001201610156735182813", "PayTime" : 1476504694, "Address" : "" }], "Count" : 1 }
+
+执行日期：20161017161625
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f97dff63419815402a86bd&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023304
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801ac6f6341980c207fe990", "OrderType" : 2, "ProductId" : 6990, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : null, "ProductName" : "徐香猕猴桃", "Prices" : "38.8", "PricesAll" : { "Normal" : 38.8, "Market" : "48.8", "Team" : "38.8" }, "DeliverAddress" : "产地发货", "Description" : "徐香猕猴桃你懂的", "ProductType" : 2 }, "OrderFee" : 38.8, "OrderId" : 13525, "TeamId" : 13525, "OrderStatus" : 4 }], "Count" : 1 }
+
+执行日期：20161017164332
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.009795
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58048ef263419812f8557c74", "OrderId" : 14997 }], "Count" : 512 }
+
+执行日期：20161017164332
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15007&UserId=57f38dd363419801342600ef&$Limit=1
+超时时间:5
+处理时间:0.024709
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58048f3463419812f8557c76", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1295, "ProductRealId" : "57f4abaa634198108863c182", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/7fd54826ed10f9b2d573816ed0fdd837.jpg", "ProductName" : "四川金艳猕猴桃12只大果", "Prices" : 27.9, "PricesAll" : { "Normal" : 27.9, "Market" : "45" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃大果12只装，单果90-110g；包邮", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 27.9, "freightFee" : 0, "OrderFee" : 27.9, "OrderId" : 15007, "CreatTime" : 1476693812, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017164336
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15007&$Limit=1
+超时时间:5
+处理时间:0.017073
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58048f3463419812f8557c76", "ShopId" : "57ef4c8c634199034056b774", "ShopName" : "Wilson store", "UserId" : "57f38dd363419801342600ef", "CityCode" : 310100, "CityName" : "上海市市辖区", "OrderType" : 1, "ProductId" : 1295, "ProductRealId" : "57f4abaa634198108863c182", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-13/7fd54826ed10f9b2d573816ed0fdd837.jpg", "ProductName" : "四川金艳猕猴桃12只大果", "Prices" : 27.9, "PricesAll" : { "Normal" : 27.9, "Market" : "45" }, "DeliverAddress" : "四川省", "Description" : "【产地四川直发】四川金艳猕猴桃大果12只装，单果90-110g；包邮", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1475579415782", "RealName" : "鲁", "Mobile" : "13818869443", "ProviceCode" : "310000", "ProviceName" : "上海市", "CityCode" : "310100", "CityName" : "上海市市辖区", "DistrictCode" : "310110", "DistrictName" : "杨浦区", "Address" : "中原路1号", "Type" : null, "RealAddress" : "上海市杨浦区中原路1号" }, "ProductFee" : 27.9, "freightFee" : 0, "OrderFee" : 27.9, "OrderId" : 15007, "CreatTime" : 1476693812, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173245
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.011003
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804902c63419812f8557c79", "OrderId" : 15029 }], "Count" : 514 }
+
+执行日期：20161017173245
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15049&UserId=580321fd6341981e3834f237&$Limit=1
+超时时间:5
+处理时间:0.02633
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049abd63419812f8557c87", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15049, "CreatTime" : 1476696765, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173254
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15049&$Limit=1
+超时时间:5
+处理时间:0.027644
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049abd63419812f8557c87", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15049, "CreatTime" : 1476696765, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173259
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15049&$Limit=1
+超时时间:5
+处理时间:0.010416
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049abd63419812f8557c87", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15049, "CreatTime" : 1476696765, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173400
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.013236
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049abd63419812f8557c87", "OrderId" : 15049 }], "Count" : 515 }
+
+执行日期：20161017173400
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15066&UserId=580321fd6341981e3834f237&$Limit=1
+超时时间:5
+处理时间:0.016635
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049b0863419812f8557c88", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15066, "CreatTime" : 1476696840, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173413
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15066&$Limit=1
+超时时间:5
+处理时间:0.026141
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049b0863419812f8557c88", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15066, "CreatTime" : 1476696840, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017173422
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15066&$Limit=1
+超时时间:5
+处理时间:0.012713
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58049b0863419812f8557c88", "ShopId" : "5800dbe76341980c207fe92a", "ShopName" : "新农村天然特产店", "UserId" : "580321fd6341981e3834f237", "CityCode" : 410100, "CityName" : "郑州市", "OrderType" : 1, "ProductId" : 6729, "ProductRealId" : "5800dd8c6341980c207fe92e", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/85d00188d5797dae0534e4983c43b60d.jpg", "ProductName" : "灵宝红富士80以上大果5斤", "Prices" : 18.9, "PricesAll" : { "Normal" : 18.9, "Market" : "25" }, "DeliverAddress" : "郑州", "Description" : "灵宝苹果，天然生长，口感脆甜", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476696764331", "RealName" : "张俊明", "Mobile" : "15555555555", "ProviceCode" : "410000", "ProviceName" : "河南省", "CityCode" : "410100", "CityName" : "郑州市", "DistrictCode" : "410108", "DistrictName" : "惠济区", "Address" : "考虑考虑", "Type" : null, "RealAddress" : "河南省郑州市惠济区考虑考虑" }, "ProductFee" : 18.9, "freightFee" : 0, "OrderFee" : 18.9, "OrderId" : 15066, "CreatTime" : 1476696840, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017195136
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.00925
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 5 }], "Count" : 2 }
+
+执行日期：20161017195202
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.017052
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804a6ab63419812f8557c8d", "OrderId" : 15082 }], "Count" : 517 }
+
+执行日期：20161017195203
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15121&UserId=57fcbb2b6341980eb0663d2f&$Limit=1
+超时时间:5
+处理时间:0.029117
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bb6363419812f8557c9d", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "57fcbb2b6341980eb0663d2f", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : 8360, "ProductRealId" : "580324306341981e3834f246", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/eae15551a395b2ab3d5acf982be2ac86.jpg", "ProductName" : "小东衣服架", "Prices" : 0.2, "PricesAll" : { "Normal" : 0.2, "Market" : "3.00" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "                 产品介绍                        \r\n品名：浸塑衣服架\r\n规格：40*20\r\n克重：500克左右（1捆）\r\n每箱60捆（600个）\r\n商品价格是一个的价格哦，一把是10个,请按10的倍数下单哦~~~\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476705096214", "RealName" : "陈银", "Mobile" : "18061034329", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱湖风景区溱湖会议中心", "Type" : null, "RealAddress" : "江苏省泰州市姜堰区溱湖风景区溱湖会议中心" }, "ProductFee" : 0.2, "freightFee" : 6, "OrderFee" : 6.2, "OrderId" : 15121, "CreatTime" : 1476705122, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017195211
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15121&$Limit=1
+超时时间:5
+处理时间:0.025619
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bb6363419812f8557c9d", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "57fcbb2b6341980eb0663d2f", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : 8360, "ProductRealId" : "580324306341981e3834f246", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/eae15551a395b2ab3d5acf982be2ac86.jpg", "ProductName" : "小东衣服架", "Prices" : 0.2, "PricesAll" : { "Normal" : 0.2, "Market" : "3.00" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "                 产品介绍                        \r\n品名：浸塑衣服架\r\n规格：40*20\r\n克重：500克左右（1捆）\r\n每箱60捆（600个）\r\n商品价格是一个的价格哦，一把是10个,请按10的倍数下单哦~~~\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476705096214", "RealName" : "陈银", "Mobile" : "18061034329", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱湖风景区溱湖会议中心", "Type" : null, "RealAddress" : "江苏省泰州市姜堰区溱湖风景区溱湖会议中心" }, "ProductFee" : 0.2, "freightFee" : 6, "OrderFee" : 6.2, "OrderId" : 15121, "CreatTime" : 1476705122, "OrderStatus" : 1, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017195218
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15121&$Limit=1
+超时时间:5
+处理时间:0.013481
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bb6363419812f8557c9d", "ShopId" : "57ff8e876341980624c3651c", "ShopName" : "陈银 水产行", "UserId" : "57fcbb2b6341980eb0663d2f", "CityCode" : 321200, "CityName" : "泰州市", "OrderType" : 1, "ProductId" : 8360, "ProductRealId" : "580324306341981e3834f246", "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-16/eae15551a395b2ab3d5acf982be2ac86.jpg", "ProductName" : "小东衣服架", "Prices" : 0.2, "PricesAll" : { "Normal" : 0.2, "Market" : "3.00" }, "DeliverAddress" : "泰州市姜堰区溱潼镇", "Description" : "                 产品介绍                        \r\n品名：浸塑衣服架\r\n规格：40*20\r\n克重：500克左右（1捆）\r\n每箱60捆（600个）\r\n商品价格是一个的价格哦，一把是10个,请按10的倍数下单哦~~~\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476705096214", "RealName" : "陈银", "Mobile" : "18061034329", "ProviceCode" : "320000", "ProviceName" : "江苏省", "CityCode" : "321200", "CityName" : "泰州市", "DistrictCode" : "321204", "DistrictName" : "姜堰区", "Address" : "溱湖风景区溱湖会议中心", "Type" : null, "RealAddress" : "江苏省泰州市姜堰区溱湖风景区溱湖会议中心" }, "ProductFee" : 0.2, "freightFee" : 6, "OrderFee" : 6.2, "OrderId" : 15121, "CreatTime" : 1476705122, "OrderStatus" : 6, "PayStatus" : "未支付" }], "Count" : 1 }
+
+执行日期：20161017195404
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.016379
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bb6363419812f8557c9d", "OrderId" : 15121 }], "Count" : 518 }
+
+执行日期：20161017195404
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15145&UserId=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.029448
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bbdc63419812f8557ca1", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "UserId" : "57fa0edd63419a1540e8632c", "CityCode" : 430700, "CityName" : "常德市", "OrderType" : 1, "ProductId" : [6559, 6695, 6393, 6238], "ProductRealId" : ["\"58006a0e6341980624c365db\"", "\"5800bfcb6341980c207fe91a\"", "\"580061cc6341980624c365d1\"", "\"580058ed6341980624c365c2\""], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476524939887", "RealName" : "周敏", "Mobile" : "13786650445", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品8栋", "Type" : null, "RealAddress" : "湖南省常德市武陵区人民东路东城尚品8栋" }, "ProductFee" : 89.6, "freightFee" : 0, "OrderFee" : 89.6, "OrderId" : 15145, "CreatTime" : 1476705244, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "5800bfcb6341980c207fe91a", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6695, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductCount" : 1, "CartId" : "5804bb7f63419812f8557c9f", "PricesAll" : { "Normal" : 25, "Market" : "31.6" } }, { "id" : "58006a0e6341980624c365db", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductName" : "红心猕猴桃6个装25", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "红心猕猴桃是一种可食用与药用为一体的水果，每100克鲜果肉含维生素C100—420毫克，比柑橘高5—10倍，比柠檬高11—13倍，比苹果高20—80倍。红心猕猴桃果肉细嫩、香气浓郁、口感香甜清爽、酸度极低，营养丰富，被称为“果中之王”、“维C之王”。红心猕猴桃是通过对野生猕猴桃实生单株选育而成的一种稀有优良品种，果实中大、整齐。常食用红心猕猴桃对人体有保健、美容、排毒、抗癌的功效。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6559, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductCount" : 1, "CartId" : "5804bba563419812f8557ca0", "PricesAll" : { "Normal" : 25, "Market" : "30" } }, { "id" : "580061cc6341980624c365d1", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductName" : "新疆库尔勒香梨3斤装19.9元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "新疆库尔勒香梨是一个地域性极强的名优品种，也是新疆库尔勒甚至全国最优异的地方梨品种之一。香梨果皮薄，质脆，果肉白色，肉质细嫩，石细胞少，坚硬，多汁味甜，近果心处略酸，香味浓郁，一般栽后四年开花结果。新疆库尔勒香梨有一个独有的特征，那就是有公母之分，母梨尾部凹陷，形成圆窝状；公梨尾部外凸，形成突出状，肉粗核大。新疆库尔勒香梨在汉唐时期就通过“丝绸之路”传入印度，被誉为“西域圣果”。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6393, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductCount" : 1, "CartId" : "5804bafa63419812f8557c9b", "PricesAll" : { "Normal" : 19.8, "Market" : "27" } }, { "id" : "580058ed6341980624c365c2", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductName" : "新疆西州蜜1个装（约4-5斤）19.8元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "1、西州蜜味甘、性寒，具有宁心神、疗饥、利便、益气、清肺热、止咳的功效。\r\n　　2、西州蜜果肉有利小便、止渴、除烦热、防暑气等作用，可治热感、中暑、口渴、尿路感染、口面疮等。\r\n　　3、西州蜜富含维生素A、B、C族维生素，能确保机体保持正常新陈代谢的需要，缓解人的身心疲惫。\r\n　　4、西州蜜有丰富的膳食纤维，能有效促进肠胃蠕动排毒，帮助人体润肠通便。\r\n　　5、西州蜜中含有大量的抗氧化剂，能够抵抗对细胞造成伤害的氧自由基，有延缓衰老、皮肤美白之功效。 6、西州蜜含有大量的铁，比鸡肉多2-3倍，比牛奶高17倍，能增强人体造血功能，很适合贫血患者食用。\r\n", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6238, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductCount" : 1, "CartId" : "5804baed63419812f8557c9a", "PricesAll" : { "Normal" : 19.8, "Market" : "30" } }] }], "Count" : 1 }
+
+执行日期：20161017195408
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15145&$Limit=1
+超时时间:5
+处理时间:0.028946
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bbdc63419812f8557ca1", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "UserId" : "57fa0edd63419a1540e8632c", "CityCode" : 430700, "CityName" : "常德市", "OrderType" : 1, "ProductId" : [6559, 6695, 6393, 6238], "ProductRealId" : ["\"58006a0e6341980624c365db\"", "\"5800bfcb6341980c207fe91a\"", "\"580061cc6341980624c365d1\"", "\"580058ed6341980624c365c2\""], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476524939887", "RealName" : "周敏", "Mobile" : "13786650445", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品8栋", "Type" : null, "RealAddress" : "湖南省常德市武陵区人民东路东城尚品8栋" }, "ProductFee" : 89.6, "freightFee" : 0, "OrderFee" : 89.6, "OrderId" : 15145, "CreatTime" : 1476705244, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "5800bfcb6341980c207fe91a", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6695, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductCount" : 1, "CartId" : "5804bb7f63419812f8557c9f", "PricesAll" : { "Normal" : 25, "Market" : "31.6" } }, { "id" : "58006a0e6341980624c365db", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductName" : "红心猕猴桃6个装25", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "红心猕猴桃是一种可食用与药用为一体的水果，每100克鲜果肉含维生素C100—420毫克，比柑橘高5—10倍，比柠檬高11—13倍，比苹果高20—80倍。红心猕猴桃果肉细嫩、香气浓郁、口感香甜清爽、酸度极低，营养丰富，被称为“果中之王”、“维C之王”。红心猕猴桃是通过对野生猕猴桃实生单株选育而成的一种稀有优良品种，果实中大、整齐。常食用红心猕猴桃对人体有保健、美容、排毒、抗癌的功效。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6559, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductCount" : 1, "CartId" : "5804bba563419812f8557ca0", "PricesAll" : { "Normal" : 25, "Market" : "30" } }, { "id" : "580061cc6341980624c365d1", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductName" : "新疆库尔勒香梨3斤装19.9元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "新疆库尔勒香梨是一个地域性极强的名优品种，也是新疆库尔勒甚至全国最优异的地方梨品种之一。香梨果皮薄，质脆，果肉白色，肉质细嫩，石细胞少，坚硬，多汁味甜，近果心处略酸，香味浓郁，一般栽后四年开花结果。新疆库尔勒香梨有一个独有的特征，那就是有公母之分，母梨尾部凹陷，形成圆窝状；公梨尾部外凸，形成突出状，肉粗核大。新疆库尔勒香梨在汉唐时期就通过“丝绸之路”传入印度，被誉为“西域圣果”。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6393, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductCount" : 1, "CartId" : "5804bafa63419812f8557c9b", "PricesAll" : { "Normal" : 19.8, "Market" : "27" } }, { "id" : "580058ed6341980624c365c2", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductName" : "新疆西州蜜1个装（约4-5斤）19.8元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "1、西州蜜味甘、性寒，具有宁心神、疗饥、利便、益气、清肺热、止咳的功效。\r\n　　2、西州蜜果肉有利小便、止渴、除烦热、防暑气等作用，可治热感、中暑、口渴、尿路感染、口面疮等。\r\n　　3、西州蜜富含维生素A、B、C族维生素，能确保机体保持正常新陈代谢的需要，缓解人的身心疲惫。\r\n　　4、西州蜜有丰富的膳食纤维，能有效促进肠胃蠕动排毒，帮助人体润肠通便。\r\n　　5、西州蜜中含有大量的抗氧化剂，能够抵抗对细胞造成伤害的氧自由基，有延缓衰老、皮肤美白之功效。 6、西州蜜含有大量的铁，比鸡肉多2-3倍，比牛奶高17倍，能增强人体造血功能，很适合贫血患者食用。\r\n", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6238, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductCount" : 1, "CartId" : "5804baed63419812f8557c9a", "PricesAll" : { "Normal" : 19.8, "Market" : "30" } }] }], "Count" : 1 }
+
+执行日期：20161017195423
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.019214
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bbdc63419812f8557ca1", "OrderType" : 1, "ProductId" : [6559, 6695, 6393, 6238], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 89.6, "OrderId" : 15145, "OrderStatus" : 1 }, { "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 5 }], "Count" : 3 }
+
+执行日期：20161017195532
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?~OrderId=DESC&@OrderId&$Limit=1
+超时时间:5
+处理时间:0.022096
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bbdc63419812f8557ca1", "OrderId" : 15145 }], "Count" : 519 }
+
+执行日期：20161017195532
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15177&UserId=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.024201
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bc3463419812f8557ca3", "ShopId" : "580181aa6341980c207fe970", "ShopName" : "零食小铺", "UserId" : "57fa0edd63419a1540e8632c", "CityCode" : 430700, "CityName" : "常德市", "OrderType" : 1, "ProductId" : [6904], "ProductRealId" : ["\"58018a706341980c207fe975\""], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-15/d55c587b828dc2b8954b993921d1248b.jpg", "ProductName" : "澳牧儿童成长牛奶200ml*15盒 澳大利亚原装进口正品行货调制乳118元", "Prices" : 118, "PricesAll" : { "Normal" : 118, "Market" : "138" }, "DeliverAddress" : "湖南省常德市东城尚品小区", "Description" : " 澳大利亚肥沃的土壤，适宜的气候，让奶牛生活的有滋有味，带来新鲜奶源。澳牧始终细心挑选奶源，监督生产环节。\r\n澳牧的品牌目标是把在澳大利亚采集以及生产的产品带到消费者的生活，使澳牧食品成为我们每天生活的可能。\r\n", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476524939887", "RealName" : "周敏", "Mobile" : "13786650445", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品8栋", "Type" : null, "RealAddress" : "湖南省常德市武陵区人民东路东城尚品8栋" }, "ProductFee" : 118, "freightFee" : 0, "OrderFee" : 118, "OrderId" : 15177, "CreatTime" : 1476705332, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "58018a706341980c207fe975", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-15/d55c587b828dc2b8954b993921d1248b.jpg", "ProductName" : "澳牧儿童成长牛奶200ml*15盒 澳大利亚原装进口正品行货调制乳118元", "Prices" : 118, "freightAmout" : 0, "DeliverAddress" : "湖南省常德市东城尚品小区", "Description" : " 澳大利亚肥沃的土壤，适宜的气候，让奶牛生活的有滋有味，带来新鲜奶源。澳牧始终细心挑选奶源，监督生产环节。\r\n澳牧的品牌目标是把在澳大利亚采集以及生产的产品带到消费者的生活，使澳牧食品成为我们每天生活的可能。\r\n", "ShopId" : "580181aa6341980c207fe970", "ShopName" : "零食小铺", "ProductId" : 6904, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-15/d55c587b828dc2b8954b993921d1248b.jpg", "ProductCount" : 1, "CartId" : "5804bb1a63419812f8557c9c", "PricesAll" : { "Normal" : 118, "Market" : "138" } }] }], "Count" : 1 }
+
+执行日期：20161017195809
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57fa0edd63419a1540e8632c&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.016705
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bc3463419812f8557ca3", "OrderType" : 1, "ProductId" : [6904], "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-15/d55c587b828dc2b8954b993921d1248b.jpg", "ProductName" : "澳牧儿童成长牛奶200ml*15盒 澳大利亚原装进口正品行货调制乳118元", "Prices" : 118, "PricesAll" : { "Normal" : 118, "Market" : "138" }, "DeliverAddress" : "湖南省常德市东城尚品小区", "Description" : " 澳大利亚肥沃的土壤，适宜的气候，让奶牛生活的有滋有味，带来新鲜奶源。澳牧始终细心挑选奶源，监督生产环节。\r\n澳牧的品牌目标是把在澳大利亚采集以及生产的产品带到消费者的生活，使澳牧食品成为我们每天生活的可能。\r\n", "ProductType" : 1 }, "OrderFee" : 118, "OrderId" : 15177, "OrderStatus" : 3 }, { "id" : "5804bbdc63419812f8557ca1", "OrderType" : 1, "ProductId" : [6559, 6695, 6393, 6238], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 89.6, "OrderId" : 15145, "OrderStatus" : 1 }, { "id" : "5801fcc86341980c207fea17", "OrderType" : 1, "ProductId" : [5882, 6067], "ProductCount" : 2, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/fe67e60ad153603687e659414519db26.jpg", "ProductName" : "鲜美滋平和红心柚（单个约重2.5斤）2个装32.8元", "Prices" : 32.8, "PricesAll" : { "Normal" : 32.8, "Market" : "45" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "　蛇果，其实与蛇一点关系没有，它被音译为\"红地厘蛇果\"后面就演变成蛇果了，果实大，果实圆锥形，平均单果重200g，大者可达500g以上。果肉黄白色，肉质脆，质中粗，较脆，果汁多，味甜，可溶性固形物14%，有浓郁的芳香，品质上等。具有生津开胃，消痰止咳，退热解毒，补脑养血，安眠养神，润肺悦心，和脾益气，润肠止泻，帮助消化等功效", "ProductType" : 1 }, "OrderFee" : 88.8, "OrderId" : 13629, "OrderStatus" : 5 }, { "id" : "5801fbbc6341980c207fea08", "OrderType" : 1, "ProductId" : [6238, 6324, 6393, 6695, 6559], "ProductCount" : 5, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "OrderFee" : 128.4, "OrderId" : 13601, "OrderStatus" : 5 }], "Count" : 4 }
+
+执行日期：20161017195812
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?OrderId=15145&UserId=57fa0edd63419a1540e8632c&$Limit=1
+超时时间:5
+处理时间:0.028182
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "5804bbdc63419812f8557ca1", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "UserId" : "57fa0edd63419a1540e8632c", "CityCode" : 430700, "CityName" : "常德市", "OrderType" : 1, "ProductId" : [6559, 6695, 6393, 6238], "ProductRealId" : ["\"58006a0e6341980624c365db\"", "\"5800bfcb6341980c207fe91a\"", "\"580061cc6341980624c365d1\"", "\"580058ed6341980624c365c2\""], "ProductCount" : 4, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "PricesAll" : { "Normal" : 25, "Market" : "31.6" }, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ProductType" : 1 }, "Remark" : "", "DeliveryInfo" : { "AddressId" : "add_1476524939887", "RealName" : "周敏", "Mobile" : "13786650445", "ProviceCode" : "430000", "ProviceName" : "湖南省", "CityCode" : "430700", "CityName" : "常德市", "DistrictCode" : "430702", "DistrictName" : "武陵区", "Address" : "人民东路东城尚品8栋", "Type" : null, "RealAddress" : "湖南省常德市武陵区人民东路东城尚品8栋" }, "ProductFee" : 89.6, "freightFee" : 0, "OrderFee" : 89.6, "OrderId" : 15145, "CreatTime" : 1476705244, "OrderStatus" : 1, "PayStatus" : "未支付", "ProductList" : [{ "id" : "5800bfcb6341980c207fe91a", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductName" : "特级圆栗2斤装25元", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "板栗的功效与作用\r\n1.抗衰老\r\n栗子中所含的丰富的不饱和脂肪酸和维生素、矿物质，能防治高血压病、冠心病、动脉硬化、骨质疏等疾病，是抗衰老、延年益寿的滋补佳品。\r\n2.小儿口舌生疮\r\n栗子含有核黄素，常吃栗子对日久难愈的小儿口舌生疮和成人口腔溃疡有益。\r\n3.老年人的食用佳品\r\n栗子含有丰富的维生素C，能够维持牙齿、骨骼、血管肌肉的正常功用，可以预防和治疗骨质疏松，腰腿酸软，筋骨疼痛、乏力等，延缓人体衰老，是老年人理想的保健果品。\r\n4.益气健脾\r\n栗子是碳水化合物含量较高的干果品种，能供给人体较多的热能，并能帮助脂肪代谢，具有益气健脾，厚补胃肠的作用。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6695, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/52dc640c39ed0218e7fc7f0494f9c722.jpg", "ProductCount" : 1, "CartId" : "5804bb7f63419812f8557c9f", "PricesAll" : { "Normal" : 25, "Market" : "31.6" } }, { "id" : "58006a0e6341980624c365db", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductName" : "红心猕猴桃6个装25", "Prices" : 25, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "红心猕猴桃是一种可食用与药用为一体的水果，每100克鲜果肉含维生素C100—420毫克，比柑橘高5—10倍，比柠檬高11—13倍，比苹果高20—80倍。红心猕猴桃果肉细嫩、香气浓郁、口感香甜清爽、酸度极低，营养丰富，被称为“果中之王”、“维C之王”。红心猕猴桃是通过对野生猕猴桃实生单株选育而成的一种稀有优良品种，果实中大、整齐。常食用红心猕猴桃对人体有保健、美容、排毒、抗癌的功效。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6559, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/dde7bceef2a2e4a37721b3dc60786e02.jpg", "ProductCount" : 1, "CartId" : "5804bba563419812f8557ca0", "PricesAll" : { "Normal" : 25, "Market" : "30" } }, { "id" : "580061cc6341980624c365d1", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductName" : "新疆库尔勒香梨3斤装19.9元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "新疆库尔勒香梨是一个地域性极强的名优品种，也是新疆库尔勒甚至全国最优异的地方梨品种之一。香梨果皮薄，质脆，果肉白色，肉质细嫩，石细胞少，坚硬，多汁味甜，近果心处略酸，香味浓郁，一般栽后四年开花结果。新疆库尔勒香梨有一个独有的特征，那就是有公母之分，母梨尾部凹陷，形成圆窝状；公梨尾部外凸，形成突出状，肉粗核大。新疆库尔勒香梨在汉唐时期就通过“丝绸之路”传入印度，被誉为“西域圣果”。", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6393, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/6d00b2962eacddd35fe361bab1d98269.jpg", "ProductCount" : 1, "CartId" : "5804bafa63419812f8557c9b", "PricesAll" : { "Normal" : 19.8, "Market" : "27" } }, { "id" : "580058ed6341980624c365c2", "ProductType" : 1, "ImageMin" : "http://adm.pingoing.cn/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductName" : "新疆西州蜜1个装（约4-5斤）19.8元", "Prices" : 19.8, "freightAmout" : 5, "DeliverAddress" : "湖南省常德市人民东路东城尚品", "Description" : "1、西州蜜味甘、性寒，具有宁心神、疗饥、利便、益气、清肺热、止咳的功效。\r\n　　2、西州蜜果肉有利小便、止渴、除烦热、防暑气等作用，可治热感、中暑、口渴、尿路感染、口面疮等。\r\n　　3、西州蜜富含维生素A、B、C族维生素，能确保机体保持正常新陈代谢的需要，缓解人的身心疲惫。\r\n　　4、西州蜜有丰富的膳食纤维，能有效促进肠胃蠕动排毒，帮助人体润肠通便。\r\n　　5、西州蜜中含有大量的抗氧化剂，能够抵抗对细胞造成伤害的氧自由基，有延缓衰老、皮肤美白之功效。 6、西州蜜含有大量的铁，比鸡肉多2-3倍，比牛奶高17倍，能增强人体造血功能，很适合贫血患者食用。\r\n", "ShopId" : "57fe29e36341981a98fd1ced", "ShopName" : "果然好", "ProductId" : 6238, "ProductTypeMsg" : "普通商品", "ProductTypeShow" : "", "ImageMinReal" : "/data/images/product/2016-10-14/b73ed5e684557accb6c05a29c2d53675.jpg", "ProductCount" : 1, "CartId" : "5804baed63419812f8557c9a", "PricesAll" : { "Normal" : 19.8, "Market" : "30" } }] }], "Count" : 1 }
+
+执行日期：20161017210708
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=57f3a7196341980134260124&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.023848
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "57ff9ee86341980624c3655e", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13281, "OrderStatus" : 4 }, { "id" : "57ff9eba6341980624c3655d", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13248, "OrderStatus" : 6 }, { "id" : "57ff9e786341980624c3655c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13215, "OrderStatus" : 6 }, { "id" : "57ff9e276341980624c3654c", "OrderType" : 1, "ProductId" : 3667, "ProductCount" : 1, "ProductInfo" : { "ImageMin" : "/data/images/product/2016-10-10/ebfd0d5a50e976415ca60ed90cee921a.jpg", "ProductName" : "福建平和白心密柚2个10.9元", "Prices" : 10.9, "PricesAll" : { "Normal" : 10.9, "Market" : "18" }, "DeliverAddress" : "湖北省武汉市江汉区", "Description" : "两个约4-5斤；琯溪蜜柚“性平，味甘微酸，具有消食和胃，理气化痰，生泽止渴”的性能，对气滞腹胀、痰多色白、咳嗽喉痒、消化不良、便秘、醒酒解毒等【同城配送、坏果包赔】", "ProductType" : 1 }, "OrderFee" : 16.9, "OrderId" : 13189, "OrderStatus" : 6 }], "Count" : 4 }
+
+执行日期：20161017225353
+接口路径:http://api.pingoing.cn/restful.PYX3_Order.Query?UserId=5804e5f763419812f8557ccd&~OrderId=DESC&@OrderId&@ProductCount&@ProductInfo&@ProductId&@OrderFee&@OrderStatus&@TeamId&@OrderType
+超时时间:5
+处理时间:0.010598
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [], "Count" : 0 }
+

@@ -1,0 +1,18 @@
+执行日期：20161029175439
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?UserId=58146e686341980de44b58d0&Select==0
+超时时间:5
+处理时间:0.024186
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299, "Select" : 0 }, { "id" : "581470196341980de44b58d4", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477734426, "Select" : 0 }] }
+
+执行日期：20161029175439
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=581470196341980de44b58d4&Select==1
+超时时间:5
+处理时间:0.020224
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "581470196341980de44b58d4", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson 拼一下store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 9955, "ProductRealId" : "5805df216341981d8c43da85", "ProductCount" : 1, "creatTime" : 1477734426, "Select" : 1 }] }
+
+执行日期：20161029175439
+接口路径:http://api.pingoing.cn/restful.PYX3_Cart.Update?&id=58146f9a6341980de44b58d3&Select==1
+超时时间:5
+处理时间:0.009182
+返回参数:{ "Code" : 0, "Message" : null, "IsSuccess" : true, "Result" : [{ "id" : "58146f9a6341980de44b58d3", "CityCode" : [310100, 321100, 441300, 310100], "CityName" : "上海市", "UserId" : "58146e686341980de44b58d0", "ShopName" : "Wilson store", "ShopId" : "", "ShopRealId" : "57ef4c8c634199034056b774", "ProductId" : 1168, "ProductRealId" : "57f48c30634198108863c172", "ProductCount" : 1, "creatTime" : 1477734299, "Select" : 1 }] }
+
