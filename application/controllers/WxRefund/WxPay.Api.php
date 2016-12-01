@@ -138,7 +138,7 @@ class WxPayApi
 	 * @throws WxPayException
 	 * @return 成功时返回，其他抛异常
 	 */
-	public static function refund($inputObj, $timeOut = 6)
+	public static function refund($inputObj, $timeOut = 60)
 	{
 		$url = "https://api.mch.weixin.qq.com/secapi/pay/refund";
 		//检测必填参数
